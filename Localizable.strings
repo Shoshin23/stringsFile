@@ -37,7 +37,7 @@
 "voiceOver_train" = "What would you like to train?";
 "voiceOver_person" = "Teach a face.";
 "voiceOver_object" = "Teach an object.";
-"voiceOver_library" = "Open library.";
+"voiceOver_library" = "Open library";
 "voiceOver_takePhotoButton" = "Take Photo.";
 "voiceOver_countdown" = "Add 5 more images.";
 "voiceOver_DoneButton" = "Done taking photos.";
