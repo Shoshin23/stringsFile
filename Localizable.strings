@@ -31,11 +31,11 @@
 "voiceOver_GeneralRecognition" = "General Recognition";
 "voiceOver_HelpSettings" = "Help and Settings";
 "voiceOver_startLiveText" = "Start reading text";
-"voiceOver_stopLiveText" "Stop reading text"
+"voiceOver_stopLiveText" "Stop reading text";
 "voiceOver_scanDocumentsButton" = "Read Document";
 "voiceOver_tapView" = "Describe Scene";
 "voiceOver_trainButtonMessage" = "Teach Faces and Objects";
-"voiceOver_Export" = "Export Text"
+"voiceOver_Export" = "Export Text";
 
 
 //Teaching strings
@@ -49,8 +49,8 @@
 "voiceOver_DoneButton" = "Done taking photos.";
 "voiceOver_enter" = "Enter name";
 "voiceOver_success" = "Teaching successful";
-"voiceOver_SwitchToFront" = "Switch to Front Camera"
-"voiceOver_SwitchToBack" = "Switch to Back Camera"
+"voiceOver_SwitchToFront" = "Switch to Front Camera";
+"voiceOver_SwitchToBack" = "Switch to Back Camera";
 
 //Help and Settings Strings
 

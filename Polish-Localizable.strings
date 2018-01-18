@@ -12,6 +12,9 @@
 //Login Strings
 
 "login_please" = "Zaloguj się używając jednej z możliwości:";
+"voiceOver_Facebook" = "Zaloguj się za pomocą Facebook";
+"voiceOver_Twitter" = "Zaloguj się za pomocą Twitter";
+"voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
 
 
@@ -26,12 +29,15 @@
 
 //VoiceOver strings
 
-"voiceOver_performOCRButton" = "Rozpocznij czytanie tekstu.";
-"voiceOver_performOCRButton" = "Przestań czytanie tekstu";
+"voiceOver_TextRecognition" = "Rozpoznawanie tekstu";
+"voiceOver_GeneralRecognition" = "Rozpoznawanie Ogólne";
+"voiceOver_HelpSettings" = "Pomoc";
+"voiceOver_startLiveText" = "Rozpocznij czytanie tekstu.";
+"voiceOver_stopLiveText" = "Przestań czytanie tekstu";
 "voiceOver_scanDocumentsButton" = "Czytaj dokument.";
 "voiceOver_tapView" = "Opisz scenę.";
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
-
+"voiceOver_Export" = "Eksportuj tekst";
 
 //Teaching strings
 
@@ -44,6 +50,8 @@
 "voiceOver_DoneButton" = "Zakończ robienie zdjęć.";
 "voiceOver_enter" = "Wprowadź nazwę.";
 "voiceOver_success" = "Nauczanie zakończone powodzeniem.";
+"voiceOver_SwitchToFront" = "Przełącz na przednią kamerę";
+"voiceOver_SwitchToBack" = "Przełącz na tylnią kamerę";
 
 //Help and Settings Strings
 
@@ -69,3 +77,5 @@
 "voiceOver_shareScreenDetail" = "Wszystkie zdjęcia z dowolnej aplikacji zostaną opisane, odczytane i zapisane wybierając opcje Envision z udostępnionego arkusza zdjęć.";
 "voiceOver_finalScreenHeading" = "Wkrótce więcej";
 "voiceOver_finalScreenDetail" = "Nowe funkcje, ulepszenia i działania są stale dodawane do usługi.";
+"voiceOver_skip" = "Pomiń";
+"voiceOver_Login"= "Zaloguj Się";
