@@ -1,10 +1,12 @@
-/* 
-  Localizable.strings
-  EnvisionBeta
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V. on 02/09/17.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
 
-  Created by Karthik Kannan on 02/09/17.
-  Copyright © 2017 Karthik Kannan. All rights reserved.
-*/
+
 "onboarding_trainButtonMessage" = "Tik hierop om Envision te trainen op gezichten en objecten.";
 "onboarding_tapViewMessage" = "Tik op ergens in het midden van het scherm om een foto te maken.";
 "onbarding_OCRButtonMessage" = "Raak deze knop aan om tekst op objecten te lezen.";

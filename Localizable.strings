@@ -7,11 +7,12 @@
  */
 
 
-//Walkthrough Strings
-
 //Login Strings
 
 "login_please" = "Please log in using one of the following ways:";
+"voiceOver_Facebook" = "Login with Facebook";
+"voiceOver_Twitter" = "Login with Twitter";
+"voiceOver_Email" = "Login with Email";
 "login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 
 
@@ -26,10 +27,15 @@
 
 //VoiceOver strings
 
-"voiceOver_performOCRButton" = "Start reading text";
+"voiceOver_TextRecognition" = "Text Recognition";
+"voiceOver_GeneralRecognition" = "General Recognition";
+"voiceOver_HelpSettings" = "Help and Settings";
+"voiceOver_startLiveText" = "Start reading text";
+"voiceOver_stopLiveText" "Stop reading text"
 "voiceOver_scanDocumentsButton" = "Read Document";
 "voiceOver_tapView" = "Describe Scene";
 "voiceOver_trainButtonMessage" = "Teach Faces and Objects";
+"voiceOver_Export" = "Export Text"
 
 
 //Teaching strings
@@ -43,6 +49,8 @@
 "voiceOver_DoneButton" = "Done taking photos.";
 "voiceOver_enter" = "Enter name";
 "voiceOver_success" = "Teaching successful";
+"voiceOver_SwitchToFront" = "Switch to Front Camera"
+"voiceOver_SwitchToBack" = "Switch to Back Camera"
 
 //Help and Settings Strings
 
@@ -58,6 +66,7 @@
 "voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
 
 //Walkthrough Strings
+
 "voiceOver_welcomeScreenHeading" = "Welcome to Envision";
 "voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
 "voiceOver_textScreenHeading" = "Read all kinds of texts";
@@ -68,3 +77,6 @@
 "voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
 "voiceOver_finalScreenHeading" = "A lot more to come";
 "voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
+"voiceOver_skip" = "Skip";
+"voiceOver_Login"= "Login";
+
