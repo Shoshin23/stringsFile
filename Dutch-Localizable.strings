@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  EnvisionBeta
+
+  Created by Karthik Kannan on 02/09/17.
+  Copyright © 2017 Karthik Kannan. All rights reserved.
+*/
+"onboarding_trainButtonMessage" = "Tik hierop om Envision te trainen op gezichten en objecten.";
+"onboarding_tapViewMessage" = "Tik op ergens in het midden van het scherm om een foto te maken.";
+"onbarding_OCRButtonMessage" = "Raak deze knop aan om tekst op objecten te lezen.";
+"onboarding_feedbackButton" = "Tik hier om terugkoppeling te geven";
+
+"voiceOver_train" = "Knop voor treinen Gezichten en objecten";
+"voiceOver_performOCRButton" = "Lees de knop Tekst";
+"voiceOver_feedbackButton" = "feedback sturen";
+"voiceOver_tapView" = "maak foto";
+"voiceOver_scanDocumentsButton" = "Documenten lezen";
+
+"voiceOver_imagePreview" = "Beelden voor training";
+"voiceOver_takePhotoButton" = "Een foto nemen";
+"voiceOver_DoneButton" = "Gereed het nemen van fotos";
+
+"voiceOver_person" = "Train uw vrienden gezichten.";
+"voiceOver_object" = "Trein objecten.";
+"voiceOver_back" = "Terugkeren naar het hoofdscherm.";

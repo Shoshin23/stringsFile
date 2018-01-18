@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  EnvisionBeta
+
+  Created by Karthik Kannan on 02/09/17.
+  Copyright © 2017 Karthik Kannan. All rights reserved.
+*/
+
+//Onboarding strings
+
+"onboarding_trainButtonMessage" = "Poklepejte sem pro učení nových obličejů nebo předmětů.";
+"onboarding_tapViewMessage" = "Poklepejte sem pro popis scény.";
+"onbarding_OCRButtonMessage" = "Poklepejte sem pro čtení textu v reálném čase.";
+"onboarding_feedbackButton" = "Poklepejte sem pro spuštění průvodce aplikací.";
+"onboarding_documentText" = "Poklepejte sem pro čtení dokumentů nebo dlouhého textu.";
+
+//Voiceover strings from the 2nd open.
+
+"voiceOver_trainButtonMessage" = "Naučit obličeje nebo předměty";
+"voiceOver_performOCRButton" = "Zapnout čtení textu v reálném čase";
+"voiceOver_feedbackButton" = "Nápověda a zpětná vazba";
+"voiceOver_tapView" = "Popsat scénu";
+"voiceOver_scanDocumentsButton" = "Přečíst dokument";
+
+//For train VC
+
+"voiceOver_imagePreview" = "snímků pro učení";
+"voiceOver_takePhotoButton" = "Vyfotit";
+"voiceOver_DoneButton" = "Dokončit focení";
+//For custom train choice VC
+
+"voiceOver_PersonButton" = "Naučit obličeje vašich přátel";
+"voiceOver_ObjectButton" = "Naučit předměty";
+"voiceOver_backToMainVC" = "Vrátit se na hlavní obrazovku";
+"voiceOver_trainingMessage" = "Co chcete aplikaci naučit?";
+
+//survey questions for visually impaired.
+"i_am_intro" = "";
+"visually_impaired" = "Jsem zrakově postižený";
+"sighted_users" = "Nejsem zrakově postižený";
+
+"percentage_vision_question" = "Kolik procent zraku máte?";
+"age_vision_question" = "Kolik je vám let?";
+
+
+
