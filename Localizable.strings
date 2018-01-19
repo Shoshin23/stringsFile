@@ -16,6 +16,7 @@
 "login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 
 
+
 //Onboarding strings
 
 "onbarding_OCRButtonMessage" = "Tap this button to start reading short pieces of text in real time.";
@@ -40,7 +41,7 @@
 
 //Teaching strings
 
-"voiceOver_train" = "What would you like to train?";
+"voiceOver_train" = "What would you like to teach?";
 "voiceOver_person" = "Teach a face.";
 "voiceOver_object" = "Teach an object.";
 "voiceOver_library" = "Open library";
@@ -68,7 +69,7 @@
 //Walkthrough Strings
 
 "voiceOver_welcomeScreenHeading" = "Welcome to Envision";
-"voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
+"voiceOver_welcomeScreenDetail" = "Envision is a service to convert images from your surrounding into accessible information.";
 "voiceOver_textScreenHeading" = "Read all kinds of texts";
 "voiceOver_textScreenDetail" = "Be it short pieces of text that need to be read in real time or longer texts in documents that need to be explored.";
 "voiceOver_recogniseHeading" = "Recognise people and objects";
@@ -78,5 +79,5 @@
 "voiceOver_finalScreenHeading" = "A lot more to come";
 "voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
 "voiceOver_Skip" = "Skip";
-"voiceOver_Login"= "Login";
-
+"voiceOver_Login" = "Login";
+"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";

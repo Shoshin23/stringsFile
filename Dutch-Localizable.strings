@@ -1,76 +1,78 @@
-/* 
-  Localizable.strings
-  EnvisionBeta
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V. on 02/09/17.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
 
-  Created by Karthik Kannan on 02/09/17.
-  Copyright © 2017 Karthik Kannan. All rights reserved.
 
-*/
 
 
 //Login Strings
-"login_please" = "Please log in using one of the following ways:";
-"voiceOver_Facebook" = "Login with Facebook";
-"voiceOver_Google" = "Login with Google";
-"voiceOver_Email" = "Login with Email";
-"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
+"login_please" = "Meld je aan via een van de volgende manieren";
+"voiceOver_Facebook" = "Aanmelden met Facebook";
+"voiceOver_Google" = "Aanmelden met Google";
+"voiceOver_Email" = "Aanmelden met Email";
+"login_terms" = "Door je aan te melden geef je aan dat je het Privacy Policy en Terms of Use hebt gelezen en hiermee akkoord gaat";
 
 // Onboarding Strings
-"onboarding_trainButtonMessage" = "Tik hierop om Envision te trainen op gezichten en objecten.";
-"onboarding_tapViewMessage" = "Tik op ergens in het midden van het scherm om een foto te maken.";
-"onbarding_OCRButtonMessage" = "Raak deze knop aan om tekst op objecten te lezen.";
-"onboarding_feedbackButton" = "Tik hier om terugkoppeling te geven";
+"onboarding_trainButtonMessage" = "Druk op deze knop om Envision nieuwe objecten en gezichten te leren";
+"onboarding_tapViewMessage" = "Druk op deze knop om een foto te maken en hem te laten beschrijven";
+"onbarding_OCRButtonMessage" = "Druk op deze knop om korte stukken tekst in ‘real time’ te lezen";
+"onboarding_feedbackButton" = "Druk op deze knop om de les over Envision te starten";
+"onboarding_documentText" = "Druk op deze knop om documenten te scannen en te lezen";
 
 
 //voiceOver Strings
-"voiceOver_TextRecognition" = "Text Recognition";
-"voiceOver_GeneralRecognition" = "General Recognition";
-"voiceOver_HelpSettings" = "Help and Settings";
-"voiceOver_startLiveText" = "Start reading text";
-"voiceOver_stopLiveText" = "Stop reading text";
-"voiceOver_performOCRButton" = "Lees de knop Tekst";
-"voiceOver_scanDocumentsButton" = "Documenten lezen";
-"voiceOver_tapView" = "maak foto";
-"voiceOver_trainButtonMessage" = "Knop voor treinen Gezichten en objecten";
-"voiceOver_Export" = "Export Text";
+"voiceOver_TextRecognition" = "Tekst Herkenning";
+"voiceOver_GeneralRecognition" = "Algemene Herkenning";
+"voiceOver_HelpSettings" = "Help en Instellingen";
+"voiceOver_startLiveText" = "Begin met lezen";
+"voiceOver_stopLiveText" = "Stop met lezen";
+"voiceOver_scanDocumentsButton" = "Lees document";
+"voiceOver_tapView" = "Beschrijf omgeving";
+"voiceOver_trainButtonMessage" = "Leer Envision gezichten en objecten herkennen";
+"voiceOver_Export" = "Aandelentekst";
 
 //Teaching Strings
-"voiceOver_train" = "What would you like to train?";
-"voiceOver_person" = "Train uw vrienden gezichten.";
-"voiceOver_object" = "Trein objecten.";
-"voiceOver_library" = "Open library.";
-"voiceOver_takePhotoButton" = "Een foto nemen";
-"voiceOver_DoneButton" = "Gereed het nemen van fotos";
-"voiceOver_enter" = "Enter name";
-"voiceOver_success" = "Teaching successful";
-"voiceOver_SwitchToFront" = "Switch to Front Camera";
-"voiceOver_SwitchToBack" = "Switch to Back Camera";
-
+"voiceOver_train" = "Wat zou je willen leren?";
+"voiceOver_person" = "Leer een gezicht";
+"voiceOver_object" = "Leer een object";
+"voiceOver_library" = "Open bibliotheek";
+"voiceOver_takePhotoButton" = "Maak foto";
+"voiceOver_DoneButton" = "Klaar met het nemen van foto’s";
+"voiceOver_enter" = "Vul naam in";
+"voiceOver_success" = "Envision heeft het geleerd";
+"voiceOver_SwitchToFront" = "Wissel naar camera aan de voorzijde";
+"voiceOver_SwitchToBack" = "Wissel naar camera aan de achterzijde";
+"voiceOver_countdown" = "Voeg 5 afbeeldingen toe";
 
 
 //Help and Settings Strings
 
-"voiceOver_Tutorials" = "Read tutorials";
-"voiceOver_Feedback" = "Give Feedback";
-"voiceOver_Book" = "Request a Call";
-"voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
-"voiceOver_Account" = "Account Details";
-"voiceOver_Subscription" = "Check Subscriptions";
-"voiceOver_About" = "About Envision";
-"voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
-"voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
-"voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
+"voiceOver_Tutorials" = "Lees lessen";
+"voiceOver_Feedback" = "Geef feedback";
+"voiceOver_Book" = "Vraag een telefoongesprek aan";
+"voiceOver_CallMessage" = "Als je met Envision tegen problemen aan loopt of je wilt verdere uitleg, dan kan je een telefoongesprek aanvragen. We zullen je dan persoonlijk bellen en het probleem oplossen.";
+"voiceOver_Account" = "Profiel details";
+"voiceOver_Subscription" = "Bekijk Abonnementen ";
+"voiceOver_About" = "Over Envision";
+"voiceOver_Disclaimer" = "Envision AI is niet altijd accuraat en moet daarom niet worden gebruikt in situaties die gevaarlijk kunnen zijn. Het is niet bedoelt voor de diagnose, behandeling  of controle van ziektes en aandoeningen. In het geval van medische klachten wordt aangeraden contact op te nemen met een arts. Het gebruik van Envision AI is op eigen risico.";
+"voiceOver_SubMessage" = "Wordt een gebruiker, lid en draag bij aan de verbetering van de Envision service door je te abonneren op een van de volgende abonnementen ";
+"voiceOver_SubAlert" = "Sorry je gratis proefperiode is afgelopen. Waarom abonneer je je niet op één van de voordelige abonnementen?";
 
 //Walkthrough Strings
-"voiceOver_welcomeScreenHeading" = "Welcome to Envision";
-"voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
-"voiceOver_textScreenHeading" = "Read all kinds of texts";
-"voiceOver_textScreenDetail" = "Be it short pieces of text that need to be read in real time or longer texts in documents that need to be explored.";
-"voiceOver_recogniseHeading" = "Recognise people and objects";
-"voiceOver_recogniseDetail" = "Have the scenes around you described to you including recognition of people and objects in it that you can train.";
-"voiceOver_shareScreenHeading" = "Envision all the photos";
-"voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
-"voiceOver_finalScreenHeading" = "A lot more to come";
-"voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
-"voiceOver_Skip" = "Skip";
-"voiceOver_Login"= "Login";
+"voiceOver_welcomeScreenHeading" = "Welkom bij Envision";
+"voiceOver_welcomeScreenDetail" = "Envision maakt afbeeldingen van je omgeving toegankelijk";
+"voiceOver_textScreenHeading" = "Lees allerlei soorten tekst ";
+"voiceOver_textScreenDetail" = "Dit kunnen korte stukken tekst zijn die je in ‘real time’ wilt lezen of langere documenten waar je doorheen wilt navigeren.";
+"voiceOver_recogniseHeading" = "Herken mensen en objecten";
+"voiceOver_recogniseDetail" = "Laat Envision je de omgeving beschrijven en maak het persoonlijk door Envision je vrienden en objecten te leren ";
+"voiceOver_shareScreenHeading" = "Envision alle foto's";
+"voiceOver_shareScreenDetail" = "Maak elke foto uit elke app toegankelijk door hem te delen met Envision";
+"voiceOver_finalScreenHeading" = "En er komt nog veel meer";
+"voiceOver_finalScreenDetail" = "Nieuwe functies en verbeteringen worden constant aan Envision toegevoegd";
+"voiceOver_Skip" = "Sla over";
+"voiceOver_Login"= "Aanmelden";
+"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
