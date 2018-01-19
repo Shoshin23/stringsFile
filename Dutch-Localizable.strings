@@ -1,27 +1,76 @@
-/*
- Localizable.strings
- EnvisionBeta
- 
- Created by Envision Tecnologies B.V. on 02/09/17.
- Copyright © 2017 Envision Technologies B.V. All rights reserved.
- */
+/* 
+  Localizable.strings
+  EnvisionBeta
+
+  Created by Karthik Kannan on 02/09/17.
+  Copyright © 2017 Karthik Kannan. All rights reserved.
+
+*/
 
 
+//Login Strings
+"login_please" = "Please log in using one of the following ways:";
+"voiceOver_Facebook" = "Login with Facebook";
+"voiceOver_Google" = "Login with Google";
+"voiceOver_Email" = "Login with Email";
+"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
+
+// Onboarding Strings
 "onboarding_trainButtonMessage" = "Tik hierop om Envision te trainen op gezichten en objecten.";
 "onboarding_tapViewMessage" = "Tik op ergens in het midden van het scherm om een foto te maken.";
 "onbarding_OCRButtonMessage" = "Raak deze knop aan om tekst op objecten te lezen.";
 "onboarding_feedbackButton" = "Tik hier om terugkoppeling te geven";
 
-"voiceOver_train" = "Knop voor treinen Gezichten en objecten";
+
+//voiceOver Strings
+"voiceOver_TextRecognition" = "Text Recognition";
+"voiceOver_GeneralRecognition" = "General Recognition";
+"voiceOver_HelpSettings" = "Help and Settings";
+"voiceOver_startLiveText" = "Start reading text";
+"voiceOver_stopLiveText" = "Stop reading text";
 "voiceOver_performOCRButton" = "Lees de knop Tekst";
-"voiceOver_feedbackButton" = "feedback sturen";
-"voiceOver_tapView" = "maak foto";
 "voiceOver_scanDocumentsButton" = "Documenten lezen";
+"voiceOver_tapView" = "maak foto";
+"voiceOver_trainButtonMessage" = "Knop voor treinen Gezichten en objecten";
+"voiceOver_Export" = "Export Text";
 
-"voiceOver_imagePreview" = "Beelden voor training";
-"voiceOver_takePhotoButton" = "Een foto nemen";
-"voiceOver_DoneButton" = "Gereed het nemen van fotos";
-
+//Teaching Strings
+"voiceOver_train" = "What would you like to train?";
 "voiceOver_person" = "Train uw vrienden gezichten.";
 "voiceOver_object" = "Trein objecten.";
-"voiceOver_back" = "Terugkeren naar het hoofdscherm.";
+"voiceOver_library" = "Open library.";
+"voiceOver_takePhotoButton" = "Een foto nemen";
+"voiceOver_DoneButton" = "Gereed het nemen van fotos";
+"voiceOver_enter" = "Enter name";
+"voiceOver_success" = "Teaching successful";
+"voiceOver_SwitchToFront" = "Switch to Front Camera";
+"voiceOver_SwitchToBack" = "Switch to Back Camera";
+
+
+
+//Help and Settings Strings
+
+"voiceOver_Tutorials" = "Read tutorials";
+"voiceOver_Feedback" = "Give Feedback";
+"voiceOver_Book" = "Request a Call";
+"voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
+"voiceOver_Account" = "Account Details";
+"voiceOver_Subscription" = "Check Subscriptions";
+"voiceOver_About" = "About Envision";
+"voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
+"voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
+"voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
+
+//Walkthrough Strings
+"voiceOver_welcomeScreenHeading" = "Welcome to Envision";
+"voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
+"voiceOver_textScreenHeading" = "Read all kinds of texts";
+"voiceOver_textScreenDetail" = "Be it short pieces of text that need to be read in real time or longer texts in documents that need to be explored.";
+"voiceOver_recogniseHeading" = "Recognise people and objects";
+"voiceOver_recogniseDetail" = "Have the scenes around you described to you including recognition of people and objects in it that you can train.";
+"voiceOver_shareScreenHeading" = "Envision all the photos";
+"voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
+"voiceOver_finalScreenHeading" = "A lot more to come";
+"voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
+"voiceOver_Skip" = "Skip";
+"voiceOver_Login"= "Login";

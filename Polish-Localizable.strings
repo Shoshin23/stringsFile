@@ -13,7 +13,7 @@
 
 "login_please" = "Zaloguj się używając jednej z możliwości:";
 "voiceOver_Facebook" = "Zaloguj się za pomocą Facebook";
-"voiceOver_Twitter" = "Zaloguj się za pomocą Twitter";
+"voiceOver_Google" = "Zaloguj się za pomocą Google";
 "voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
 
@@ -28,7 +28,6 @@
 
 
 //VoiceOver strings
-
 "voiceOver_TextRecognition" = "Rozpoznawanie tekstu";
 "voiceOver_GeneralRecognition" = "Rozpoznawanie Ogólne";
 "voiceOver_HelpSettings" = "Pomoc";
@@ -38,6 +37,8 @@
 "voiceOver_tapView" = "Opisz scenę.";
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
 "voiceOver_Export" = "Eksportuj tekst";
+
+
 
 //Teaching strings
 
@@ -77,5 +78,6 @@
 "voiceOver_shareScreenDetail" = "Wszystkie zdjęcia z dowolnej aplikacji zostaną opisane, odczytane i zapisane wybierając opcje Envision z udostępnionego arkusza zdjęć.";
 "voiceOver_finalScreenHeading" = "Wkrótce więcej";
 "voiceOver_finalScreenDetail" = "Nowe funkcje, ulepszenia i działania są stale dodawane do usługi.";
-"voiceOver_skip" = "Pomiń";
+"voiceOver_Skip" = "Pomiń";
 "voiceOver_Login"= "Zaloguj Się";
+
