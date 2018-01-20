@@ -37,8 +37,8 @@
 
 //Teaching Strings
 "voiceOver_train" = "Wat zou je willen leren?";
-"voiceOver_person" = "Leer een gezicht";
-"voiceOver_object" = "Leer een object";
+"voiceOver_person" = "Leer Envision een nieuw gezicht";
+"voiceOver_object" = "Leer Envision een nieuw object";
 "voiceOver_library" = "Open bibliotheek";
 "voiceOver_takePhotoButton" = "Maak foto";
 "voiceOver_DoneButton" = "Klaar met het nemen van foto’s";
@@ -51,7 +51,7 @@
 
 //Help and Settings Strings
 
-"voiceOver_Tutorials" = "Lees lessen";
+"voiceOver_Tutorials" = "Tutorial";
 "voiceOver_Feedback" = "Geef feedback";
 "voiceOver_Book" = "Vraag een telefoongesprek aan";
 "voiceOver_CallMessage" = "Als je met Envision tegen problemen aan loopt of je wilt verdere uitleg, dan kan je een telefoongesprek aanvragen. We zullen je dan persoonlijk bellen en het probleem oplossen.";
