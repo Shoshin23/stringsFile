@@ -1,10 +1,10 @@
-/*
- Localizable.strings
- EnvisionBeta
- 
- Created by Karthik Kannan on 02/09/17.
- Copyright ֲ© 2017 Karthik Kannan. All rights reserved.
- */
+/* 
+  Localizable.strings
+  EnvisionBeta
+
+  Created by Karthik Kannan on 02/09/17.
+  Copyright © 2017 Karthik Kannan. All rights reserved.
+*/
 
 //Login Strings
 "login_please" = "Please log in using one of the following ways:";
@@ -13,36 +13,40 @@
 "voiceOver_Email" = "Login with Email";
 "login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 
-"onboarding_trainButtonMessage" = "הקש/י כאן ללימוד Envision אודות פנים וחפצים.";
-"onboarding_tapViewMessage" = "הקש/י בכל מקום במרכז המסך לצילום תמונה.";
-"onbarding_OCRButtonMessage" = "הקש/י על כפתור זה לקריאת מלל בזמן אמת.";
-"onboarding_documentText" = "הקש/י כאן לסריקת מסמכים או קריאת פריטי מלל ארוכים";
-
 //Onboarding strings
+"onboarding_trainButtonMessage" = "Tippen Sie hier, um Envision auf Gesichter und Objekte zu trainieren.";
+"onboarding_tapViewMessage" = "Tippen Sie auf eine beliebige Stelle in der Mitte des Bildschirms, um ein Foto zu erstellen.";
+"onbarding_OCRButtonMessage" = "Tippen Sie auf diese Schaltfläche, um eine Textstelle auf einem Objekt vorgelesen zu bekommen.";
+"onboarding_feedbackButton" = "Tippen Sie hier, um eine Kundenrezension zu verfassen.";
+"onboarding_documentText" = "Hier klicken, um Dokumente zu scannen oder lange Texte zu lesen";
+
+//Voiceover strings from the 2nd open.
 "voiceOver_TextRecognition" = "Text Recognition";
 "voiceOver_GeneralRecognition" = "General Recognition";
 "voiceOver_HelpSettings" = "Help and Settings";
 "voiceOver_startLiveText" = "Start reading text";
 "voiceOver_stopLiveText" = "Stop reading text";
-"voiceOver_performOCRButton" = "מצב מלל חי כבוי";
+"voiceOver_trainButtonMessage" = "Trainiere Gesichter und Objekte";
+"voiceOver_performOCRButton" = "Text vorlesen";
+"voiceOver_scanDocumentsButton" = "Dokumente lesen";
+"voiceOver_tapView" = "Foto erstellen";
 "voiceOver_Export" = "Export Text";
-"voiceOver_trainButtonMessage" = "לימוד פנים וחפצים";
-"voiceOver_tapView" = "צלם/י תמונה";
-"voiceOver_scanDocumentsButton" = "קריאת מסמכים";
 
-//Teaching Strings
-"voiceOver_person" = "לימוד פני חבריך.";
-"voiceOver_object" = "לימוד חפצים";
+
+//For train VC
+"voiceOver_train" = "What would you like to train?"
+"voiceOver_person" = "Trainiere die Gesichter deiner Freunde.";
+"voiceOver_object" = "Trainiere Objekte";
 "voiceOver_library" = "Open library.";
-"voiceOver_takePhotoButton" = "צלם/י תמונה";
-"voiceOver_DoneButton" = "סיום צילום תמונות";
+"voiceOver_takePhotoButton" = "Foto erstellen";
+"voiceOver_DoneButton" = "Foto erstellen abgeschlossen";
 "voiceOver_enter" = "Enter name";
+"voiceOver_countdown" = "Add 5 images."
 "voiceOver_success" = "Teaching successful";
 "voiceOver_SwitchToFront" = "Switch to Front Camera";
 "voiceOver_SwitchToBack" = "Switch to Back Camera";
 
 //Help and Settings Strings
-
 "voiceOver_Tutorials" = "Read tutorials";
 "voiceOver_Feedback" = "Give Feedback";
 "voiceOver_Book" = "Request a Call";
@@ -67,3 +71,4 @@
 "voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
 "voiceOver_Skip" = "Skip";
 "voiceOver_Login"= "Login";
+"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
