@@ -1,54 +1,56 @@
-/* 
-  Localizable.strings
-  EnvisionBeta
-
-  Created by Karthik Kannan on 02/09/17.
-  Copyright © 2017 Karthik Kannan. All rights reserved.
-*/
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V. on 02/09/17.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
 
 //Login Strings
-"login_please" = "Please log in using one of the following ways:";
-"voiceOver_Facebook" = "Login with Facebook";
-"voiceOver_Google" = "Login with Google";
-"voiceOver_Email" = "Login with Email";
-"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
+
+"login_please" = "Bitte loggen Sie sich auf eine der folgenden Weisen ein:";
+"voiceOver_Facebook" = "Anmelden mit Facebook";
+"voiceOver_Google" = "Anmelden mit Google";
+"voiceOver_Email" = "Anmelden mit Email";
+"login_terms" = "Indem Sie sich einloggen, geben Sie an, dass Sie die Privacy Policy und Terms of Use gelesen haben und damit einverstanden sind.";
 
 //Onboarding strings
-"onboarding_trainButtonMessage" = "Tippen Sie hier, um Envision auf Gesichter und Objekte zu trainieren.";
-"onboarding_tapViewMessage" = "Tippen Sie auf eine beliebige Stelle in der Mitte des Bildschirms, um ein Foto zu erstellen.";
+
 "onbarding_OCRButtonMessage" = "Tippen Sie auf diese Schaltfläche, um eine Textstelle auf einem Objekt vorgelesen zu bekommen.";
-"onboarding_feedbackButton" = "Tippen Sie hier, um eine Kundenrezension zu verfassen.";
 "onboarding_documentText" = "Hier klicken, um Dokumente zu scannen oder lange Texte zu lesen";
+"onboarding_tapViewMessage" = "Tippen Sie auf eine beliebige Stelle in der Mitte des Bildschirms, um ein Foto zu erstellen.";
+"onboarding_trainButtonMessage" = "Tippen Sie hier, um Envision auf Gesichter und Objekte zu trainieren.";
 
-//Voiceover strings from the 2nd open.
-"voiceOver_TextRecognition" = "Text Recognition";
-"voiceOver_GeneralRecognition" = "General Recognition";
-"voiceOver_HelpSettings" = "Help and Settings";
-"voiceOver_startLiveText" = "Start reading text";
-"voiceOver_stopLiveText" = "Stop reading text";
-"voiceOver_trainButtonMessage" = "Trainiere Gesichter und Objekte";
-"voiceOver_performOCRButton" = "Text vorlesen";
+//VoiceOver strings
+
+"voiceOver_TextRecognition" = "Texterkennung";
+"voiceOver_GeneralRecognition" = "Allgemeine Anerkennung";
+"voiceOver_HelpSettings" = "Hilfe und Einstellungen";
+"voiceOver_startLiveText" = "Beginnen Sie mit dem Lesen";
+"voiceOver_stopLiveText" = "Stoppen Sie das Lesen";
 "voiceOver_scanDocumentsButton" = "Dokumente lesen";
-"voiceOver_tapView" = "Foto erstellen";
-"voiceOver_Export" = "Export Text";
+"voiceOver_tapView" = "Szene beschreiben";
+"voiceOver_trainButtonMessage" = "Gesichter und Objekte lehren";
+"voiceOver_Export" = "Text exportieren";
 
+//Teaching strings
 
-//For train VC
-"voiceOver_train" = "What would you like to train?"
-"voiceOver_person" = "Trainiere die Gesichter deiner Freunde.";
-"voiceOver_object" = "Trainiere Objekte";
-"voiceOver_library" = "Open library.";
+"voiceOver_train" = "Was möchten Sie lehren?"
+"voiceOver_person" = "Gesichter lehren";
+"voiceOver_object" = "Objekt lehren";
+"voiceOver_library" = "Bibliothek öffnen";
 "voiceOver_takePhotoButton" = "Foto erstellen";
 "voiceOver_DoneButton" = "Foto erstellen abgeschlossen";
-"voiceOver_enter" = "Enter name";
-"voiceOver_countdown" = "Add 5 images."
-"voiceOver_success" = "Teaching successful";
-"voiceOver_SwitchToFront" = "Switch to Front Camera";
-"voiceOver_SwitchToBack" = "Switch to Back Camera";
+"voiceOver_enter" = "Name eingeben";
+"voiceOver_countdown" = "Hinzufügen von 5 Bildern."
+"voiceOver_success" = "Erfolgreich";
+"voiceOver_SwitchToFront" = "Umschalten auf Frontkamera";
+"voiceOver_SwitchToBack" = "Umschalten auf Rückfahrkamera";
 
 //Help and Settings Strings
-"voiceOver_Tutorials" = "Read tutorials";
-"voiceOver_Feedback" = "Give Feedback";
+
+"voiceOver_Tutorials" = "Lesen tutorials";
+"voiceOver_Feedback" = "Geben Feedback";
 "voiceOver_Book" = "Request a Call";
 "voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
 "voiceOver_Account" = "Account Details";
@@ -59,6 +61,7 @@
 "voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
 
 //Walkthrough Strings
+
 "voiceOver_welcomeScreenHeading" = "Welcome to Envision";
 "voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
 "voiceOver_textScreenHeading" = "Read all kinds of texts";
@@ -69,6 +72,6 @@
 "voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
 "voiceOver_finalScreenHeading" = "A lot more to come";
 "voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
-"voiceOver_Skip" = "Skip";
-"voiceOver_Login"= "Login";
+"voiceOver_Skip" = "Seilhüpfen";
+"voiceOver_Login"= "Anmelden";
 "voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
