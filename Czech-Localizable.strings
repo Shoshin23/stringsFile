@@ -1,74 +1,77 @@
-/* 
-  Localizable.strings
-  EnvisionBeta
-
-  Created by Karthik Kannan on 02/09/17.
-  Copyright © 2017 Karthik Kannan. All rights reserved.
-*/
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V. on 02/09/17.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
 
 //Login Strings
-"login_please" = "Please log in using one of the following ways:";
-"voiceOver_Facebook" = "Login with Facebook";
-"voiceOver_Google" = "Login with Google";
-"voiceOver_Email" = "Login with Email";
-"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
+
+"login_please" = "Prosím přihlaste se jedním z následujících způsobů:";
+"voiceOver_Facebook" = "Přihlásit se pomocí Facebook";
+"voiceOver_Google" = "Přihlásit se pomocí Google";
+"voiceOver_Email" = "Přihlásit se pomocí Email";
+"login_terms" = "Přihlášením vyjadřujete souhlas, že jste si přečetli, a že schvalujete Privacy Policy a Terms of Use";
 
 //Onboarding strings
 
-"onboarding_trainButtonMessage" = "Poklepejte sem pro učení nových obličejů nebo předmětů.";
-"onboarding_tapViewMessage" = "Poklepejte sem pro popis scény.";
-"onbarding_OCRButtonMessage" = "Poklepejte sem pro čtení textu v reálném čase.";
+"onboarding_OCRButtonMessage" = "Poklepejte sem pro čtení textu v reálném čase.";
 "onboarding_documentText" = "Poklepejte sem pro čtení dokumentů nebo dlouhého textu.";
+"onboarding_tapViewMessage" = "Poklepejte sem pro popis scény.";
+"onboarding_trainButtonMessage" = "Poklepejte sem pro učení nových obličejů nebo předmětů.";
 
-//Voiceover strings from the 2nd open.
-"voiceOver_TextRecognition" = "Text Recognition";
-"voiceOver_GeneralRecognition" = "General Recognition";
-"voiceOver_HelpSettings" = "Help and Settings";
-"voiceOver_startLiveText" = "Start reading text";
-"voiceOver_stopLiveText" = "Stop reading text";
-"voiceOver_trainButtonMessage" = "Naučit obličeje nebo předměty";
-"voiceOver_performOCRButton" = "Zapnout čtení textu v reálném čase";
-"voiceOver_tapView" = "Popsat scénu";
+//Voiceover strings
+
+"voiceOver_TextRecognition" = "Rozpoznávání textu";
+"voiceOver_GeneralRecognition" = "Obecné rozpoznávání";
+"voiceOver_HelpSettings" = "Nápověda a nastavení";
+"voiceOver_startLiveText" = "Zapnout průběžné čtení textu";
+"voiceOver_stopLiveText" = "Vypnout průběžné čtení textu";
 "voiceOver_scanDocumentsButton" = "Přečíst dokument";
-"voiceOver_Export" = "Export Text";
+"voiceOver_tapView" = "Popsat scénu";
+"voiceOver_trainButtonMessage" = "Naučit obličeje nebo předměty";
+"voiceOver_Export" = "Sdílet text";
 
+//Teaching strings
 
-//For train VC
 "voiceOver_train" = "Co chcete aplikaci naučit?";
-"voiceOver_person" = "Naučit obličeje vašich přátel";
-"voiceOver_object" = "Vrátit se na hlavní obrazovku";
-"voiceOver_library" = "Open library.";
+"voiceOver_person" = "Naučit obličej";
+"voiceOver_object" = "Naučit předmět";
+"voiceOver_library" = "Otevřít knihovnu";
 "voiceOver_takePhotoButton" = "Vyfotit";
+"voiceOver_countdown" = "Vyfoťte ještě alespoň  5 snímků";
 "voiceOver_DoneButton" = "Dokončit focení";
-"voiceOver_enter" = "Enter name";
-"voiceOver_success" = "Teaching successful";
-"voiceOver_SwitchToFront" = "Switch to Front Camera";
-"voiceOver_SwitchToBack" = "Switch to Back Camera";
+"voiceOver_enter" = "Zadejte název";
+"voiceOver_success" = "Učení úspěšně dokončeno";
+"voiceOver_SwitchToFront" = "Přepnout na přední kameru";
+"voiceOver_SwitchToBack" = "Přepnout na zadní kameru";
 
 //Help and Settings Strings
 
-"voiceOver_Tutorials" = "Read tutorials";
-"voiceOver_Feedback" = "Give Feedback";
-"voiceOver_Book" = "Request a Call";
-"voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
-"voiceOver_Account" = "Account Details";
-"voiceOver_Subscription" = "Check Subscriptions";
-"voiceOver_About" = "About Envision";
-"voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
-"voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
-"voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
+"voiceOver_Tutorials" = "Přečíst návod";
+"voiceOver_Feedback" = "Zpětná vazba";
+"voiceOver_Book" = "Zažádat o hovor";
+"voiceOver_CallMessage" = "Jestliže se potýkáte s nějakým problémem nebo potřebujete nějaké podrobnější vysvětlení, tak můžete zažádat o telefonní hovor a my vám osobně zavoláme a pokusíme se vyřešit jakýkoliv problém.";
+"voiceOver_Account" = "Podrobnosti o účtu";
+"voiceOver_Subscription" = "Zkontrolovat předplatné";
+"voiceOver_About" = "O Envision";
+"voiceOver_Disclaimer" = "Aplikace Envision AI není vždy přesná, ap roto by neměla být používána pro navigaci nebo v situacích, kdy můžete být zraněni. Není určena pro detekci, diagnózu, správu sledování nebo při léčbě jakéhokoliv zdravotního stavu či nemoci. Uživatelé by měli vyhledat jakoukoliv lékařskou radu od lékaře. Envision AI používáte na vaše vlastní riziko.";
+"voiceOver_SubMessage" = "Staňte se uživatelem, členem a přispěvatelem stále se rozrůstající a vylepšující se služby Envision přihlášením se k jednomu z níže uvedenému plánu předplatného.";
+"voiceOver_SubAlert" = "Omlouváme se, ale vaše bezplatná zkušební doba vypršela. Co takhle se přihlásit k jednomu z našich přátelských a cenově dostupných plánů předplatného?";
 
 //Walkthrough Strings
-"voiceOver_welcomeScreenHeading" = "Welcome to Envision";
-"voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
-"voiceOver_textScreenHeading" = "Read all kinds of texts";
-"voiceOver_textScreenDetail" = "Be it short pieces of text that need to be read in real time or longer texts in documents that need to be explored.";
-"voiceOver_recogniseHeading" = "Recognise people and objects";
-"voiceOver_recogniseDetail" = "Have the scenes around you described to you including recognition of people and objects in it that you can train.";
-"voiceOver_shareScreenHeading" = "Envision all the photos";
-"voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
-"voiceOver_finalScreenHeading" = "A lot more to come";
-"voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
-"voiceOver_Skip" = "Skip";
-"voiceOver_Login"= "Login";
 
+"voiceOver_welcomeScreenHeading" = "Vítejte u Envision";
+"voiceOver_welcomeScreenDetail" = "Envision je služba pro převod obrazu ve vašem okolí do přístupných informací.";
+"voiceOver_textScreenHeading" = "Nechte si přečíst jakýkoliv druh textu";
+"voiceOver_textScreenDetail" = "Ať už to jsou krátké kusy textu, které chcete přečíst v reálném čase, nebo delší texty v dokumentech, které chcete přesněji prozkoumat.";
+"voiceOver_recogniseHeading" = "Rozpoznávejte lidi a předměty";
+"voiceOver_recogniseDetail" = "Nechte si popsat scény okolo vás včetně lidí a předmětů v nich obsažených, které aplikaci můžete naučit rozpoznávat.";
+"voiceOver_shareScreenHeading" = "Envision všechny vaše fotky";
+"voiceOver_shareScreenDetail" = "Nechte si popsat, přečíst a uložit všechny fotky z jakékoliv aplikace zvolením Envision z nabídky Sdílení.";
+"voiceOver_finalScreenHeading" = "Mnoho dalšího je v přípravě";
+"voiceOver_finalScreenDetail" = "Nové funkce, vylepšení a akce jsou průběžně přidávány.";
+"voiceOver_Skip" = "Přeskočit";
+"voiceOver_Login"= "Přihlášení";
+"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";

@@ -6,9 +6,6 @@
  Copyright © 2017 Envision Technologies B.V. All rights reserved.
  */
 
-
-//Walkthrough Strings
-
 //Login Strings
 
 "login_please" = "Zaloguj się używając jednej z możliwości:";
@@ -17,7 +14,6 @@
 "voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
 
-
 //Onboarding strings
 
 "onbarding_OCRButtonMessage" = "Tapnij ten przycisk, aby rozpocząć czytanie krótkich fragmentów tekstu w czasie rzeczywistym.";
@@ -25,7 +21,6 @@
 "onboarding_tapViewMessage" = "Tapnij ten przycisk, aby zrobić zdjęcie i opisać scene.";
 "onboarding_trainButtonMessage" = "Tapnij ten przycisk, aby nauczyć Envision nowych twarzy i przedmiotów.";
 "onboarding_feedbackButton" = "Tapnij tutaj, aby wyświetlić samouczek o Envision.";
-
 
 //VoiceOver strings
 "voiceOver_TextRecognition" = "Rozpoznawanie tekstu";
@@ -37,8 +32,6 @@
 "voiceOver_tapView" = "Opisz scenę.";
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
 "voiceOver_Export" = "Eksportuj tekst";
-
-
 
 //Teaching strings
 
@@ -68,6 +61,7 @@
 "voiceOver_SubAlert" = "Przykro nam! Ale twój bezpłatny okres próbny zakończył się. Dlaczego nie za subskrybujesz jednego z naszych przyjaznych i przystępnych planów?";
 
 //Walkthrough Strings
+
 "voiceOver_welcomeScreenHeading" = "Witamy w Envision";
 "voiceOver_welcomeScreenDetail" = "envision jest usługą przekształcającą obrazy z twojego otoczenia w dostępne informacje.";
 "voiceOver_textScreenHeading" = "odczytuje wszystkie rodzaje tekstów";
@@ -81,4 +75,3 @@
 "voiceOver_Skip" = "Pomiń";
 "voiceOver_Login"= "Zaloguj Się";
 "voiceOver_TrialStart" = "Obecnie korzystasz z 14-dniowej bezpłatnej wersji programu Envision. Życzę przyjemnego doświadczenia i kontaktu z nami w przypadku jakichkolwiek problemów!";
-

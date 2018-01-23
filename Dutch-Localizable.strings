@@ -6,10 +6,8 @@
  Copyright © 2017 Envision Technologies B.V. All rights reserved.
  */
 
-
-
-
 //Login Strings
+
 "login_please" = "Meld je aan via een van de volgende manieren";
 "voiceOver_Facebook" = "Aanmelden met Facebook";
 "voiceOver_Google" = "Aanmelden met Google";
@@ -17,14 +15,14 @@
 "login_terms" = "Door je aan te melden geef je aan dat je het Privacy Policy en Terms of Use hebt gelezen en hiermee akkoord gaat";
 
 // Onboarding Strings
+
 "onboarding_trainButtonMessage" = "Druk op deze knop om Envision nieuwe objecten en gezichten te leren";
 "onboarding_tapViewMessage" = "Druk op deze knop om een foto te maken en hem te laten beschrijven";
 "onbarding_OCRButtonMessage" = "Druk op deze knop om korte stukken tekst in ‘real time’ te lezen";
-"onboarding_feedbackButton" = "Druk op deze knop om de les over Envision te starten";
 "onboarding_documentText" = "Druk op deze knop om documenten te scannen en te lezen";
 
-
 //voiceOver Strings
+
 "voiceOver_TextRecognition" = "Tekst Herkenning";
 "voiceOver_GeneralRecognition" = "Algemene Herkenning";
 "voiceOver_HelpSettings" = "Help en Instellingen";
@@ -36,6 +34,7 @@
 "voiceOver_Export" = "Aandelentekst";
 
 //Teaching Strings
+
 "voiceOver_train" = "Wat zou je willen leren?";
 "voiceOver_person" = "Leer Envision een nieuw gezicht";
 "voiceOver_object" = "Leer Envision een nieuw object";
@@ -47,7 +46,6 @@
 "voiceOver_SwitchToFront" = "Wissel naar camera aan de voorzijde";
 "voiceOver_SwitchToBack" = "Wissel naar camera aan de achterzijde";
 "voiceOver_countdown" = "Voeg 5 afbeeldingen toe";
-
 
 //Help and Settings Strings
 
@@ -63,6 +61,7 @@
 "voiceOver_SubAlert" = "Sorry je gratis proefperiode is afgelopen. Waarom abonneer je je niet op één van de voordelige abonnementen?";
 
 //Walkthrough Strings
+
 "voiceOver_welcomeScreenHeading" = "Welkom bij Envision";
 "voiceOver_welcomeScreenDetail" = "Envision maakt afbeeldingen van je omgeving toegankelijk";
 "voiceOver_textScreenHeading" = "Lees allerlei soorten tekst ";

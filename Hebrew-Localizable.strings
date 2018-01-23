@@ -2,23 +2,27 @@
  Localizable.strings
  EnvisionBeta
  
- Created by Karthik Kannan on 02/09/17.
- Copyright ֲ© 2017 Karthik Kannan. All rights reserved.
+ Created by Envision Tecnologies B.V. on 02/09/17.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
  */
 
 //Login Strings
+
 "login_please" = "Please log in using one of the following ways:";
 "voiceOver_Facebook" = "Login with Facebook";
 "voiceOver_Google" = "Login with Google";
 "voiceOver_Email" = "Login with Email";
 "login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 
+//Onboarding strings
+
 "onboarding_trainButtonMessage" = "הקש/י כאן ללימוד Envision אודות פנים וחפצים.";
 "onboarding_tapViewMessage" = "הקש/י בכל מקום במרכז המסך לצילום תמונה.";
 "onbarding_OCRButtonMessage" = "הקש/י על כפתור זה לקריאת מלל בזמן אמת.";
 "onboarding_documentText" = "הקש/י כאן לסריקת מסמכים או קריאת פריטי מלל ארוכים";
 
-//Onboarding strings
+//VoiceOver strings
+
 "voiceOver_TextRecognition" = "Text Recognition";
 "voiceOver_GeneralRecognition" = "General Recognition";
 "voiceOver_HelpSettings" = "Help and Settings";
@@ -29,8 +33,10 @@
 "voiceOver_trainButtonMessage" = "לימוד פנים וחפצים";
 "voiceOver_tapView" = "צלם/י תמונה";
 "voiceOver_scanDocumentsButton" = "קריאת מסמכים";
+"voiceOver_Export" = "ייצוא טקסט";
 
 //Teaching Strings
+
 "voiceOver_person" = "לימוד פני חבריך.";
 "voiceOver_object" = "לימוד חפצים";
 "voiceOver_library" = "Open library.";
@@ -55,6 +61,7 @@
 "voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
 
 //Walkthrough Strings
+
 "voiceOver_welcomeScreenHeading" = "Welcome to Envision";
 "voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
 "voiceOver_textScreenHeading" = "Read all kinds of texts";
@@ -67,3 +74,4 @@
 "voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
 "voiceOver_Skip" = "Skip";
 "voiceOver_Login"= "Login";
+"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
