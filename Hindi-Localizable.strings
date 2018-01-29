@@ -2,92 +2,92 @@
  Localizable.strings
  EnvisionBeta
  
- Created by Envision Tecnologies B.V. on 02/09/17.
+ Created by Envision Tecnologies B.V.
  Copyright © 2017 Envision Technologies B.V. All rights reserved.
  */
 
 //Login Strings
 
-"login_please" = "Zaloguj się używając jednej z możliwości:";
-"voiceOver_Facebook" = "Zaloguj się za pomocą Facebook";
-"voiceOver_Google" = "Zaloguj się za pomocą Google";
-"voiceOver_Email" = "Zaloguj się za pomocą Email";
-"login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
+"login_please" = "Please log in using one of the following ways:";
+"voiceOver_Facebook" = "Login with Facebook";
+"voiceOver_Google" = "Login with Google";
+"voiceOver_Email" = "Login with Email";
+"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 "voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you."
 
 //Onboarding strings
 
-"onbarding_OCRButtonMessage" = "Tapnij ten przycisk, aby rozpocząć czytanie krótkich fragmentów tekstu w czasie rzeczywistym.";
-"onboarding_documentText" = "Tapnij ten przycisk, aby zrobić zdjęcie długich tekstów z dokumentów i je przeczytać.";
-"onboarding_tapViewMessage" = "Tapnij ten przycisk, aby zrobić zdjęcie i opisać scene.";
-"onboarding_trainButtonMessage" = "Tapnij ten przycisk, aby nauczyć Envision nowych twarzy i przedmiotów.";
-"onboarding_feedbackButton" = "Tapnij tutaj, aby wyświetlić samouczek o Envision.";
+"onbarding_OCRButtonMessage" = "Tap this button to start reading short pieces of text in real time.";
+"onboarding_documentText" = "Tap this button to take image of long texts in documents and read them.";
+"onboarding_tapViewMessage" = "Tap this button to capture image and describe the scene";
+"onboarding_trainButtonMessage" = "Tap this button to teach Envision new faces and objects.";
 
 //VoiceOver strings
-"voiceOver_TextRecognition" = "Rozpoznawanie tekstu";
-"voiceOver_GeneralRecognition" = "Rozpoznawanie Ogólne";
-"voiceOver_HelpSettings" = "Pomoc";
-"voiceOver_startLiveText" = "Rozpocznij czytanie tekstu.";
-"voiceOver_stopLiveText" = "Przestań czytanie tekstu";
-"voiceOver_scanDocumentsButton" = "Czytaj dokument.";
-"voiceOver_tapView" = "Opisz scenę.";
-"voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
-"voiceOver_Export" = "Eksportuj tekst";
-"voiceOver_NoText" = "Nieznaleziono tekstu";
+
+"voiceOver_TextRecognition" = "Text Recognition";
+"voiceOver_GeneralRecognition" = "General Recognition";
+"voiceOver_HelpSettings" = "Help and Settings";
+"voiceOver_startLiveText" = "Start reading text";
+"voiceOver_stopLiveText" = "Stop reading text";
+"voiceOver_scanDocumentsButton" = "Read Document";
+"voiceOver_tapView" = "Describe Scene";
+"voiceOver_trainButtonMessage" = "Teach Faces and Objects";
+"voiceOver_Export" = "Export Text";
+"voiceOver_NoText" = "No Text Found.";
 
 //Teaching strings
 
-"voiceOver_train" = "Czego chciałbyś nauczyć program?";
-"voiceOver_person" = "Ucz twarzy.";
-"voiceOver_object" = "Ucz przedmiotów.";
-"voiceOver_library" = "Otwórz bibliotekę.";
-"voiceOver_takePhotoButton" = "Zrób zdjęcie.";
-"voiceOver_countdown" = "Dodaj %d zdjęć.";
-"voiceOver_countdownlast" = "Dodaj 1 zdjęcie";
-"voiceOver_DoneButton" = "Zakończ robienie zdjęć.";
-"voiceOver_enter" = "Wprowadź nazwę.";
-"voiceOver_success" = "Nauczanie zakończone powodzeniem.";
+"voiceOver_train" = "What would you like to teach?";
+"voiceOver_person" = "Teach a face.";
+"voiceOver_object" = "Teach an object.";
+"voiceOver_library" = "Open library";
+"voiceOver_takePhotoButton" = "Take Photo.";
+"voiceOver_countdown" = "Add %d more images";
+"voiceOver_countdownlast" = "Add 1 more image"; //This is for the last captured image
+"voiceOver_DoneButton" = "Done taking photos.";
+"voiceOver_enter" = "Enter name";
 "voiceOver_TeachEnvision" = "Teach Envision";
-"voiceOver_SwitchToFront" = "Przełącz na przednią kamerę";
-"voiceOver_SwitchToBack" = "Przełącz na tylnią kamerę";
+"voiceOver_success" = "Teaching successful";
+"voiceOver_SwitchToFront" = "Switch to Front Camera";
+"voiceOver_SwitchToBack" = "Switch to Back Camera";
 
 //Help and Settings Strings
 
-"voiceOver_Tutorials" = "Czytaj samouczek";
-"voiceOver_Feedback" = "Napisz opinię";
+"voiceOver_Tutorials" = "Read tutorials";
+"voiceOver_Feedback" = "Give Feedback";
 "voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
-"voiceOver_Book" = "Poproś o rozmowę telefoniczną";
+"voiceOver_Book" = "Request a Call";
 "voiceOver_RequestSent" = "Request Sent";
-"voiceOver_CallMessage" = "Jeśli napotkasz jakiekolwiek problemy lub chciałbyś uzyskać więcej wyjaśnień na temat programu, Zarezerwuj rozmowę telefoniczną za naszym pośrednictwem. Osobiście do ciebie zadzwonimy i spróbujemy rozwiązać każdy problem, który możesz mieć.";
-"voiceOver_Account" = "Szczegóły konta.";
-"voiceOver_Subscription" = "Sprawdź subskrypcję.";
-"voiceOver_About" = "o Envision";
-"voiceOver_Disclaimer" = "Program używa sztucznej inteligencji. Sztuczna inteligencja nie zawsze jest dokładna i dlatego nie powinna być używana do nawigacji ani w sytuacji, w której możesz zostać skrzywdzony. Nie jest przeznaczony do wykrywania, diagnozowania, monitorowania, leczenia jakiegokolwiek stanu medycznego czy choroby. Użytkownicy powinni zasięgnąć porady lekarskiej od lekarza. Korzystasz z Envision AI na własne ryzyko.";
-"voiceOver_SubMessage" = "Zostań użytkownikiem, członkiem i uczestnikiem stale rosnącej i ulepszanej usługi Envision, zarejestruj się w jednym z naszych poniższych planów subskrypcyjnych.";
-"voiceOver_SubAlert" = "Przykro nam! Ale twój bezpłatny okres próbny zakończył się. Dlaczego nie za subskrybujesz jednego z naszych przyjaznych i przystępnych planów?";
-"voiceOver_logout" = "Wyloguj się";
-"voiceOver_FreeTrial" = "Bezpłatna próbna";
-"voiceOver_MonthlySubscription" = "Subskrypcja miesięcznie";
-"voiceOver_SixMonthSubscription" = "Subskrypcja 6 miesięcy";
-"voiceOver_AnnualSubscription" = "Subskrypcja roczna";
-"voiceOver_RestorePurchase" = "Przywróć Zakupy";
-"voiceOver_OneMonth" = "miesiąc";
-"voiceOver_SixMonths" = "sześć miesięcy";
-"voiceOver_OneYear" = "1 rok";
-"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subsciption package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
+"voiceOver_Account" = "Account Details";
+"voiceOver_Subscription" = "Check Subscriptions";
+"voiceOver_About" = "About Envision";
+"voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
+"voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
+"voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
+"voiceOver_logout" = "Logout";
+"voiceOver_FreeTrial" = "Free Trial";
+"voiceOver_MonthlySubscription" = "Monthly Subscription";
+"voiceOver_SixMonthSubscription" = "Six-months Subscription";
+"voiceOver_AnnualSubscription" = "Annual Subscription";
+"voiceOver_RestorePurchase" = "Restore Purchase";
+"voiceOver_OneMonth" = "one whole month";
+"voiceOver_SixMonths" = "six months";
+"voiceOver_OneYear" = "a whole year";
+"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subscription package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 
-"voiceOver_welcomeScreenHeading" = "Witamy w Envision";
-"voiceOver_welcomeScreenDetail" = "envision jest usługą przekształcającą obrazy z twojego otoczenia w dostępne informacje.";
-"voiceOver_textScreenHeading" = "odczytuje wszystkie rodzaje tekstów";
-"voiceOver_textScreenDetail" = "czy będą to krótkie fragmenty tekstu, które należy przeczytać w czasie rzeczywistym czy dłuższe teksty z dokumentów, które należy rozpoznać.";
-"voiceOver_recogniseHeading" = "Rozpoznaje ludzi i przedmioty";
-"voiceOver_recogniseDetail" = "Zapoznaj się z opisywanymi scenami, w tym rozpoznawaniem osób i przedmiotów, których możesz nauczyć program.";
-"voiceOver_shareScreenHeading" = "Envision wszystkie zdjęcia.";
-"voiceOver_shareScreenDetail" = "Wszystkie zdjęcia z dowolnej aplikacji zostaną opisane, odczytane i zapisane wybierając opcje Envision z udostępnionego arkusza zdjęć.";
-"voiceOver_finalScreenHeading" = "Wkrótce więcej";
-"voiceOver_finalScreenDetail" = "Nowe funkcje, ulepszenia i działania są stale dodawane do usługi.";
-"voiceOver_Skip" = "Pomiń";
-"voiceOver_Login"= "Zaloguj Się";
-"voiceOver_TrialStart" = "Obecnie korzystasz z 14-dniowej bezpłatnej wersji programu Envision. Życzę przyjemnego doświadczenia i kontaktu z nami w przypadku jakichkolwiek problemów!";
+"voiceOver_welcomeScreenHeading" = "Welcome to Envision";
+"voiceOver_welcomeScreenDetail" = "Envision is a service to convert images from your surrounding into accessible information.";
+"voiceOver_textScreenHeading" = "Read all kinds of texts";
+"voiceOver_textScreenDetail" = "Be it short pieces of text that need to be read in real time or longer texts in documents that need to be explored.";
+"voiceOver_recogniseHeading" = "Recognise people and objects";
+"voiceOver_recogniseDetail" = "Have the scenes around you described to you including recognition of people and objects in it that you can train.";
+"voiceOver_shareScreenHeading" = "Envision all the photos";
+"voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
+"voiceOver_finalScreenHeading" = "A lot more to come";
+"voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
+"voiceOver_Skip" = "Skip";
+"voiceOver_Login" = "Login";
+"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
