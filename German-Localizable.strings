@@ -44,7 +44,7 @@
 "voiceOver_takePhotoButton" = "Foto erstellen";
 "voiceOver_DoneButton" = "Foto erstellen abgeschlossen";
 "voiceOver_enter" = "Name eingeben";
-"voiceOver_countdown" = "Hinzufügen von %d Bildern."
+"voiceOver_countdown" = "Hinzufügen von %d Bildern.";
 "voiceOver_countdownlast" = "Add 1 more image";
 "voiceOver_success" = "Erfolgreich";
 "voiceOver_SwitchToFront" = "Umschalten auf Frontkamera";

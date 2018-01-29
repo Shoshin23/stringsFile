@@ -13,7 +13,7 @@
 "voiceOver_Google" = "Zaloguj się za pomocą Google";
 "voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
-"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you."
+"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
 
 //Onboarding strings
 

@@ -8,12 +8,12 @@
 
 //Login Strings
 
-"login_please" = "Please log in using one of the following ways:";
-"voiceOver_Facebook" = "Login with Facebook";
-"voiceOver_Google" = "Login with Google";
-"voiceOver_Email" = "Login with Email";
-"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
-"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you."
+"login_please" = "कृपया निम्नलिखित में से किसी एक तरीके से लॉग इन करें:";
+"voiceOver_Facebook" = "फेसबुक के साथ लॉगिन";
+"voiceOver_Google" = "गूगल के साथ लॉगिन";
+"voiceOver_Email" = "ईमेल के साथ लॉगिन";
+"login_terms" = "लॉग इन करके आप यह इंगित कर रहे हैं कि आपने Privacy Policy और Terms of Use को पढ़ लिया है और उससे सहमत है।";
+"voiceOver_LoginMessage" = "अगर आपके पास पहले से कोई खाता नहीं है, तो यह आपके लिए बनाया जाएगा।";
 
 //Onboarding strings
 
