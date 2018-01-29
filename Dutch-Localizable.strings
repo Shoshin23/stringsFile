@@ -13,6 +13,7 @@
 "voiceOver_Google" = "Aanmelden met Google";
 "voiceOver_Email" = "Aanmelden met Email";
 "login_terms" = "Door je aan te melden geef je aan dat je het Privacy Policy en Terms of Use hebt gelezen en hiermee akkoord gaat";
+"voiceOver_LoginMessage" = "Als u nog geen account hebt, wordt deze voor u aangemaakt.";
 
 // Onboarding Strings
 
@@ -32,6 +33,7 @@
 "voiceOver_tapView" = "Beschrijf omgeving";
 "voiceOver_trainButtonMessage" = "Leer Envision gezichten en objecten herkennen";
 "voiceOver_Export" = "Aandelentekst";
+"voiceOver_NoText" = "Geen tekst gevonden";
 
 //Teaching Strings
 
@@ -45,13 +47,17 @@
 "voiceOver_success" = "Envision heeft het geleerd";
 "voiceOver_SwitchToFront" = "Wissel naar camera aan de voorzijde";
 "voiceOver_SwitchToBack" = "Wissel naar camera aan de achterzijde";
-"voiceOver_countdown" = "Voeg 5 afbeeldingen toe";
+"voiceOver_countdown" = "Voeg %d afbeeldingen toe";
+"voiceOver_countdownlast" = "Voeg nog 1 afbeelding toe";
+"voiceOver_TeachEnvision" = "Leer Envision";
 
 //Help and Settings Strings
 
 "voiceOver_Tutorials" = "Tutorial";
 "voiceOver_Feedback" = "Geef feedback";
+"voiceOver_WriteFeedback" = "Schrijf uw feedback zo gedetailleerd mogelijk";
 "voiceOver_Book" = "Vraag een telefoongesprek aan";
+"voiceOver_RequestSent" = "Verzoek verzonden";
 "voiceOver_CallMessage" = "Als je met Envision tegen problemen aan loopt of je wilt verdere uitleg, dan kan je een telefoongesprek aanvragen. We zullen je dan persoonlijk bellen en het probleem oplossen.";
 "voiceOver_Account" = "Profiel details";
 "voiceOver_Subscription" = "Bekijk Abonnementen ";
@@ -59,6 +65,16 @@
 "voiceOver_Disclaimer" = "Envision AI is niet altijd accuraat en moet daarom niet worden gebruikt in situaties die gevaarlijk kunnen zijn. Het is niet bedoelt voor de diagnose, behandeling  of controle van ziektes en aandoeningen. In het geval van medische klachten wordt aangeraden contact op te nemen met een arts. Het gebruik van Envision AI is op eigen risico.";
 "voiceOver_SubMessage" = "Wordt een gebruiker, lid en draag bij aan de verbetering van de Envision service door je te abonneren op een van de volgende abonnementen ";
 "voiceOver_SubAlert" = "Sorry je gratis proefperiode is afgelopen. Waarom abonneer je je niet op één van de voordelige abonnementen?";
+"voiceOver_logout" = "Uitloggen";
+"voiceOver_FreeTrial" = "Gratis proefperiode";
+"voiceOver_MonthlySubscription" = "Maandelijks abonnement";
+"voiceOver_SixMonthSubscription" = "Zes maanden Abonnement";
+"voiceOver_AnnualSubscription" = "Jaarlijks abonnement";
+"voiceOver_RestorePurchase" = "Herstel aankoop";
+"voiceOver_OneMonth" = "een maand";
+"voiceOver_SixMonths" = "zes maanden";
+"voiceOver_OneYear" = "een jaar";
+"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subscription package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

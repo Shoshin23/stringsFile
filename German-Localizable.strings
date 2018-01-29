@@ -13,6 +13,7 @@
 "voiceOver_Google" = "Anmelden mit Google";
 "voiceOver_Email" = "Anmelden mit Email";
 "login_terms" = "Indem Sie sich einloggen, geben Sie an, dass Sie die Privacy Policy und Terms of Use gelesen haben und damit einverstanden sind.";
+"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
 
 //Onboarding strings
 
@@ -32,33 +33,48 @@
 "voiceOver_tapView" = "Szene beschreiben";
 "voiceOver_trainButtonMessage" = "Gesichter und Objekte lehren";
 "voiceOver_Export" = "Text exportieren";
+"voiceOver_NoText" = "No Text Found.";
 
 //Teaching strings
 
-"voiceOver_train" = "Was möchten Sie lehren?"
+"voiceOver_train" = "Was möchten Sie lehren?";
 "voiceOver_person" = "Gesichter lehren";
 "voiceOver_object" = "Objekt lehren";
 "voiceOver_library" = "Bibliothek öffnen";
 "voiceOver_takePhotoButton" = "Foto erstellen";
 "voiceOver_DoneButton" = "Foto erstellen abgeschlossen";
 "voiceOver_enter" = "Name eingeben";
-"voiceOver_countdown" = "Hinzufügen von 5 Bildern."
+"voiceOver_countdown" = "Hinzufügen von %d Bildern."
+"voiceOver_countdownlast" = "Add 1 more image";
 "voiceOver_success" = "Erfolgreich";
 "voiceOver_SwitchToFront" = "Umschalten auf Frontkamera";
 "voiceOver_SwitchToBack" = "Umschalten auf Rückfahrkamera";
+"voiceOver_TeachEnvision" = "Teach Envision";
 
 //Help and Settings Strings
 
 "voiceOver_Tutorials" = "Lesen tutorials";
 "voiceOver_Feedback" = "Geben Feedback";
+"voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
 "voiceOver_Book" = "Request a Call";
 "voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
+"voiceOver_RequestSent" = "Request Sent";
 "voiceOver_Account" = "Account Details";
 "voiceOver_Subscription" = "Check Subscriptions";
 "voiceOver_About" = "About Envision";
 "voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
 "voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
 "voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
+"voiceOver_logout" = "Logout";
+"voiceOver_FreeTrial" = "Free Trial";
+"voiceOver_MonthlySubscription" = "Monthly Subscription";
+"voiceOver_SixMonthSubscription" = "Six-months Subscription";
+"voiceOver_AnnualSubscription" = "Annual Subscription";
+"voiceOver_RestorePurchase" = "Restore Purchase";
+"voiceOver_OneMonth" = "one whole month";
+"voiceOver_SixMonths" = "six months";
+"voiceOver_OneYear" = "a whole year";
+"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subscription package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

@@ -13,6 +13,7 @@
 "voiceOver_Google" = "Zaloguj się za pomocą Google";
 "voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
+"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you."
 
 //Onboarding strings
 
@@ -32,6 +33,7 @@
 "voiceOver_tapView" = "Opisz scenę.";
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
 "voiceOver_Export" = "Eksportuj tekst";
+"voiceOver_NoText" = "Nieznaleziono tekstu";
 
 //Teaching strings
 
@@ -40,10 +42,12 @@
 "voiceOver_object" = "Ucz przedmiotów.";
 "voiceOver_library" = "Otwórz bibliotekę.";
 "voiceOver_takePhotoButton" = "Zrób zdjęcie.";
-"voiceOver_countdown" = "Dodaj 5 zdjęć.";
+"voiceOver_countdown" = "Dodaj %d zdjęć.";
+"voiceOver_countdownlast" = "Dodaj 1 zdjęcie";
 "voiceOver_DoneButton" = "Zakończ robienie zdjęć.";
 "voiceOver_enter" = "Wprowadź nazwę.";
 "voiceOver_success" = "Nauczanie zakończone powodzeniem.";
+"voiceOver_TeachEnvision" = "Teach Envision";
 "voiceOver_SwitchToFront" = "Przełącz na przednią kamerę";
 "voiceOver_SwitchToBack" = "Przełącz na tylnią kamerę";
 
@@ -51,7 +55,9 @@
 
 "voiceOver_Tutorials" = "Czytaj samouczek";
 "voiceOver_Feedback" = "Napisz opinię";
+"voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
 "voiceOver_Book" = "Poproś o rozmowę telefoniczną";
+"voiceOver_RequestSent" = "Request Sent";
 "voiceOver_CallMessage" = "Jeśli napotkasz jakiekolwiek problemy lub chciałbyś uzyskać więcej wyjaśnień na temat programu, Zarezerwuj rozmowę telefoniczną za naszym pośrednictwem. Osobiście do ciebie zadzwonimy i spróbujemy rozwiązać każdy problem, który możesz mieć.";
 "voiceOver_Account" = "Szczegóły konta.";
 "voiceOver_Subscription" = "Sprawdź subskrypcję.";
@@ -59,6 +65,16 @@
 "voiceOver_Disclaimer" = "Program używa sztucznej inteligencji. Sztuczna inteligencja nie zawsze jest dokładna i dlatego nie powinna być używana do nawigacji ani w sytuacji, w której możesz zostać skrzywdzony. Nie jest przeznaczony do wykrywania, diagnozowania, monitorowania, leczenia jakiegokolwiek stanu medycznego czy choroby. Użytkownicy powinni zasięgnąć porady lekarskiej od lekarza. Korzystasz z Envision AI na własne ryzyko.";
 "voiceOver_SubMessage" = "Zostań użytkownikiem, członkiem i uczestnikiem stale rosnącej i ulepszanej usługi Envision, zarejestruj się w jednym z naszych poniższych planów subskrypcyjnych.";
 "voiceOver_SubAlert" = "Przykro nam! Ale twój bezpłatny okres próbny zakończył się. Dlaczego nie za subskrybujesz jednego z naszych przyjaznych i przystępnych planów?";
+"voiceOver_logout" = "Wyloguj się";
+"voiceOver_FreeTrial" = "Bezpłatna próbna";
+"voiceOver_MonthlySubscription" = "Subskrypcja miesięcznie";
+"voiceOver_SixMonthSubscription" = "Subskrypcja 6 miesięcy";
+"voiceOver_AnnualSubscription" = "Subskrypcja roczna";
+"voiceOver_RestorePurchase" = "Przywróć Zakupy";
+"voiceOver_OneMonth" = "miesiąc";
+"voiceOver_SixMonths" = "sześć miesięcy";
+"voiceOver_OneYear" = "1 rok";
+"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subsciption package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 
