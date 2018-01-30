@@ -19,6 +19,7 @@
 
 "onboarding_OCRButtonMessage" = "Poklepejte sem pro čtení textu v reálném čase.";
 "onboarding_documentText" = "Poklepejte sem pro čtení dokumentů nebo dlouhého textu.";
+"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
 "onboarding_tapViewMessage" = "Poklepejte sem pro popis scény.";
 "onboarding_trainButtonMessage" = "Poklepejte sem pro učení nových obličejů nebo předmětů.";
 
@@ -30,6 +31,7 @@
 "voiceOver_startLiveText" = "Zapnout průběžné čtení textu";
 "voiceOver_stopLiveText" = "Vypnout průběžné čtení textu";
 "voiceOver_scanDocumentsButton" = "Přečíst dokument";
+"voiceOver_HandwritternText" = "Read Handwritten Text";
 "voiceOver_tapView" = "Popsat scénu";
 "voiceOver_trainButtonMessage" = "Naučit obličeje nebo předměty";
 "voiceOver_Export" = "Sdílet text";

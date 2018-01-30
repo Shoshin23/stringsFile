@@ -13,12 +13,13 @@
 "voiceOver_Google" = "Zaloguj się za pomocą Google";
 "voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
-"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
+"voiceOver_LoginMessage" = "Jeżeli Jeszcze nie posiadasz konta, utworzymy je dla ciebie.";
 
 //Onboarding strings
 
 "onbarding_OCRButtonMessage" = "Tapnij ten przycisk, aby rozpocząć czytanie krótkich fragmentów tekstu w czasie rzeczywistym.";
 "onboarding_documentText" = "Tapnij ten przycisk, aby zrobić zdjęcie długich tekstów z dokumentów i je przeczytać.";
+"onboarding_HandwritternText" = "Tapnij ten przycisk, zrobić zdjęcie odręcznego tekstu i je przeczytać.";
 "onboarding_tapViewMessage" = "Tapnij ten przycisk, aby zrobić zdjęcie i opisać scene.";
 "onboarding_trainButtonMessage" = "Tapnij ten przycisk, aby nauczyć Envision nowych twarzy i przedmiotów.";
 "onboarding_feedbackButton" = "Tapnij tutaj, aby wyświetlić samouczek o Envision.";
@@ -30,6 +31,7 @@
 "voiceOver_startLiveText" = "Rozpocznij czytanie tekstu.";
 "voiceOver_stopLiveText" = "Przestań czytanie tekstu";
 "voiceOver_scanDocumentsButton" = "Czytaj dokument.";
+"voiceOver_HandwritternText" = "Przeczytaj Odręczny tekstu.";
 "voiceOver_tapView" = "Opisz scenę.";
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
 "voiceOver_Export" = "Eksportuj tekst";
@@ -47,7 +49,7 @@
 "voiceOver_DoneButton" = "Zakończ robienie zdjęć.";
 "voiceOver_enter" = "Wprowadź nazwę.";
 "voiceOver_success" = "Nauczanie zakończone powodzeniem.";
-"voiceOver_TeachEnvision" = "Teach Envision";
+"voiceOver_TeachEnvision" = "Naucz Envision";
 "voiceOver_SwitchToFront" = "Przełącz na przednią kamerę";
 "voiceOver_SwitchToBack" = "Przełącz na tylnią kamerę";
 
@@ -55,9 +57,9 @@
 
 "voiceOver_Tutorials" = "Czytaj samouczek";
 "voiceOver_Feedback" = "Napisz opinię";
-"voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
+"voiceOver_WriteFeedback" = "Proszę napisz swoją opinię podając jaknajwięcej szczegółów.";
 "voiceOver_Book" = "Poproś o rozmowę telefoniczną";
-"voiceOver_RequestSent" = "Request Sent";
+"voiceOver_RequestSent" = "Prośba została wysłana";
 "voiceOver_CallMessage" = "Jeśli napotkasz jakiekolwiek problemy lub chciałbyś uzyskać więcej wyjaśnień na temat programu, Zarezerwuj rozmowę telefoniczną za naszym pośrednictwem. Osobiście do ciebie zadzwonimy i spróbujemy rozwiązać każdy problem, który możesz mieć.";
 "voiceOver_Account" = "Szczegóły konta.";
 "voiceOver_Subscription" = "Sprawdź subskrypcję.";
@@ -74,7 +76,7 @@
 "voiceOver_OneMonth" = "miesiąc";
 "voiceOver_SixMonths" = "sześć miesięcy";
 "voiceOver_OneYear" = "1 rok";
-"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subsciption package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_SubscriptionConfirmation" = "Uzyskaj dostęp do wszystkich funkcji Envision, kup pakiet subskrypcji %s za %s ze sklepu iTunes, który będzie obowiązywał od dziś. Subskrypcje przedłużane są automatycznie, ale możesz je anulować w dowolnej chwili.Przeczytaj Politykę prywatności i Warunki korzystania.";
 
 //Walkthrough Strings
 

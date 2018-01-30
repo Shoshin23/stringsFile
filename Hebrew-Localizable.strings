@@ -21,6 +21,7 @@
 "onboarding_tapViewMessage" = "הקש/י בכל מקום במרכז המסך לצילום תמונה.";
 "onbarding_OCRButtonMessage" = "הקש/י על כפתור זה לקריאת מלל בזמן אמת.";
 "onboarding_documentText" = "הקש/י כאן לסריקת מסמכים או קריאת פריטי מלל ארוכים";
+"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
 
 //VoiceOver strings
 
@@ -32,6 +33,7 @@
 "voiceOver_trainButtonMessage" = "לימוד פנים וחפצים";
 "voiceOver_tapView" = "צלם/י תמונה";
 "voiceOver_scanDocumentsButton" = "קריאת מסמכים";
+"voiceOver_HandwritternText" = "Read Handwritten text";
 "voiceOver_Export" = "ייצוא טקסט";
 "voiceOver_NoText" = "No Text Found.";
 

@@ -19,6 +19,7 @@
 
 "onbarding_OCRButtonMessage" = "Tippen Sie auf diese Schaltfläche, um eine Textstelle auf einem Objekt vorgelesen zu bekommen.";
 "onboarding_documentText" = "Hier klicken, um Dokumente zu scannen oder lange Texte zu lesen";
+"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
 "onboarding_tapViewMessage" = "Tippen Sie auf eine beliebige Stelle in der Mitte des Bildschirms, um ein Foto zu erstellen.";
 "onboarding_trainButtonMessage" = "Tippen Sie hier, um Envision auf Gesichter und Objekte zu trainieren.";
 
@@ -30,6 +31,7 @@
 "voiceOver_startLiveText" = "Beginnen Sie mit dem Lesen";
 "voiceOver_stopLiveText" = "Stoppen Sie das Lesen";
 "voiceOver_scanDocumentsButton" = "Dokumente lesen";
+"voiceOver_HandwritternText" = "Read Handwritten text";
 "voiceOver_tapView" = "Szene beschreiben";
 "voiceOver_trainButtonMessage" = "Gesichter und Objekte lehren";
 "voiceOver_Export" = "Text exportieren";

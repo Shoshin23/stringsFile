@@ -19,6 +19,7 @@
 
 "onbarding_OCRButtonMessage" = "इस बटन को टैप करके तेजी से छोटे ग्रंथों को पढ़ें";
 "onboarding_documentText" = "इस बटन को टैप करके दस्तावेज़ों में लंबे ग्रंथों को पढ़ें";
+"onboarding_HandwritternText" = "इस बटन को टैप करें और अंग्रेज़ी हस्तलिखित पाठ पढ़ें";
 "onboarding_tapViewMessage" = "दृश्य का वर्णन करने के लिए इस बटन को टैप करें";
 "onboarding_trainButtonMessage" = "नए चेहरों और वस्तुओं को सिखाने के लिए इस बटन को टैप करें";
 
@@ -30,6 +31,7 @@
 "voiceOver_startLiveText" = "पढ़ना शुरू करें";
 "voiceOver_stopLiveText" = "पढ़ना रोकें";
 "voiceOver_scanDocumentsButton" = "दस्तावेज़ पढ़ें";
+"voiceOver_HandwritternText" = "अंग्रेजी हस्तलिखित शब्द पढ़ें";
 "voiceOver_tapView" = "दृश्य का वर्णन करें";
 "voiceOver_trainButtonMessage" = "चेहरे और वस्तुओं सिखाएं";
 "voiceOver_Export" = "Export Text";
