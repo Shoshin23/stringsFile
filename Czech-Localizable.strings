@@ -76,7 +76,7 @@
 "voiceOver_OneMonth" = "jeden měsíc";
 "voiceOver_SixMonths" = "šest měsíců";
 "voiceOver_OneYear" = "jeden rok";
-"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subscription package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

@@ -76,7 +76,7 @@
 "voiceOver_OneMonth" = "one whole month";
 "voiceOver_SixMonths" = "six months";
 "voiceOver_OneYear" = "a whole year";
-"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %s by purchasing this subscription package for %s from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

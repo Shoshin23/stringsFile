@@ -33,7 +33,7 @@
 "voiceOver_scanDocumentsButton" = "दस्तावेज़ पढ़ें";
 "voiceOver_HandwritternText" = "अंग्रेजी हस्तलिखित शब्द पढ़ें";
 "voiceOver_tapView" = "दृश्य का वर्णन करें";
-"voiceOver_trainButtonMessage" = "चेहरे और वस्तुओं सिखाएं";
+"voiceOver_trainButtonMessage" = "चेहरे और वस्तुएं सिखाएं";
 "voiceOver_Export" = "Export Text";
 "voiceOver_NoText" = "कोई टेक्स्ट नहीं मिला";
 
@@ -45,7 +45,7 @@
 "voiceOver_library" = "Library खोलें";
 "voiceOver_takePhotoButton" = "तस्वीरें लें";
 "voiceOver_countdown" = "%d और तस्वीरें लें";
-"voiceOver_countdownlast" = "1 और तस्वीरें लें";
+"voiceOver_countdownlast" = "1 और तस्वीर लें";
 "voiceOver_DoneButton" = "पूर्ण";
 "voiceOver_enter" = "नाम लिखें";
 "voiceOver_TeachEnvision" = "सिखाएं";
@@ -60,7 +60,7 @@
 "voiceOver_WriteFeedback" = "जितना संभव हो उतना विस्तार से आपकी प्रतिक्रिया लिखें";
 "voiceOver_Book" = "कॉल का अनुरोध करें";
 "voiceOver_RequestSent" = "अनुरोध भेजा गया";
-"voiceOver_CallMessage" = "Iयदि आप किसी भी समस्या का सामना कर रहे हैं या किसी भी चीज़ पर अधिक स्पष्टीकरण प्राप्त करना चाहते हैं, तो आप हमारे साथ एक कॉल बुक कर सकते हैं। हम आपको व्यक्तिगत रूप से फोन करेंगे और किसी भी मुद्दे को हल करने की कोशिश करेंगे।";
+"voiceOver_CallMessage" = "यदि आप किसी भी समस्या का सामना कर रहे हैं या किसी भी चीज़ पर अधिक स्पष्टीकरण प्राप्त करना चाहते हैं, तो आप हमारे साथ एक कॉल बुक कर सकते हैं। हम आपको व्यक्तिगत रूप से फोन करेंगे और किसी भी मुद्दे को हल करने की कोशिश करेंगे।";
 "voiceOver_Account" = "खाता विवरण";
 "voiceOver_Subscription" = "सब्स्क्रिप्शन जांचें";
 "voiceOver_About" = "एनविजन के बारे में";
@@ -76,7 +76,7 @@
 "voiceOver_OneMonth" = "एक महीना";
 "voiceOver_SixMonths" = "छह महीने";
 "voiceOver_OneYear" = "एक पूरे वर्ष";
-"voiceOver_SubscriptionConfirmation" = "iTunes पर %s की इस योजना को खरीदने पर, आपको Envision AI के असीमित उपयोग का %s मिलेगा। सदस्यता स्वचालित रूप से नवीनीकृत हो जाती है, लेकिन आप नवीनीकरण को रोकने के लिए किसी भी समय रद्द कर सकते हैं। उपयोग की शर्तें और गोपनीयता नीति देखें।";
+"voiceOver_SubscriptionConfirmation" = "यह योजना %@ के लिए Envision AI का असीमित उपयोग प्रदान करता है। आप इस योजना को iTunes से %@ के लिए खरीद कर, आज से शुरू कर सकते हैं। सदस्यता स्वचालित रूप से नवीनीकृत हो जाती है, लेकिन आप नवीनीकरण को रोकने के लिए किसी भी समय रद्द कर सकते हैं। उपयोग की शर्तें और गोपनीयता नीति देखें।";
 
 //Walkthrough Strings
 
