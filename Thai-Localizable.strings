@@ -1,0 +1,96 @@
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
+
+//Login Strings
+
+"login_please" = "คุณสามารถลงชื่อเข้าใช้ได้ด้วยช่องทางต่อไปนี้";
+"voiceOver_Facebook" = "ลงชื่อเข้าใช้ด้วย Facebook";
+"voiceOver_Google" = "ลงชื่อเข้าใช้ด้วย Google";
+"voiceOver_Email" = "ลงชื่อเข้าใช้ด้วย Email";
+"login_terms" = "การเข้าสู่ระบบหมายถึงคุณได้อ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อกำหนดการใช้งาน";
+"voiceOver_LoginMessage" = "Iถ้าคุณยังไม่มีบัญชีผู้ใช้ สมัครบัญชีผู้ใช้ใหม่";
+
+//Onboarding strings
+
+"onbarding_OCRButtonMessage" = "แตะสองครั้งเพื่ออ่านข้อความตัวอักษรสั้นๆโดยตรง";
+"onboarding_documentText" = "แตะสองครั้งเพื่อถ่ายภาพข้อความจำนวนมากในเอกสาร";
+"onboarding_HandwritternText" = "แตะปุ่มนี้สองครั้งเพื่อถ่ายภาพข้อความที่เขียนด้วยลายมือ";
+"onboarding_tapViewMessage" = "แตะสองครั้งเพื่อถ่ายภาพและใส่คำอธิบาย";
+"onboarding_trainButtonMessage" = "แตะสองครั้งเพื่อสอนให้ Envision รู้จักใบหน้า และสิ่งของใหม่";
+
+//VoiceOver strings
+
+"voiceOver_TextRecognition" = "การประมวลผลคำ";
+"voiceOver_GeneralRecognition" = "การประมวลผลทั่วไป";
+"voiceOver_HelpSettings" = "การช่วยเหลือ และการตั้งค่า";
+"voiceOver_startLiveText" = "เริ่มอ่านข้อความ";
+"voiceOver_stopLiveText" = "หยุดอ่านข้อความ";
+"voiceOver_scanDocumentsButton" = "อ่านเอกสาร";
+"voiceOver_HandwritternText" = "อ่านข้อความลายมือ";
+"voiceOver_tapView" = "อธิบายพื้นหลัง";
+"voiceOver_trainButtonMessage" = "สอนให้รู้จักใบหน้า และสิ่งของ";
+"voiceOver_Export" = "ส่งออกข้อความ";
+"voiceOver_NoText" = "ไม่พบข้อความ";
+
+//Teaching strings
+
+"voiceOver_train" = "คุณต้องการสอนอะไร";
+"voiceOver_person" = "สอนให้รู้จักใบหน้า";
+"voiceOver_object" = "สอนให้รู้จักสิ่งของ";
+"voiceOver_library" = "เปิดคลัง";
+"voiceOver_takePhotoButton" = "ถ่ายรูปภาพ";
+"voiceOver_countdown" = "เพิ่ม %d รูปภาพ";
+"voiceOver_countdownlast" = "เพิ่ม 1 รูปภาพ";
+"voiceOver_DoneButton" = "เสร็จสิ้นการถ่ายภาพ";
+"voiceOver_enter" = "ใส่ชื่อ";
+"voiceOver_TeachEnvision" = "สอน Envision";
+"voiceOver_success" = "การสอนเสร็จสิ้น";
+"voiceOver_SwitchToFront" = "สลับไปยังกล้องหน้า";
+"voiceOver_SwitchToBack" = "สลับไปยังกล้องหลัง";
+
+//Help and Settings Strings
+
+"voiceOver_Tutorials" = "อ่านคู่มือ";
+"voiceOver_Feedback" = "ความคิดเห็น";
+"voiceOver_WriteFeedback" = "กรุณาแสดงความคิดเห็นของคุณให้ละเอียดที่สุดเท่าที่ทำได้";
+"voiceOver_Book" = "โทร";
+"voiceOver_Cancel" = "ยกเลิก";
+"voiceOver_RequestSent" = "ความคิดเห็นของคุณถูกส่งแล้ว";
+"voiceOver_CallMessage" = "ถ้าคุณพบปัญหาหรือต้องการการแนะนำ สามารถโทรติดต่อเราได้ พวกเราจะติดต่อกลับและแก้ปัญหาที่เกิดขึ้นให้คุณ";
+"voiceOver_Account" = "ข้อมูลบัญชีผู้ใช้";
+"voiceOver_Subscription" = "ตรวจสอบการสมัครสมาชิก";
+"voiceOver_About" = "เกี่ยวกับ Envision";
+"voiceOver_Disclaimer" = "Envision AI อาจจะไม่มีความแม่นยำในการใช้งานเสมอไป ดังนั้นจึงไม่ควรใช้ในการนำทางในสถานการณ์ที่คุณอาจจะได้รับอันตราย Envision AI ไม่ได้มีไว้ใช้สำหรับการตรวจสอบ การวินิจฉัย การตรวจสอบรักษาอาการทางการแพทย์หรือโรคใดๆ ผู้ใช้ควรได้รับคำแนะจากแพทย์ ผู้ใช้ยอมรับความเสี่ยงที่อาจจะเกิดขึ้นจากการใช้งาน Envision AI";
+"voiceOver_SubMessage" = "เป็นผู้ใช้สมาชิก และผู้สนับสนุนที่ร่วมก่อตั้ง และปรับปรุงการให้บริการการลงทะเบียนสมัครสมาชิกต่อไปนี้";
+"voiceOver_SubAlert" = "ขออภัย ระยะเวลาทดลองการใช้งานของคุณได้หมดแล้ว คุณสามารถสมัครเพื่อใช้งานต่อ โดยเลือกรูปแบบที่เหมาะกับคุณ";
+"voiceOver_logout" = "ลงชื่อออก";
+"voiceOver_FreeTrial" = "ทดลองใช้";
+"voiceOver_MonthlySubscription" = "รายเดือน";
+"voiceOver_SixMonthSubscription" = "ราย 6 เดือน";
+"voiceOver_AnnualSubscription" = "รายปี";
+"voiceOver_RestorePurchase" = "กู้คืนการซื้อ";
+"voiceOver_OneMonth" = "1 เดือน";
+"voiceOver_SixMonths" = "6 เดือน";
+"voiceOver_OneYear" = "1 ปี";
+"voiceOver_SubscriptionConfirmation" = "รับการเข้าถึงแบบไม่จำกัดทุกคุณสมบัติของ Envision เป็นเวลา %@ โดยซื้อแพคเกจการสมัครสมาชิกนี้ราคา %@ จาก iTunes ได้แล้ววันนี้ การสมัครสมาชิกจะต่ออายุแบบอัตโนมัติ คุณสามารถยกเลิกการสมัครได้ทุกเวลา ดูเงื่อนไขการใช้และนโยบายความเป็นส่วนตัว";
+
+//Walkthrough Strings
+
+"voiceOver_welcomeScreenHeading" = "ยินดีตอนรับสู่ Envision";
+"voiceOver_welcomeScreenDetail" = "Envision เป็นแอปพริเคชั่นสำหรับแปลงวัตถุสิ่งของภายในสภาพแวดล้อมรอบตัวเราให้เป็นข้อความหรือคำพูดเพื่อช่วยอำนวยความสะดวกสำหรับคนตาบอด";
+"voiceOver_textScreenHeading" = "อ่านข้อความตัวอักษร";
+"voiceOver_textScreenDetail" = "ใช้สำหรับการอ่านข้อความตัวหนังสือทันที ซึ่งผู้ใช้หมวดนี้จะต้องมีความชำนาน";
+"voiceOver_recogniseHeading" = "วิเคราะห์ใบหน้าคน และสิ่งของ";
+"voiceOver_recogniseDetail" = "โหมดนี้ผู้ใช่สามารถสอนแอปพริเคชั่นให้รู้จักและจดจำใบหน้าคน และสิ่งของในการวิเคราะห์ และประมวลผล";
+"voiceOver_shareScreenHeading" = "รูปภาพของ Envision ทั้งหมด";
+"voiceOver_shareScreenDetail" = "รูปภาพจากแอปพริเคชั่นต่างๆ จะถูกอธิบายได้โดยอ่านและบันทึกด้วยเมนูเลือกรูปภาพของ Envision";
+"voiceOver_finalScreenHeading" = "มีอะไรใหม่";
+"voiceOver_finalScreenDetail" = "คุณลักษณะเพิ่มเติม การปรับปรุงและคุณลักษณะใหม่ มีความสามารถใหม่อัพเดทเสมอ";
+"voiceOver_Skip" = "ข้าม";
+"voiceOver_Login" = "ลงชื่อเข้าใช้";
+"voiceOver_TrialStart" = "ขณะนี้คุณอยู่ในโหมดทดลองใช้ Envision 14 วัน หวังว่าคุณจะมีความสุขกับการใช้งาน และสามารถติดต่อเราได้เมื่อพบปัญหาการใช้งาน";
