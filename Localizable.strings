@@ -59,6 +59,7 @@
 "voiceOver_Feedback" = "Give Feedback";
 "voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
 "voiceOver_Book" = "Request a Call";
+"voiceOver_Cancel" = "Cancel";
 "voiceOver_RequestSent" = "Request Sent";
 "voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
 "voiceOver_Account" = "Account Details";

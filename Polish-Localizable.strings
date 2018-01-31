@@ -29,7 +29,7 @@
 "voiceOver_GeneralRecognition" = "Rozpoznawanie Ogólne";
 "voiceOver_HelpSettings" = "Pomoc";
 "voiceOver_startLiveText" = "Rozpocznij czytanie tekstu.";
-"voiceOver_stopLiveText" = "Przestań czytanie tekstu";
+"voiceOver_stopLiveText" = "Zatrzymaj czytanie tekstu";
 "voiceOver_scanDocumentsButton" = "Czytaj dokument.";
 "voiceOver_HandwritternText" = "Przeczytaj Odręczny tekstu.";
 "voiceOver_tapView" = "Opisz scenę.";
@@ -59,6 +59,7 @@
 "voiceOver_Feedback" = "Napisz opinię";
 "voiceOver_WriteFeedback" = "Proszę napisz swoją opinię podając jaknajwięcej szczegółów.";
 "voiceOver_Book" = "Poproś o rozmowę telefoniczną";
+"voiceOver_Cancel" = "Anuluj";
 "voiceOver_RequestSent" = "Prośba została wysłana";
 "voiceOver_CallMessage" = "Jeśli napotkasz jakiekolwiek problemy lub chciałbyś uzyskać więcej wyjaśnień na temat programu, Zarezerwuj rozmowę telefoniczną za naszym pośrednictwem. Osobiście do ciebie zadzwonimy i spróbujemy rozwiązać każdy problem, który możesz mieć.";
 "voiceOver_Account" = "Szczegóły konta.";

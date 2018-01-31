@@ -59,6 +59,7 @@
 "voiceOver_Feedback" = "Geef feedback";
 "voiceOver_WriteFeedback" = "Schrijf uw feedback zo gedetailleerd mogelijk";
 "voiceOver_Book" = "Vraag een telefoongesprek aan";
+"voiceOver_Cancel" = "Cancel";
 "voiceOver_RequestSent" = "Verzoek verzonden";
 "voiceOver_CallMessage" = "Als je met Envision tegen problemen aan loopt of je wilt verdere uitleg, dan kan je een telefoongesprek aanvragen. We zullen je dan persoonlijk bellen en het probleem oplossen.";
 "voiceOver_Account" = "Profiel details";

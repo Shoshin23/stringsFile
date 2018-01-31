@@ -19,7 +19,7 @@
 
 "onbarding_OCRButtonMessage" = "Tippe diesen Button, um kurze Textteile in Echtzeit zu lesen.";
 "onboarding_documentText" = "Tippe diesen Button, um Abbilder längerer Textee aufzunehmen und diese zu lesen.";
-"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
+"onboarding_HandwritternText" = "Tippe diesen Button, um ein Abbild von handschriftlichem Text aufzunehmen und zu lesen.";
 "onboarding_tapViewMessage" = "Tippe diesen Button, um ein Abbild Deiner unmittelbaren Umgebung aufzunehmen und es Dir beschreiben zu lassen.";
 "onboarding_trainButtonMessage" = "Tippe diesen Button, um Envision auf neue Gesichter und Objekte zu trainieren.";
 
@@ -31,7 +31,7 @@
 "voiceOver_startLiveText" = "Beginne Textlesen";
 "voiceOver_stopLiveText" = "Ende Textlesen";
 "voiceOver_scanDocumentsButton" = "Lese Dokument";
-"voiceOver_HandwritternText" = "Read Handwritten text";
+"voiceOver_HandwritternText" = "Lese handschriftlichen text";
 "voiceOver_tapView" = "Beschreibe Szenario";
 "voiceOver_trainButtonMessage" = "Trainiere Gesichter und Objekte";
 "voiceOver_Export" = "Exportiere Text";
@@ -59,6 +59,7 @@
 "voiceOver_Feedback" = "Feedback geben";
 "voiceOver_WriteFeedback" = "Bitte schreibe in Deinem Feedback so viele Details wie möglich";
 "voiceOver_Book" = "Einen Anruf beauftragen";
+"voiceOver_Cancel" = "Cancel";
 "voiceOver_CallMessage" = "Falls Du irgendwelche Probleme findest oder zu irgendeinem Sachverhalt mehr Erklärungen benötigst, kannst Du einen Telefontermin mit uns beauftragen. Wir werden Dich persönlich anrufen und versuchen, jedes Problem, dass Du mit Envision hast, gemeinsam mit Dir zu lösen.";
 "voiceOver_RequestSent" = "Anforderung gesendet";
 "voiceOver_Account" = "Account Details";
@@ -73,10 +74,10 @@
 "voiceOver_SixMonthSubscription" = "Sechs-Monats-Abo";
 "voiceOver_AnnualSubscription" = "Jahres-Abo";
 "voiceOver_RestorePurchase" = "Kauf wiederherstellen";
-"voiceOver_OneMonth" = "1 Monat";
+"voiceOver_OneMonth" = "einen Monat";
 "voiceOver_SixMonths" = "6 Monate";
 "voiceOver_OneYear" = "1 Jahr";
-"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_SubscriptionConfirmation" = "Erhalte uneingeschränkten Zugang zu allen Features von Envision für %@ durch Kauf dieses Abo-Plans für %@ bei iTunes, startet heute. Abo-Pläne werden automatisch fortgesetzt, aber Du kannst dies jederzeit beenden. Sieh hierzu die Nutzungs- und Datenschutzhinweise.";
 
 //Walkthrough Strings
 
