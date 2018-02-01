@@ -36,6 +36,7 @@
 "voiceOver_trainButtonMessage" = "चेहरे और वस्तुएं सिखाएं";
 "voiceOver_Export" = "Export Text";
 "voiceOver_NoText" = "कोई टेक्स्ट नहीं मिला";
+"voiceOver_Blurred" = "फ़ोटो धुंधला लग रहा है । कृपया दुबारा से लें ।";
 
 //Teaching strings
 
@@ -57,6 +58,7 @@
 
 "voiceOver_Tutorials" = "ट्यूटोरियल पढ़ें";
 "voiceOver_Feedback" = "प्रतिक्रिया दें";
+"voiceOver_Send" = "भेजें";
 "voiceOver_WriteFeedback" = "जितना संभव हो उतना विस्तार से आपकी प्रतिक्रिया लिखें";
 "voiceOver_Book" = "कॉल का अनुरोध करें";
 "voiceOver_RequestSent" = "अनुरोध भेजा गया";
@@ -70,9 +72,9 @@
 "voiceOver_SubAlert" = "माफ़ कीजिये! लेकिन आपकी निशुल्क परीक्षण अवधि समाप्त हो गई है। आप हमारी आसान योजनाओं में से किसी एक को क्यों नहीं लेते हैं?";
 "voiceOver_logout" = "लोग आउट";
 "voiceOver_FreeTrial" = "नि: शुल्क परीक्षण";
-"voiceOver_MonthlySubscription" = "Monthly Subscription";
-"voiceOver_SixMonthSubscription" = "Six-months Subscription";
-"voiceOver_AnnualSubscription" = "Annual Subscription";
+"voiceOver_MonthlySubscription" = "मासिक सब्स्क्रिप्शन";
+"voiceOver_SixMonthSubscription" = "6 माह सब्स्क्रिप्शन";
+"voiceOver_AnnualSubscription" = "वार्षिक सब्स्क्रिप्शन";
 "voiceOver_RestorePurchase" = "खरीदारी को पुनर्स्थापित करें";
 "voiceOver_OneMonth" = "एक महीना";
 "voiceOver_SixMonths" = "छह महीने";

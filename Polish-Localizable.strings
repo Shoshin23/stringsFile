@@ -36,6 +36,7 @@
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
 "voiceOver_Export" = "Eksportuj tekst";
 "voiceOver_NoText" = "Nieznaleziono tekstu";
+"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //Teaching strings
 
@@ -57,7 +58,8 @@
 
 "voiceOver_Tutorials" = "Czytaj samouczek";
 "voiceOver_Feedback" = "Napisz opinię";
-"voiceOver_WriteFeedback" = "Proszę napisz swoją opinię podając jaknajwięcej szczegółów.";
+"voiceOver_Send" = "Wyślij";
+"voiceOver_WriteFeedback" = "Proszę napisz swoją opinię, podaj jaknajwięcej szczegółów.";
 "voiceOver_Book" = "Poproś o rozmowę telefoniczną";
 "voiceOver_Cancel" = "Anuluj";
 "voiceOver_RequestSent" = "Prośba została wysłana";

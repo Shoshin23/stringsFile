@@ -36,6 +36,7 @@
 "voiceOver_trainButtonMessage" = "Trainiere Gesichter und Objekte";
 "voiceOver_Export" = "Exportiere Text";
 "voiceOver_NoText" = "Kein Text gefunden";
+"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //Teaching strings
 
@@ -57,6 +58,7 @@
 
 "voiceOver_Tutorials" = "Lies Anleitungen";
 "voiceOver_Feedback" = "Feedback geben";
+"voiceOver_Send" = "Send";
 "voiceOver_WriteFeedback" = "Bitte schreibe in Deinem Feedback so viele Details wie möglich";
 "voiceOver_Book" = "Einen Anruf beauftragen";
 "voiceOver_Cancel" = "Cancel";

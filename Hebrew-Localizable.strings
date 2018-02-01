@@ -36,6 +36,7 @@
 "voiceOver_HandwritternText" = "Read Handwritten text";
 "voiceOver_Export" = "ייצוא טקסט";
 "voiceOver_NoText" = "No Text Found.";
+"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //Teaching Strings
 
@@ -58,6 +59,7 @@
 "voiceOver_Tutorials" = "Read tutorials";
 "voiceOver_Feedback" = "Give Feedback";
 "voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
+"voiceOver_Send" = "Send";
 "voiceOver_Book" = "Request a Call";
 "voiceOver_RequestSent" = "Request Sent";
 "voiceOver_Cancel" = "Cancel";

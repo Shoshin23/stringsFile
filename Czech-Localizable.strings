@@ -36,6 +36,7 @@
 "voiceOver_trainButtonMessage" = "Naučit obličeje nebo předměty";
 "voiceOver_Export" = "Sdílet text";
 "voiceOver_NoText" = "No Text Found.";
+"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //Teaching strings
 
@@ -57,6 +58,7 @@
 
 "voiceOver_Tutorials" = "Přečíst návod";
 "voiceOver_Feedback" = "Zpětná vazba";
+"voiceOver_Send" = "Send";
 "voiceOver_WriteFeedback" = "Zadejte své připomínky co nejpodrobněji";
 "voiceOver_Book" = "Zažádat o hovor";
 "voiceOver_Cancel" = "Cancel";

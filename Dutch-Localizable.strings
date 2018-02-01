@@ -21,7 +21,7 @@
 "onboarding_tapViewMessage" = "Druk op deze knop om een foto te maken en hem te laten beschrijven";
 "onbarding_OCRButtonMessage" = "Druk op deze knop om korte stukken tekst in ‘real time’ te lezen";
 "onboarding_documentText" = "Druk op deze knop om documenten te scannen en te lezen";
-"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
+"onboarding_HandwritternText" = "Druk op deze knop om een foto van handgeschreven tekst te maken en deze te lezen";
 
 //voiceOver Strings
 
@@ -31,11 +31,12 @@
 "voiceOver_startLiveText" = "Begin met lezen";
 "voiceOver_stopLiveText" = "Stop met lezen";
 "voiceOver_scanDocumentsButton" = "Lees document";
-"voiceOver_HandwritternText" = "Read Handwritten text";
+"voiceOver_HandwritternText" = "Lees handgeschreven tekst";
 "voiceOver_tapView" = "Beschrijf omgeving";
 "voiceOver_trainButtonMessage" = "Leer Envision gezichten en objecten herkennen";
 "voiceOver_Export" = "Aandelentekst";
 "voiceOver_NoText" = "Geen tekst gevonden";
+"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //Teaching Strings
 
@@ -57,6 +58,7 @@
 
 "voiceOver_Tutorials" = "Tutorial";
 "voiceOver_Feedback" = "Geef feedback";
+"voiceOver_Send" = "Verzenden";
 "voiceOver_WriteFeedback" = "Schrijf uw feedback zo gedetailleerd mogelijk";
 "voiceOver_Book" = "Vraag een telefoongesprek aan";
 "voiceOver_Cancel" = "Cancel";
