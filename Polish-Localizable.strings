@@ -19,7 +19,7 @@
 
 "onbarding_OCRButtonMessage" = "Tapnij ten przycisk, aby rozpocząć czytanie krótkich fragmentów tekstu w czasie rzeczywistym.";
 "onboarding_documentText" = "Tapnij ten przycisk, aby zrobić zdjęcie długich tekstów z dokumentów i je przeczytać.";
-"onboarding_HandwritternText" = "Tapnij ten przycisk, zrobić zdjęcie odręcznego tekstu i je przeczytać.";
+"onboarding_HandwritternText" = "Tapnij ten przycisk, aby zrobić zdjęcie pisanego ręcznie tekstu i odczytać go.";
 "onboarding_tapViewMessage" = "Tapnij ten przycisk, aby zrobić zdjęcie i opisać scene.";
 "onboarding_trainButtonMessage" = "Tapnij ten przycisk, aby nauczyć Envision nowych twarzy i przedmiotów.";
 "onboarding_feedbackButton" = "Tapnij tutaj, aby wyświetlić samouczek o Envision.";
@@ -31,7 +31,7 @@
 "voiceOver_startLiveText" = "Rozpocznij czytanie tekstu.";
 "voiceOver_stopLiveText" = "Zatrzymaj czytanie tekstu";
 "voiceOver_scanDocumentsButton" = "Czytaj dokument.";
-"voiceOver_HandwritternText" = "Przeczytaj Odręczny tekstu.";
+"voiceOver_HandwritternText" = "Przeczytaj tekst pisany ręcznie";
 "voiceOver_tapView" = "Opisz scenę.";
 "voiceOver_trainButtonMessage" = "Ucz program twarzy i przedmiotów.";
 "voiceOver_Export" = "Eksportuj tekst";
