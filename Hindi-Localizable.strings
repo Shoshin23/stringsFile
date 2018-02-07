@@ -14,6 +14,7 @@
 "voiceOver_Email" = "ईमेल के साथ लॉगिन";
 "login_terms" = "लॉग इन करके आप यह इंगित कर रहे हैं कि आपने Privacy Policy और Terms of Use को पढ़ लिया है और उससे सहमत है।";
 "voiceOver_LoginMessage" = "अगर आपके पास पहले से कोई खाता नहीं है, तो यह आपके लिए बनाया जाएगा।";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
 
 //Onboarding strings
 
@@ -51,6 +52,7 @@
 "voiceOver_enter" = "नाम लिखें";
 "voiceOver_TeachEnvision" = "सिखाएं";
 "voiceOver_success" = "सिखाना सफल रहा";
+"voiceOver_Processing" = "Processing";
 "voiceOver_SwitchToFront" = "फ्रंट कैमरा पर स्विच करें";
 "voiceOver_SwitchToBack" = "बैक कैमरा पर स्विच करें";
 
@@ -67,6 +69,7 @@
 "voiceOver_Account" = "खाता विवरण";
 "voiceOver_Subscription" = "सब्स्क्रिप्शन जांचें";
 "voiceOver_About" = "एनविजन के बारे में";
+"voiceOver_Expired" = "Expired";
 "voiceOver_Disclaimer" = "Envision AI हमेशा सही नहीं होता है और इसलिए इन्हें नेविगेट करने के लिए इस्तेमाल नहीं किया जाना चाहिए या ऐसी स्थिति में जहां आपको नुकसान हो सकता है। यह किसी वैद्यकीय स्थिति या बीमारी का पता लगाने, निदान, निगरानी प्रबंधन या उपचार के लिए अभिप्रेत नहीं है। उपयोगकर्ताओं को चिकित्सक से कोई भी चिकित्सा सलाह लेनी चाहिए आप अपने स्वयं के जोखिम पर Envision AI का उपयोग करें";
 "voiceOver_SubMessage" = "आप हमारे उपयोगकर्ता, सदस्य और सहयोगी हो सकते हैं हमारे अनुकूल सब्स्क्रिप्शन योजना में से एक में शामिल होकर";
 "voiceOver_SubAlert" = "माफ़ कीजिये! लेकिन आपकी निशुल्क परीक्षण अवधि समाप्त हो गई है। आप हमारी आसान योजनाओं में से किसी एक को क्यों नहीं लेते हैं?";

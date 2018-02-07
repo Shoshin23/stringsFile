@@ -8,74 +8,77 @@
 
 //Login Strings
 
-"login_please" = "Please log in using one of the following ways:";
-"voiceOver_Facebook" = "Login with Facebook";
-"voiceOver_Google" = "Login with Google";
-"voiceOver_Email" = "Login with Email";
-"login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
-"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
+"login_please" = "נא להכנס באחת מהדרכים הבאות";
+"voiceOver_Facebook" = "Facebook כניסה עם";
+"voiceOver_Google" = "Google כניסה עם";
+"voiceOver_Email" = "Email כניסה עם";
+"login_terms" = "בכניסתך אתה מתחייב שאתה מסכים Terms of Use and Privacy Policy";
+"voiceOver_LoginMessage" = "אם אין לך כבר חשבון, החשבון יווצר בשבילך";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
 
 //Onboarding strings
 
-"onboarding_trainButtonMessage" = "הקש/י כאן ללימוד Envision אודות פנים וחפצים.";
-"onboarding_tapViewMessage" = "הקש/י בכל מקום במרכז המסך לצילום תמונה.";
-"onbarding_OCRButtonMessage" = "הקש/י על כפתור זה לקריאת מלל בזמן אמת.";
-"onboarding_documentText" = "הקש/י כאן לסריקת מסמכים או קריאת פריטי מלל ארוכים";
-"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
+"onboarding_trainButtonMessage" = "הקש על כפתור זה על-מנת ללמד את Envision פנים חדשות וחפצים";
+"onboarding_tapViewMessage" = "כדי לקבל תיאות של סביבתך";
+"onbarding_OCRButtonMessage" = "הקש על כפתור זה על-מנת להקריא טקסט קצר בזמן אמת";
+"onboarding_documentText" = "הקש על כפתור זה על-מנת להקריא מסמכי טקסט ארוכים";
+"onboarding_HandwritternText" = "הקש על כפתור זה על-מנת להקריא טקסט בכתב יד";
 
 //VoiceOver strings
 
-"voiceOver_TextRecognition" = "Text Recognition";
-"voiceOver_GeneralRecognition" = "General Recognition";
-"voiceOver_HelpSettings" = "Help and Settings";
-"voiceOver_startLiveText" = "Start reading text";
-"voiceOver_stopLiveText" = "Stop reading text";
-"voiceOver_trainButtonMessage" = "לימוד פנים וחפצים";
-"voiceOver_tapView" = "צלם/י תמונה";
-"voiceOver_scanDocumentsButton" = "קריאת מסמכים";
-"voiceOver_HandwritternText" = "Read Handwritten text";
+"voiceOver_TextRecognition" = "זיהוי טקסט";
+"voiceOver_GeneralRecognition" = "זיהוי כללי";
+"voiceOver_HelpSettings" = "עזרה והגדרות";
+"voiceOver_startLiveText" = "התחל הקראת טקסט";
+"voiceOver_stopLiveText" = "עצור הקראת טקסט";
+"voiceOver_trainButtonMessage" = "לימוד זיהוי פנים וחפצים";
+"voiceOver_tapView" = "תאר דברים";
+"voiceOver_scanDocumentsButton" = "קריאת מסמכיםקרא מסמך";
+"voiceOver_HandwritternText" = "קרא טקסט בכתב יד";
 "voiceOver_Export" = "ייצוא טקסט";
-"voiceOver_NoText" = "No Text Found.";
-"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
+"voiceOver_NoText" = "לא נמצא טקסט";
+"voiceOver_Blurred" = "התמונה נראית מטושטשת, נא צלם תמונה חדשה";
 
 //Teaching Strings
 
-"voiceOver_train" = "What would you like to teach?";
+"voiceOver_train" = "מה ברצונך ללמד";
 "voiceOver_person" = "לימוד פני חבריך.";
 "voiceOver_object" = "לימוד חפצים";
-"voiceOver_library" = "Open library.";
+"voiceOver_library" = "פתיחת ספריה";
 "voiceOver_takePhotoButton" = "צלם/י תמונה";
-"voiceOver_countdown" = "Add %d more images";
-"voiceOver_countdownlast" = "Add 1 more image";
+"voiceOver_countdown" = "צלם עוד %d תמונות";
+"voiceOver_countdownlast" = "הוסף עוד תמונה אחת";
 "voiceOver_DoneButton" = "סיום צילום תמונות";
-"voiceOver_enter" = "Enter name";
-"voiceOver_TeachEnvision" = "Teach Envision";
-"voiceOver_success" = "Teaching successful";
-"voiceOver_SwitchToFront" = "Switch to Front Camera";
-"voiceOver_SwitchToBack" = "Switch to Back Camera";
+"voiceOver_enter" = "הכנס שם";
+"voiceOver_TeachEnvision" = "לימוד Envision";
+"voiceOver_success" = "הלימוד הצליח";
+"voiceOver_Processing" = "Processing";
+"voiceOver_SwitchToFront" = "החלף למצלמה קידמית";
+"voiceOver_SwitchToBack" = "החלף למצלמה אחורית";
 
 //Help and Settings Strings
 
-"voiceOver_Tutorials" = "Read tutorials";
-"voiceOver_Feedback" = "Give Feedback";
-"voiceOver_WriteFeedback" = "Please write your feedback in as much detail as possible";
-"voiceOver_Send" = "Send";
-"voiceOver_Book" = "Request a Call";
-"voiceOver_RequestSent" = "Request Sent";
-"voiceOver_Cancel" = "Cancel";
-"voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
-"voiceOver_Account" = "Account Details";
-"voiceOver_Subscription" = "Check Subscriptions";
-"voiceOver_About" = "About Envision";
+"voiceOver_Tutorials" = "קרא הדרכות";
+"voiceOver_Feedback" = "שלח משוב";
+"voiceOver_WriteFeedback" = "נא כתוב את המשוב שלך בצורה מפורטת ככל הניתן";
+"voiceOver_Send" = "שלח";
+"voiceOver_Book" = "בקשת שיחת תמיכה";
+"voiceOver_RequestSent" = "בקשה נשלחה";
+"voiceOver_Cancel" = "ביטול";
+"voiceOver_CallMessage" = "אם אתה חווה בעיות או שיש לך משהו שברצונך לפתור תוכל להתקשר אלינו וננסה לפתור";
+"voiceOver_Account" = "פרטי חשבון";
+"voiceOver_Subscription" = "בדוק מינוי";
+"voiceOver_Expired" = "Expired";
+"voiceOver_About" = "אודות Envision";
 "voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
-"voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
-"voiceOver_SubAlert" = "Sorry! But your free trial period has come to an end. Why don’t you subscribe to one of our friendly and affordable plans?";
-"voiceOver_logout" = "Logout";
-"voiceOver_FreeTrial" = "Free Trial";
-"voiceOver_MonthlySubscription" = "Monthly Subscription";
-"voiceOver_SixMonthSubscription" = "Six-months Subscription";
-"voiceOver_AnnualSubscription" = "Annual Subscription";
-"voiceOver_RestorePurchase" = "Restore Purchase";
+"voiceOver_SubMessage" = "על ידי הרשמה כמנוי אתה מאפשר לנו להשתפר ולגדול על ידי הרשמתך לאחד מהמנויים הבאים";
+"voiceOver_SubAlert" = "מצטערים, אבל המינוי שלך מסתיים בסוף החודש, למה שלא תצטרף לאחת מהתוכניות הידידותית שלנו?";
+"voiceOver_logout" = "יציאה";
+"voiceOver_FreeTrial" = "נסיון בחינם";
+"voiceOver_MonthlySubscription" = "מינוי חודשי";
+"voiceOver_SixMonthSubscription" = "מינוי לשישה חודשים";
+"voiceOver_AnnualSubscription" = "מינוי שנתי";
+"voiceOver_RestorePurchase" = "שחזור רכישות";
 "voiceOver_OneMonth" = "one whole month";
 "voiceOver_SixMonths" = "six months";
 "voiceOver_OneYear" = "a whole year";
@@ -83,16 +86,16 @@
 
 //Walkthrough Strings
 
-"voiceOver_welcomeScreenHeading" = "Welcome to Envision";
+"voiceOver_welcomeScreenHeading" = "ברוכים הבאים ל-Envision";
 "voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
-"voiceOver_textScreenHeading" = "Read all kinds of texts";
-"voiceOver_textScreenDetail" = "Be it short pieces of text that need to be read in real time or longer texts in documents that need to be explored.";
-"voiceOver_recogniseHeading" = "Recognise people and objects";
-"voiceOver_recogniseDetail" = "Have the scenes around you described to you including recognition of people and objects in it that you can train.";
-"voiceOver_shareScreenHeading" = "Envision all the photos";
-"voiceOver_shareScreenDetail" = "Have all the photos from any app be described, read and saved by selecting Envision from the photo’s sharesheet.";
+"voiceOver_textScreenHeading" = "קרא כל סוג של טקסט";
+"voiceOver_textScreenDetail" = "שנצרכים בזמן אמת או להקראת מסמכים ארוכים לניווט וסייור בהם";
+"voiceOver_recogniseHeading" = "זיהוי אנשים וחפצים";
+"voiceOver_recogniseDetail" = "יכולת לראיה ולאימון של חפצים בסביבתך";
+"voiceOver_shareScreenHeading" = "Envision כל התמונות";
+"voiceOver_shareScreenDetail" = "אפשרות לשיתוף כל תמונה כדי לקבל תיאור מספריית התמונות שלך";
 "voiceOver_finalScreenHeading" = "A lot more to come";
-"voiceOver_finalScreenDetail" = "New features, improvements and actions are constantly added to the service. The wheels are always turning.";
-"voiceOver_Skip" = "Skip";
-"voiceOver_Login"= "Login";
-"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
+"voiceOver_finalScreenDetail" = "השירות כל הזמן לומד";
+"voiceOver_Skip" = "דלג";
+"voiceOver_Login"= "כניסה";
+"voiceOver_TrialStart" = "אתה משתמש כרגע באפליקצייה לתקופה של 14 ימי נסיון, אנו מקווים שאתה נהנה מהשימוש באפליקציה אתה מוזמן ליצור קשר בכל  בעיה תתעורר";

@@ -14,6 +14,7 @@
 "voiceOver_Email" = "Login mit Email";
 "login_terms" = "Indem Du Dich einlogst, zeigst Du an, dass Du die Maßgaben zum Privacy Policy und die Terms of Use gelesen und akzeptiert hast.";
 "voiceOver_LoginMessage" = "Wenn Du noch keinen Account hast, kann er für Dich erstellt werden";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
 
 //Onboarding strings
 
@@ -50,6 +51,7 @@
 "voiceOver_countdown" = "Füge %d weitere Abbilder hinzu";
 "voiceOver_countdownlast" = "Nog 1 beeld toevoegen";
 "voiceOver_success" = "Trainieren erfolgreich";
+"voiceOver_Processing" = "Processing";
 "voiceOver_SwitchToFront" = "Schalte zu vorderseitiger Kamera";
 "voiceOver_SwitchToBack" = "Schalte zu rückseitiger Kamera";
 "voiceOver_TeachEnvision" = "Trainiere Envision";
@@ -66,6 +68,7 @@
 "voiceOver_RequestSent" = "Anforderung gesendet";
 "voiceOver_Account" = "Account Details";
 "voiceOver_Subscription" = "Abonements überprüfen";
+"voiceOver_Expired" = "Expired";
 "voiceOver_About" = "Über Envision";
 "voiceOver_Disclaimer" = "Envision arbeitet nicht immer korrekt und einwandfreiund sollte nicht für Navigationszwecke oder in Situationen verwendet werden, in denen Du verletzungen erleiden könntest. Die App ist nicht für Überprüfungs- oder Übewachungsaufgaben oder zur Behandlung irgendwelcher medizinischer Bedingungen oder von Krankheiten konzipiert. Anwender sollten in solchen Fällen einen Arzt konsultieren. Du verwendest Envision auf eigene Gefahr.";
 "voiceOver_SubMessage" = "Sei ein Mitglied und Teilhaber des stetig wachsenden und sich kontinuierlich verbessernden Envision service, indem Du einen der nachfolgenden Abonement-Pläne nutzt.";

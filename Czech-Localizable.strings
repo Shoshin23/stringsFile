@@ -14,6 +14,7 @@
 "voiceOver_Email" = "Přihlásit se pomocí Email";
 "login_terms" = "Přihlášením vyjadřujete souhlas, že jste si přečetli, a že schvalujete Privacy Policy a Terms of Use";
 "voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
 
 //Onboarding strings
 
@@ -50,6 +51,7 @@
 "voiceOver_DoneButton" = "Dokončit focení";
 "voiceOver_enter" = "Zadejte název";
 "voiceOver_TeachEnvision" = "Učit Envision";
+"voiceOver_Processing" = "Processing";
 "voiceOver_success" = "Učení úspěšně dokončeno";
 "voiceOver_SwitchToFront" = "Přepnout na přední kameru";
 "voiceOver_SwitchToBack" = "Přepnout na zadní kameru";
@@ -66,6 +68,7 @@
 "voiceOver_CallMessage" = "Jestliže se potýkáte s nějakým problémem nebo potřebujete nějaké podrobnější vysvětlení, tak můžete zažádat o telefonní hovor a my vám osobně zavoláme a pokusíme se vyřešit jakýkoliv problém.";
 "voiceOver_Account" = "Podrobnosti o účtu";
 "voiceOver_Subscription" = "Zkontrolovat předplatné";
+"voiceOver_Expired" = "Expired";
 "voiceOver_About" = "O Envision";
 "voiceOver_Disclaimer" = "Aplikace Envision AI není vždy přesná, ap roto by neměla být používána pro navigaci nebo v situacích, kdy můžete být zraněni. Není určena pro detekci, diagnózu, správu sledování nebo při léčbě jakéhokoliv zdravotního stavu či nemoci. Uživatelé by měli vyhledat jakoukoliv lékařskou radu od lékaře. Envision AI používáte na vaše vlastní riziko.";
 "voiceOver_SubMessage" = "Staňte se uživatelem, členem a přispěvatelem stále se rozrůstající a vylepšující se služby Envision přihlášením se k jednomu z níže uvedenému plánu předplatného.";

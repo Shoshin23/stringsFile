@@ -14,6 +14,7 @@
 "voiceOver_Email" = "Aanmelden met Email";
 "login_terms" = "Door je aan te melden geef je aan dat je het Privacy Policy en Terms of Use hebt gelezen en hiermee akkoord gaat";
 "voiceOver_LoginMessage" = "Als u nog geen account hebt, wordt deze voor u aangemaakt.";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
 
 // Onboarding Strings
 
@@ -50,6 +51,7 @@
 "voiceOver_success" = "Envision heeft het geleerd";
 "voiceOver_SwitchToFront" = "Wissel naar camera aan de voorzijde";
 "voiceOver_SwitchToBack" = "Wissel naar camera aan de achterzijde";
+"voiceOver_Processing" = "Processing";
 "voiceOver_countdown" = "Voeg %d afbeeldingen toe";
 "voiceOver_countdownlast" = "Voeg nog 1 afbeelding toe";
 "voiceOver_TeachEnvision" = "Leer Envision";
@@ -66,6 +68,7 @@
 "voiceOver_CallMessage" = "Als je met Envision tegen problemen aan loopt of je wilt verdere uitleg, dan kan je een telefoongesprek aanvragen. We zullen je dan persoonlijk bellen en het probleem oplossen.";
 "voiceOver_Account" = "Profiel details";
 "voiceOver_Subscription" = "Bekijk Abonnementen ";
+"voiceOver_Expired" = "Expired";
 "voiceOver_About" = "Over Envision";
 "voiceOver_Disclaimer" = "Envision AI is niet altijd accuraat en moet daarom niet worden gebruikt in situaties die gevaarlijk kunnen zijn. Het is niet bedoelt voor de diagnose, behandeling  of controle van ziektes en aandoeningen. In het geval van medische klachten wordt aangeraden contact op te nemen met een arts. Het gebruik van Envision AI is op eigen risico.";
 "voiceOver_SubMessage" = "Wordt een gebruiker, lid en draag bij aan de verbetering van de Envision service door je te abonneren op een van de volgende abonnementen ";
