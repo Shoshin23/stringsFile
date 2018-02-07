@@ -46,12 +46,12 @@
 "voiceOver_object" = "Ucz przedmiotów.";
 "voiceOver_library" = "Otwórz bibliotekę.";
 "voiceOver_takePhotoButton" = "Zrób zdjęcie.";
-"voiceOver_countdown" = "Dodaj %d zdjęć.";
+"voiceOver_countdown" = "Dodaj %d zdjęcia";
 "voiceOver_countdownlast" = "Dodaj 1 zdjęcie";
 "voiceOver_DoneButton" = "Zakończ robienie zdjęć.";
 "voiceOver_enter" = "Wprowadź nazwę.";
 "voiceOver_success" = "Nauczanie zakończone powodzeniem.";
-"voiceOver_Processing" = "Processing";
+"voiceOver_Processing" = "Przetwarzanie";
 "voiceOver_TeachEnvision" = "Naucz Envision";
 "voiceOver_SwitchToFront" = "Przełącz na przednią kamerę";
 "voiceOver_SwitchToBack" = "Przełącz na tylnią kamerę";
@@ -68,7 +68,7 @@
 "voiceOver_CallMessage" = "Jeśli napotkasz jakiekolwiek problemy lub chciałbyś uzyskać więcej wyjaśnień na temat programu, Zarezerwuj rozmowę telefoniczną za naszym pośrednictwem. Osobiście do ciebie zadzwonimy i spróbujemy rozwiązać każdy problem, który możesz mieć.";
 "voiceOver_Account" = "Szczegóły konta.";
 "voiceOver_Subscription" = "Sprawdź subskrypcję.";
-"voiceOver_Expired" = "Expired";
+"voiceOver_Expired" = "Wygasła";
 "voiceOver_About" = "o Envision";
 "voiceOver_Disclaimer" = "Program używa sztucznej inteligencji. Sztuczna inteligencja nie zawsze jest dokładna i dlatego nie powinna być używana do nawigacji ani w sytuacji, w której możesz zostać skrzywdzony. Nie jest przeznaczony do wykrywania, diagnozowania, monitorowania, leczenia jakiegokolwiek stanu medycznego czy choroby. Użytkownicy powinni zasięgnąć porady lekarskiej od lekarza. Korzystasz z Envision AI na własne ryzyko.";
 "voiceOver_SubMessage" = "Zostań użytkownikiem, członkiem i uczestnikiem stale rosnącej i ulepszanej usługi Envision, zarejestruj się w jednym z naszych poniższych planów subskrypcyjnych.";
