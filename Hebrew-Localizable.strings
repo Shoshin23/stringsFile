@@ -14,7 +14,7 @@
 "voiceOver_Email" = "Email כניסה עם";
 "login_terms" = "בכניסתך אתה מתחייב שאתה מסכים Terms of Use and Privacy Policy";
 "voiceOver_LoginMessage" = "אם אין לך כבר חשבון, החשבון יווצר בשבילך";
-"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_EmailConfirmation" = "הודעת עימות נשלחה לכתובת דואר האלקטרוני שלך, נא עמת את החשבון תוך 48 שעות לשימוש ב-Envision בלי הפרעה‫ב-7 בפבר׳";
 
 //Onboarding strings
 
@@ -52,7 +52,7 @@
 "voiceOver_enter" = "הכנס שם";
 "voiceOver_TeachEnvision" = "לימוד Envision";
 "voiceOver_success" = "הלימוד הצליח";
-"voiceOver_Processing" = "Processing";
+"voiceOver_Processing" = "מעבד";
 "voiceOver_SwitchToFront" = "החלף למצלמה קידמית";
 "voiceOver_SwitchToBack" = "החלף למצלמה אחורית";
 
@@ -68,7 +68,7 @@
 "voiceOver_CallMessage" = "אם אתה חווה בעיות או שיש לך משהו שברצונך לפתור תוכל להתקשר אלינו וננסה לפתור";
 "voiceOver_Account" = "פרטי חשבון";
 "voiceOver_Subscription" = "בדוק מינוי";
-"voiceOver_Expired" = "Expired";
+"voiceOver_Expired" = "פג תוקף";
 "voiceOver_About" = "אודות Envision";
 "voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
 "voiceOver_SubMessage" = "על ידי הרשמה כמנוי אתה מאפשר לנו להשתפר ולגדול על ידי הרשמתך לאחד מהמנויים הבאים";
@@ -87,14 +87,14 @@
 //Walkthrough Strings
 
 "voiceOver_welcomeScreenHeading" = "ברוכים הבאים ל-Envision";
-"voiceOver_welcomeScreenDetail" = "envision is a service to convert images from your surrounding into accessible information.";
+"voiceOver_welcomeScreenDetail" = "הוא שירות המרת תמונות מסביבתך עלמידע נגיש Envision";
 "voiceOver_textScreenHeading" = "קרא כל סוג של טקסט";
 "voiceOver_textScreenDetail" = "שנצרכים בזמן אמת או להקראת מסמכים ארוכים לניווט וסייור בהם";
 "voiceOver_recogniseHeading" = "זיהוי אנשים וחפצים";
 "voiceOver_recogniseDetail" = "יכולת לראיה ולאימון של חפצים בסביבתך";
 "voiceOver_shareScreenHeading" = "Envision כל התמונות";
 "voiceOver_shareScreenDetail" = "אפשרות לשיתוף כל תמונה כדי לקבל תיאור מספריית התמונות שלך";
-"voiceOver_finalScreenHeading" = "A lot more to come";
+"voiceOver_finalScreenHeading" = "ההרבה יותר";
 "voiceOver_finalScreenDetail" = "השירות כל הזמן לומד";
 "voiceOver_Skip" = "דלג";
 "voiceOver_Login"= "כניסה";
