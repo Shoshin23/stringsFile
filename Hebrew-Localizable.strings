@@ -9,8 +9,8 @@
 //Login Strings
 
 "login_please" = "נא להכנס באחת מהדרכים הבאות";
-"voiceOver_Facebook" = "Facebook כניסה עם";
-"voiceOver_Google" = "Google כניסה עם";
+"voiceOver_Facebook" = "התחבר עם פייסבוק";
+"voiceOver_Google" = "כניסה עם חשבון גוגל";
 "voiceOver_Email" = "Email כניסה עם";
 "login_terms" = "בכניסתך אתה מתחייב שאתה מסכים Terms of Use and Privacy Policy";
 "voiceOver_LoginMessage" = "אם אין לך כבר חשבון, החשבון יווצר בשבילך";
@@ -33,7 +33,7 @@
 "voiceOver_stopLiveText" = "עצור הקראת טקסט";
 "voiceOver_trainButtonMessage" = "לימוד זיהוי פנים וחפצים";
 "voiceOver_tapView" = "תאר דברים";
-"voiceOver_scanDocumentsButton" = "קריאת מסמכיםקרא מסמך";
+"voiceOver_scanDocumentsButton" = "קרא מסמך";
 "voiceOver_HandwritternText" = "קרא טקסט בכתב יד";
 "voiceOver_Export" = "ייצוא טקסט";
 "voiceOver_NoText" = "לא נמצא טקסט";
