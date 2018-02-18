@@ -14,7 +14,7 @@
 "voiceOver_Email" = "Login with Email";
 "login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 "voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
-**"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
 
 //Onboarding strings
 
@@ -51,7 +51,7 @@
 "voiceOver_DoneButton" = "Done taking photos.";
 "voiceOver_enter" = "Enter name";
 "voiceOver_TeachEnvision" = "Teach Envision";
-**"voiceOver_Processing" = "Processing";
+"voiceOver_Processing" = "Processing";
 "voiceOver_success" = "Teaching successful";
 "voiceOver_SwitchToFront" = "Switch to Front Camera";
 "voiceOver_SwitchToBack" = "Switch to Back Camera";
@@ -68,7 +68,7 @@
 "voiceOver_CallMessage" = "If you are facing any problems or would like to gain more clarification on anything, you can book a call with us. We will personally call you and try to resolve any issue that you might have.";
 "voiceOver_Account" = "Account Details";
 "voiceOver_Subscription" = "Check Subscriptions";
-**"voiceOver_Expired" = "Expired";
+"voiceOver_Expired" = "Expired";
 "voiceOver_About" = "About Envision";
 "voiceOver_Disclaimer" = "Envision AI is not always accurate and hence should not be used to navigate or in situation where you could be harmed. It is not intended for detection, diagnosis, monitoring management or treatment of any medical condition or disease. Users should seek any medical advice from a physician. You use Envision AI at your own risk.";
 "voiceOver_SubMessage" = "Be a user, member and contributor to the ever-growing and improving Envision service by signing up to one of our following subscription plans";
