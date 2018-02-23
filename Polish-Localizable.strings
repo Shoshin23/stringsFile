@@ -39,6 +39,24 @@
 "voiceOver_NoText" = "Nieznaleziono tekstu";
 "voiceOver_Blurred" = "Zdjęcie wydaje się niewyraźne. Proszę zrób kolejne.";
 
+//New
+"voiceOver_topEdge" = "Top Edge";
+"voiceOver_bottomEdge" = "Bottom Edge";
+"voiceOver_leftEdge" = "Left Edge";
+"voiceOver_rightEdge" =  "Right Edge";
+"voiceOver_noEdgesVisible" = "No edges visible";
+"voiceOver_allEdgesVisible" =  "All edges visible";
+"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ not visible";
+"voiceOver_play" = "Play";
+"voiceOver_pause" = "Pause";
+"voiceOver_adjustSpeed" = "Set speaking rate";
+"voiceOver_nextPage" = "Next page";
+"voiceOVer_previousPage" = "Previous page";
+"voiceOver_pageCount" = "Page %@ of %@";
+"voiceOver_multiplePages" = "Would you like to read muliple pages?";
+"voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
+
+
 //Teaching strings
 
 "voiceOver_train" = "Czego chciałbyś nauczyć program?";
