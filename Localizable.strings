@@ -38,6 +38,16 @@
 "voiceOver_Export" = "Export Text";
 "voiceOver_NoText" = "No Text Found.";
 "voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
+"voiceOver_topEdge" = "Top edge not visible";
+"voiceOver_bottomEdge" = "Bottom edge not visible";
+"voiceOver_noEdgesVisible" = "No edges visible";
+"voiceOver_play" = "Play";
+"voiceOver_pause" = "Pause";
+"voiceOver_adjustSpeed" = "Adjust rate of speech";
+"voiceOver_nextPage" = "next page";
+"voiceOVer_previousPage" = "previous page";
+"voiceOver_pageCount" = "page %@ of %@";
+
 
 //Teaching strings
 
