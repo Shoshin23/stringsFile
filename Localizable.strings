@@ -57,9 +57,8 @@
 "voiceOver_pageCount" = "%@ of %@";
 "voiceOver_multiplePages" = "Would you like to read multiple pages?";
 "voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
-**"voiceOver_description" = "Description";
-**"voiceOver_close" = "Close";
-
+"voiceOver_description" = "Description";
+"voiceOver_close" = "Close";
 
 //Teaching strings
 
