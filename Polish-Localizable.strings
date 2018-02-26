@@ -40,21 +40,25 @@
 "voiceOver_Blurred" = "Zdjęcie wydaje się niewyraźne. Proszę zrób kolejne.";
 
 //New
-"voiceOver_topEdge" = "Top Edge";
-"voiceOver_bottomEdge" = "Bottom Edge";
-"voiceOver_leftEdge" = "Left Edge";
-"voiceOver_rightEdge" =  "Right Edge";
-"voiceOver_noEdgesVisible" = "No edges visible";
-"voiceOver_allEdgesVisible" =  "All edges visible";
-"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ not visible";
-"voiceOver_play" = "Play";
-"voiceOver_pause" = "Pause";
-"voiceOver_adjustSpeed" = "Set speaking rate";
-"voiceOver_nextPage" = "Next page";
-"voiceOVer_previousPage" = "Previous page";
-"voiceOver_pageCount" = "Page %@ of %@";
-"voiceOver_multiplePages" = "Would you like to read muliple pages?";
-"voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
+"voiceOver_topEdge" = "Górna krawędź";
+"voiceOver_bottomEdge" = "Dolna krawędź";
+"voiceOver_leftEdge" = "Lewa krawędź";
+"voiceOver_rightEdge" =  "Prawa krawędź";
+"voiceOver_noEdgesVisible" = "Brak widocznych krawędzi";
+"voiceOver_allEdgesVisible" = "Wszystkie krawędzie są Widoczne. Trzymaj stabilnie.";
+"voiceOver_threeEdgesNotVisible" = "%@, %@ i %@ są niewidoczne.";
+"voiceOver_twoEdgesNotVisible" = "%@ i %@ są niewidoczne.";
+"voiceOver_oneEdgeNotVisible" = "%@ są niewidoczne";
+"voiceOver_play" = "Odtwórz";
+"voiceOver_pause" = "Pauza";
+"voiceOver_adjustSpeed" = "Prędkość mowy: %@";
+"voiceOver_nextPage" = "Następna strona";
+"voiceOVer_previousPage" = "Poprzednia strona";
+"voiceOver_pageCount" = "%@ z %@";
+"voiceOver_multiplePages" = "Czy chcesz przeczytać wiele stron?";
+"voiceOver_documentTextHint" = "Tapnij dwukrotnie z przytrzymaniem, aby przeczytać wiele stron.";
+"voiceOver_description" = "Opis";
+"voiceOver_close" = "Zamknij";
 
 
 //Teaching strings

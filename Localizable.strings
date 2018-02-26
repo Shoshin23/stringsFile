@@ -45,16 +45,21 @@
 "voiceOver_leftEdge" = "Left Edge";
 "voiceOver_rightEdge" =  "Right Edge";
 "voiceOver_noEdgesVisible" = "No edges visible";
-"voiceOver_allEdgesVisible" =  "All edges visible";
-"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ not Visible";
+"voiceOver_allEdgesVisible" =  "All edges visible. Hold Steady";
+"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ not visible";
+"voiceOver_twoEdgesNotVisible" = "%@ and %@ not visible.";
+"voiceOver_oneEdgeNotVisible" = "%@ not visible.";
 "voiceOver_play" = "Play";
 "voiceOver_pause" = "Pause";
 "voiceOver_adjustSpeed" = "Set speaking rate";
 "voiceOver_nextPage" = "Next page";
 "voiceOVer_previousPage" = "Previous page";
-"voiceOver_pageCount" = "Page %@ of %@";
+"voiceOver_pageCount" = "%@ of %@";
 "voiceOver_multiplePages" = "Would you like to read multiple pages?";
 "voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
+**"voiceOver_description" = "Description";
+**"voiceOver_close" = "Close";
+
 
 //Teaching strings
 
