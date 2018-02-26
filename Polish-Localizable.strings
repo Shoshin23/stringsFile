@@ -46,9 +46,9 @@
 "voiceOver_rightEdge" =  "Prawa krawędź";
 "voiceOver_noEdgesVisible" = "Brak widocznych krawędzi";
 "voiceOver_allEdgesVisible" = "Wszystkie krawędzie są Widoczne. Trzymaj stabilnie.";
-"voiceOver_threeEdgesNotVisible" = "%@, %@ i %@ są niewidoczne.";
-"voiceOver_twoEdgesNotVisible" = "%@ i %@ są niewidoczne.";
-"voiceOver_oneEdgeNotVisible" = "%@ są niewidoczne";
+"voiceOver_threeEdgesNotVisible" = "%@, %@ i %@ jest niewidoczna.";
+"voiceOver_twoEdgesNotVisible" = "%@ i %@ jest niewidoczna";
+"voiceOver_oneEdgeNotVisible" = "%@ jest niewidoczna";
 "voiceOver_play" = "Odtwórz";
 "voiceOver_pause" = "Pauza";
 "voiceOver_adjustSpeed" = "Prędkość mowy: %@";
