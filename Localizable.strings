@@ -29,8 +29,8 @@
 "voiceOver_TextRecognition" = "Text Recognition";
 "voiceOver_GeneralRecognition" = "General Recognition";
 "voiceOver_HelpSettings" = "Help and Settings";
-"voiceOver_startLiveText" = "Start reading text";
-"voiceOver_stopLiveText" = "Stop reading text";
+"voiceOver_startLiveText" = "Start reading instantly";
+"voiceOver_stopLiveText" = "Stop reading instantly";
 "voiceOver_scanDocumentsButton" = "Read Document";
 "voiceOver_HandwritternText" = "Read Handwritten text";
 "voiceOver_tapView" = "Describe Scene";
@@ -53,7 +53,7 @@
 "voiceOver_nextPage" = "Next page";
 "voiceOVer_previousPage" = "Previous page";
 "voiceOver_pageCount" = "Page %@ of %@";
-"voiceOver_multiplePages" = "Would you like to read muliple pages?";
+"voiceOver_multiplePages" = "Would you like to read multiple pages?";
 "voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
 
 //Teaching strings
