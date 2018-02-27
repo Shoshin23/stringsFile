@@ -54,11 +54,14 @@
 "voiceOver_adjustSpeed" = "Set speaking rate";
 "voiceOver_nextPage" = "Next page";
 "voiceOVer_previousPage" = "Previous page";
-"voiceOver_pageCount" = "%@ of %@";
+"voiceOver_pageCount" = "%d of %d";
 "voiceOver_multiplePages" = "Would you like to read multiple pages?";
 "voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
 "voiceOver_description" = "Description";
 "voiceOver_close" = "Close";
+"voiceOver_enterEmail" = "Enter email address";
+"voiceOver_enterPassword" = "Enter a valid password";
+"voiceOver_yes" = "Yes";
 
 //Teaching strings
 

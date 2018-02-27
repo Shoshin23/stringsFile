@@ -14,7 +14,7 @@
 "voiceOver_Email" = "Zaloguj się za pomocą Email";
 "login_terms" = "Logując się, potwierdzasz, że przeczytałeś i zgadzasz się z Polityką prywatności i warunkami użytkowania.";
 "voiceOver_LoginMessage" = "Jeżeli Jeszcze nie posiadasz konta, utworzymy je dla ciebie.";
-"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_EmailConfirmation" = "E-mail potwierdzający został wysłany na podany przez ciebie adres e-mail, potwierdź go w ciągu 48 h.";
 
 //Onboarding strings
 
@@ -53,12 +53,15 @@
 "voiceOver_pause" = "Pauza";
 "voiceOver_adjustSpeed" = "Prędkość mowy: %@";
 "voiceOver_nextPage" = "Następna strona";
-"voiceOVer_previousPage" = "Poprzednia strona";
-"voiceOver_pageCount" = "%@ z %@";
+"voiceOver_previousPage" = "Poprzednia strona";
+"voiceOver_pageCount" = "%d z %d";
 "voiceOver_multiplePages" = "Czy chcesz przeczytać wiele stron?";
 "voiceOver_documentTextHint" = "Tapnij dwukrotnie z przytrzymaniem, aby przeczytać wiele stron.";
 "voiceOver_description" = "Opis";
 "voiceOver_close" = "Zamknij";
+"voiceOver_enterEmail" = "Wprowadź poprawny identyfikator e-mail.";
+"voiceOver_enterPassword" = "Wprowadź poprawne hasło.";
+"voiceOver_yes" = "Tak";
 
 //Teaching strings
 
