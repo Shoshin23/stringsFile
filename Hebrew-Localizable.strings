@@ -54,7 +54,7 @@
 "voiceOver_adjustSpeed" = "מהירות הקראה";
 "voiceOver_nextPage" = "העמוד הבא";
 "voiceOver_previousPage" = "העמוד הקודם";
-"voiceOver_pageCount" = "d% מתוך d%";
+"voiceOver_pageCount" = "%d מתוך %d";
 "voiceOver_multiplePages" = "האם ברצונך לקרוא עמודים מרובים?";
 "voiceOver_documentTextHint" = "לחץ והחזק לקריאת עמודים מרובים";
 "voiceOver_description" = "תיאור";

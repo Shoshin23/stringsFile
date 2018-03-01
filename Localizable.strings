@@ -14,7 +14,7 @@
 "voiceOver_Email" = "Login with Email";
 "login_terms" = "By logging in you are indicating that you have read and agree to the Privacy Policy and Terms of Use.";
 "voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
-"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterruptedly.";
 
 //Onboarding strings
 
@@ -40,18 +40,18 @@
 "voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //New
-"voiceOver_topEdge" = "Top Edge";
-"voiceOver_bottomEdge" = "Bottom Edge";
-"voiceOver_leftEdge" = "Left Edge";
-"voiceOver_rightEdge" =  "Right Edge";
+"voiceOver_topEdge" = "Top";
+"voiceOver_bottomEdge" = "Bottom";
+"voiceOver_leftEdge" = "Left";
+"voiceOver_rightEdge" =  "Right";
 "voiceOver_noEdgesVisible" = "No edges visible";
 "voiceOver_allEdgesVisible" =  "All edges visible. Hold Steady";
-"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ not visible";
-"voiceOver_twoEdgesNotVisible" = "%@ and %@ not visible.";
-"voiceOver_oneEdgeNotVisible" = "%@ not visible.";
+"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ edges not visible";
+"voiceOver_twoEdgesNotVisible" = "%@ and %@ edges not visible.";
+"voiceOver_oneEdgeNotVisible" = "%@ edge not visible.";
 "voiceOver_play" = "Play";
 "voiceOver_pause" = "Pause";
-"voiceOver_adjustSpeed" = "Set speaking rate";
+"voiceOver_adjustSpeed" = "Speaking rate: %@";
 "voiceOver_nextPage" = "Next page";
 "voiceOVer_previousPage" = "Previous page";
 "voiceOver_pageCount" = "%d of %d";
