@@ -40,28 +40,29 @@
 "voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //New
-"voiceOver_topEdge" = "Top Edge";
-"voiceOver_bottomEdge" = "Bottom Edge";
-"voiceOver_leftEdge" = "Left Edge";
-"voiceOver_rightEdge" =  "Right Edge";
-"voiceOver_noEdgesVisible" = "No edges visible";
-"voiceOver_allEdgesVisible" =  "All edges visible";
-"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ not Visible";
-"voiceOver_twoEdgesNotVisible" = "%@ and %@ not visible.";
-"voiceOver_oneEdgeNotVisible" = "%@ not visible.";
-"voiceOver_play" = "Play";
-"voiceOver_pause" = "Pause";
-"voiceOver_adjustSpeed" = "Set speaking rate";
-"voiceOver_nextPage" = "Next page";
-"voiceOver_previousPage" = "Previous page";
-"voiceOver_pageCount" = "%d of %d";
-"voiceOver_multiplePages" = "Would you like to read muliple pages?";
-"voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
+"voiceOver_topEdge" = "Bovenkant";
+"voiceOver_bottomEdge" = "Onderkant";
+"voiceOver_leftEdge" = "Linkerkant";
+"voiceOver_rightEdge" =  "Rechterkant";
+"voiceOver_noEdgesVisible" = "Geen kanten zijn zichtbaar";
+"voiceOver_allEdgesVisible" =  "Alle kanten zijn zichtbaar";
+"voiceOver_threeEdgesNotVisible" = "%@, %@ en %@ zijn niet zichtbaar";
+"voiceOver_twoEdgesNotVisible" = "%@ and %@ zijn niet zichtbaar";
+"voiceOver_oneEdgeNotVisible" = "%@ zijn niet zichtbaar";
+"voiceOver_play" = "Afspelen";
+"voiceOver_pause" = "Pauze";
+"voiceOver_adjustSpeed" = "Spreek snelheid: %@";
+"voiceOver_nextPage" = "Volgende pagina";
+"voiceOver_previousPage" = "Vorige pagina";
+"voiceOver_pageCount" = "%d van %d";
+"voiceOver_multiplePages" = "Wil je meerdere pagina’s lezen?";
+"voiceOver_documentTextHint" = "Tik tweemaal en houd vast om meerdere pagina’s te lezen";
 "voiceOver_description" = "Description";
 "voiceOver_close" = "Close";
 "voiceOver_enterEmail" = "Enter email address";
 "voiceOver_enterPassword" = "Enter a valid password";
 "voiceOver_yes" = "Ja";
+
 
 //Teaching Strings
 
