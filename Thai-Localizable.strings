@@ -1,34 +1,38 @@
 /*
  Localizable.strings
- EnvisionBeta
+ Envision
  
  Created by Envision Tecnologies B.V.
  Copyright © 2017 Envision Technologies B.V. All rights reserved.
  */
 
 //New
-"voiceOver_topEdge" = "Top";
-"voiceOver_bottomEdge" = "Bottom";
-"voiceOver_leftEdge" = "Left";
-"voiceOver_rightEdge" =  "Right";
-"voiceOver_noEdgesVisible" = "No edges visible";
-"voiceOver_allEdgesVisible" =  "All edges visible";
-"voiceOver_threeEdgesNotVisible" = "%@, %@ and %@ edges not Visible";
-"voiceOver_twoEdgesNotVisible" = "%@ and %@ edges not visible.";
-"voiceOver_oneEdgeNotVisible" = "%@ edge not visible.";
-"voiceOver_play" = "Play";
-"voiceOver_pause" = "Pause";
-"voiceOver_adjustSpeed" = "Set speaking rate";
-"voiceOver_nextPage" = "Next page";
-"voiceOver_previousPage" = "Previous page";
-"voiceOver_pageCount" = "%d of %d";
-"voiceOver_multiplePages" = "Would you like to read muliple pages?";
-"voiceOver_documentTextHint" = "Double tap and hold to read multiple pages";
-"voiceOver_description" = "Description";
-"voiceOver_close" = "Close";
-"voiceOver_enterEmail" = "Enter email address";
-"voiceOver_enterPassword" = "Enter a valid password";
-"voiceOver_yes" = "Yes";
+"voiceOver_topEdge" = "ขอบด้านบน";
+"voiceOver_bottomEdge" = "ขอบด้านล่าง";
+"voiceOver_leftEdge" = "ขอบซ้าย";
+"voiceOver_rightEdge" =  "ขอบขวา";
+"voiceOver_noEdgesVisible" = "ไม่พบขอบเอกสาร";
+"voiceOver_allEdgesVisible" =  "พบขอบทั้งหมด";
+"voiceOver_threeEdgesNotVisible" = "ไม่พบขอบ 3 ด้านคือ ขอบ X, ขอบ Y, และขอบ Z";
+"voiceOver_twoEdgesNotVisible" = "ไม่พบขอบ 2 ด้านคือ ขอบ X และขอบ Y";
+"voiceOver_oneEdgeNotVisible" = "ไม่พบขอบ 1 ด้านคือ ขอบ X";
+"voiceOver_play" = "เล่น";
+"voiceOver_pause" = "หยุด";
+"voiceOver_adjustSpeed" = "ตั้งค่าความเร็วการพูด";
+"voiceOver_nextPage" = "หน้าถัดไป";
+"voiceOver_previousPage" = "หน้าก่อนหน้า";
+"voiceOver_pageCount" = "หน้าที่ 1 จาก X";
+"voiceOver_multiplePages" = "คุณต้องการอ่านแบบหลายหน้าใช่หรือไม่";
+"voiceOver_documentTextHint" = "แตะสองครั้งค้างไว้เพื่ออ่านเอกสารแบบหลายหน้า";
+"voiceOver_description" = "ข้อมูลเพิ่มเติม";
+"voiceOver_close" = "ปิด";
+"voiceOver_enterEmail" = "ป้อนอีเมลล์";
+"voiceOver_enterPassword" = "กรอกรหัสผ่าน";
+"voiceOver_yes" = "ใช่";
+"voiceOver_EmailConfirmation" = "ข้อมูลได้ถูกส่งไปยังอีเมลล์ของท่าน กรุณายืนยันรายการร้องขอของท่านภายใน 48 ชั่วโมง เพื่อการใช้งานอย่างต่อเนื่อง.";
+"voiceOver_Expired" = "หมดอายุ";
+"voiceOver_Processing" = "กำลังดำเนินการ";
+
 
 //Login Strings
 

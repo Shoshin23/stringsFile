@@ -14,7 +14,7 @@
 "voiceOver_Email" = "Aanmelden met Email";
 "login_terms" = "Door je aan te melden geef je aan dat je het Privacy Policy en Terms of Use hebt gelezen en hiermee akkoord gaat";
 "voiceOver_LoginMessage" = "Als u nog geen account hebt, wordt deze voor u aangemaakt.";
-"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_EmailConfirmation" = "Een bevestigingsmail is naar je verzonden. Bevestig je account binnen 48 uur om Envision ononderbroken te blijven gebruiken.";
 
 // Onboarding Strings
 
@@ -37,7 +37,7 @@
 "voiceOver_trainButtonMessage" = "Leer Envision gezichten en objecten herkennen";
 "voiceOver_Export" = "Deel Tekst";
 "voiceOver_NoText" = "Geen tekst gevonden";
-"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
+"voiceOver_Blurred" = "De foto lijkt onscherp. Maak een nieuwe.";
 
 //New
 "voiceOver_topEdge" = "Bovenkant";
@@ -57,10 +57,10 @@
 "voiceOver_pageCount" = "%d van %d";
 "voiceOver_multiplePages" = "Wil je meerdere pagina’s lezen?";
 "voiceOver_documentTextHint" = "Tik tweemaal en houd vast om meerdere pagina’s te lezen";
-"voiceOver_description" = "Description";
-"voiceOver_close" = "Close";
-"voiceOver_enterEmail" = "Enter email address";
-"voiceOver_enterPassword" = "Enter a valid password";
+"voiceOver_description" = "Beschrijving";
+"voiceOver_close" = "Sluiten";
+"voiceOver_enterEmail" = "Vul e-mailadres in";
+"voiceOver_enterPassword" = "Vul een geldig wachtwoord in";
 "voiceOver_yes" = "Ja";
 
 
@@ -76,7 +76,7 @@
 "voiceOver_success" = "Envision heeft het geleerd";
 "voiceOver_SwitchToFront" = "Wissel naar camera aan de voorzijde";
 "voiceOver_SwitchToBack" = "Wissel naar camera aan de achterzijde";
-"voiceOver_Processing" = "Processing";
+"voiceOver_Processing" = "Verwerken";
 "voiceOver_countdown" = "Voeg %d afbeeldingen toe";
 "voiceOver_countdownlast" = "Voeg nog 1 afbeelding toe";
 "voiceOver_TeachEnvision" = "Leer Envision";
@@ -88,12 +88,12 @@
 "voiceOver_Send" = "Verzenden";
 "voiceOver_WriteFeedback" = "Schrijf uw feedback zo gedetailleerd mogelijk";
 "voiceOver_Book" = "Vraag een telefoongesprek aan";
-"voiceOver_Cancel" = "Cancel";
+"voiceOver_Cancel" = "Annuleren";
 "voiceOver_RequestSent" = "Verzoek verzonden";
 "voiceOver_CallMessage" = "Als je met Envision tegen problemen aan loopt of je wilt verdere uitleg, dan kan je een telefoongesprek aanvragen. We zullen je dan persoonlijk bellen en het probleem oplossen.";
 "voiceOver_Account" = "Profiel details";
 "voiceOver_Subscription" = "Bekijk Abonnementen ";
-"voiceOver_Expired" = "Expired";
+"voiceOver_Expired" = "Verlopen";
 "voiceOver_About" = "Over Envision";
 "voiceOver_Disclaimer" = "Envision AI is niet altijd accuraat en moet daarom niet worden gebruikt in situaties die gevaarlijk kunnen zijn. Het is niet bedoelt voor de diagnose, behandeling  of controle van ziektes en aandoeningen. In het geval van medische klachten wordt aangeraden contact op te nemen met een arts. Het gebruik van Envision AI is op eigen risico.";
 "voiceOver_SubMessage" = "Wordt een gebruiker, lid en draag bij aan de verbetering van de Envision service door je te abonneren op een van de volgende abonnementen ";
@@ -123,4 +123,4 @@
 "voiceOver_finalScreenDetail" = "Nieuwe functies en verbeteringen worden constant aan Envision toegevoegd";
 "voiceOver_Skip" = "Sla over";
 "voiceOver_Login"= "Aanmelden";
-"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
+"voiceOver_TrialStart" = "Je gebruikt momenteel een 14 daagse gratis proefversie van Envision. We hopen dat je geniet van deze ervaring. Als je problemen ervaart neem dan contact met ons op.";
