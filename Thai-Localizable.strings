@@ -6,34 +6,6 @@
  Copyright © 2017 Envision Technologies B.V. All rights reserved.
  */
 
-//New
-"voiceOver_topEdge" = "ขอบด้านบน";
-"voiceOver_bottomEdge" = "ขอบด้านล่าง";
-"voiceOver_leftEdge" = "ขอบซ้าย";
-"voiceOver_rightEdge" =  "ขอบขวา";
-"voiceOver_noEdgesVisible" = "ไม่พบขอบเอกสาร";
-"voiceOver_allEdgesVisible" =  "พบขอบทั้งหมด";
-"voiceOver_threeEdgesNotVisible" = "ไม่พบขอบ 3 ด้านคือ ขอบ X, ขอบ Y, และขอบ Z";
-"voiceOver_twoEdgesNotVisible" = "ไม่พบขอบ 2 ด้านคือ ขอบ X และขอบ Y";
-"voiceOver_oneEdgeNotVisible" = "ไม่พบขอบ 1 ด้านคือ ขอบ X";
-"voiceOver_play" = "เล่น";
-"voiceOver_pause" = "หยุด";
-"voiceOver_adjustSpeed" = "ตั้งค่าความเร็วการพูด";
-"voiceOver_nextPage" = "หน้าถัดไป";
-"voiceOver_previousPage" = "หน้าก่อนหน้า";
-"voiceOver_pageCount" = "หน้าที่ 1 จาก X";
-"voiceOver_multiplePages" = "คุณต้องการอ่านแบบหลายหน้าใช่หรือไม่";
-"voiceOver_documentTextHint" = "แตะสองครั้งค้างไว้เพื่ออ่านเอกสารแบบหลายหน้า";
-"voiceOver_description" = "ข้อมูลเพิ่มเติม";
-"voiceOver_close" = "ปิด";
-"voiceOver_enterEmail" = "ป้อนอีเมลล์";
-"voiceOver_enterPassword" = "กรอกรหัสผ่าน";
-"voiceOver_yes" = "ใช่";
-"voiceOver_EmailConfirmation" = "ข้อมูลได้ถูกส่งไปยังอีเมลล์ของท่าน กรุณายืนยันรายการร้องขอของท่านภายใน 48 ชั่วโมง เพื่อการใช้งานอย่างต่อเนื่อง.";
-"voiceOver_Expired" = "หมดอายุ";
-"voiceOver_Processing" = "กำลังดำเนินการ";
-
-
 //Login Strings
 
 "login_please" = "ลงชื่อเข้าใช้งาน";
@@ -42,7 +14,7 @@
 "voiceOver_Email" = "ลงชื่อเข้าใช้ด้วย Email";
 "login_terms" = "การเข้าสู่ระบบหมายถึงคุณได้อ่านและยอมรับนโยบายความเป็นส่วนตัวและข้อกำหนดการใช้งาน";
 "voiceOver_LoginMessage" = "Iถ้าคุณยังไม่มีบัญชีผู้ใช้ สมัครบัญชีใหม่";
-"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_EmailConfirmation" = "ข้อมูลได้ถูกส่งไปยังอีเมลล์ของท่าน กรุณายืนยันรายการร้องขอของท่านภายใน 48 ชั่วโมง เพื่อการใช้งานอย่างต่อเนื่อง.";
 
 //Onboarding strings
 
@@ -67,19 +39,45 @@
 "voiceOver_NoText" = "ไม่พบข้อความ";
 "voiceOver_Blurred" = "รูปภาพไม่ชัดลองถ่ายรูปใหม่อีกครั้ง.";
 
+//New
+"voiceOver_topEdge" = "ขอบด้านบน";
+"voiceOver_bottomEdge" = "ขอบด้านล่าง";
+"voiceOver_leftEdge" = "ขอบซ้าย";
+"voiceOver_rightEdge" =  "ขอบขวา";
+"voiceOver_noEdgesVisible" = "ไม่พบขอบเอกสาร";
+"voiceOver_allEdgesVisible" = "พบขอบทั้งหมด";
+"voiceOver_threeEdgesNotVisible" = "ไม่พบขอบ 3 ด้านคือ ขอบ %@, ขอบ %@, และขอบ %@";
+"voiceOver_twoEdgesNotVisible" = "ไม่พบขอบ 2 ด้านคือ ขอบ %@ และขอบ %@";
+"voiceOver_oneEdgeNotVisible" = "ไม่พบขอบ 1 ด้านคือ ขอบ %@";
+"voiceOver_play" = "เล่น";
+"voiceOver_pause" = "หยุด";
+"voiceOver_adjustSpeed" = "ตั้งค่าความเร็วการพูด %@";
+"voiceOver_nextPage" = "หน้าถัดไป";
+"voiceOver_previousPage" = "หน้าก่อนหน้า";
+"voiceOver_pageCount" = "%d จาก %d";
+"voiceOver_multiplePages" = "คุณต้องการอ่านแบบหลายหน้าใช่หรือไม่";
+"voiceOver_documentTextHint" = "แตะสองครั้งค้างไว้เพื่ออ่านเอกสารแบบหลายหน้า";
+"voiceOver_description" = "ข้อมูลเพิ่มเติม";
+"voiceOver_close" = "ปิด";
+"voiceOver_enterEmail" = "ป้อนอีเมลล์";
+"voiceOver_enterPassword" = "กรอกรหัสผ่าน";
+"voiceOver_yes" = "ใช่";
+
 //Teaching strings
 
 "voiceOver_train" = "คุณต้องการสอนอะไร";
 "voiceOver_person" = "สอนให้รู้จักใบหน้า";
 "voiceOver_object" = "สอนให้รู้จักสิ่งของ";
 "voiceOver_library" = "เปิดคลังข้อมูล";
+"voiceOver_libraryTitle" = "Library";
+"voiceOver_Deleted" = "Deleted";
 "voiceOver_takePhotoButton" = "ถ่ายภาพ";
 "voiceOver_countdown" = "เพิ่ม %d รูปภาพ";
 "voiceOver_countdownlast" = "เพิ่ม 1 รูปภาพ";
 "voiceOver_DoneButton" = "เสร็จสิ้นการถ่ายภาพ";
 "voiceOver_enter" = "ใส่ชื่อใบหน้าหรือวัตถุสิ่งของ";
 "voiceOver_TeachEnvision" = "สอน Envision";
-"voiceOver_Processing" = "Processing";
+"voiceOver_Processing" = "กำลังดำเนินการ";
 "voiceOver_success" = "การสอนเสร็จสิ้น";
 "voiceOver_SwitchToFront" = "สลับไปยังกล้องหน้า";
 "voiceOver_SwitchToBack" = "สลับไปยังกล้องหลัง";
@@ -96,7 +94,7 @@
 "voiceOver_CallMessage" = "ถ้าคุณพบปัญหาหรือต้องการการแนะนำ สามารถโทรติดต่อเราได้ พวกเราจะติดต่อกลับและแก้ปัญหาที่เกิดขึ้นให้คุณโดยด่วนที่สุด";
 "voiceOver_Account" = "ข้อมูลบัญชีผู้ใช้";
 "voiceOver_Subscription" = "ตรวจสอบราคาการสมัครสมาชิก";
-"voiceOver_Expired" = "Expired";
+"voiceOver_Expired" = "หมดอายุ";
 "voiceOver_About" = "เกี่ยวกับ Envision";
 "voiceOver_Disclaimer" = "Envision AI อาจจะไม่มีความแม่นยำในการใช้งานเสมอไป ดังนั้นจึงไม่ควรใช้ในการนำทางในสถานการณ์ที่คุณอาจจะได้รับอันตราย Envision AI ไม่ได้มีไว้ใช้สำหรับการตรวจสอบ การวินิจฉัย การตรวจสอบรักษาอาการทางการแพทย์หรือโรคใดๆ ถ้าเป็นการตรวจสอบตามข้อมูลข้างต้น ผู้ใช้ควรได้รับคำแนะนำจากแพทย์ และผู้ใช้ยอมรับความเสี่ยงที่อาจจะเกิดขึ้นจากการใช้งาน Envision AI";
 "voiceOver_SubMessage" = "เป็นผู้ใช้สมาชิก และผู้สนับสนุนที่ร่วมก่อตั้ง และปรับปรุงการให้บริการการลงทะเบียนสมัครสมาชิกต่อไปนี้";
@@ -111,6 +109,9 @@
 "voiceOver_SixMonths" = "6 เดือน";
 "voiceOver_OneYear" = "1 ปี";
 "voiceOver_SubscriptionConfirmation" = "รับการเข้าถึงแบบไม่จำกัดทุกคุณสมบัติของ Envision เป็นเวลา %@ โดยซื้อแพคเกจการสมัครสมาชิกนี้ราคา %@ จาก iTunes ได้แล้ววันนี้ การสมัครสมาชิกจะต่ออายุแบบอัตโนมัติ คุณสามารถยกเลิกการสมัครได้ทุกเวลา ดูเงื่อนไขการใช้และนโยบายความเป็นส่วนตัว";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
+
 
 //Walkthrough Strings
 

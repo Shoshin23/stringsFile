@@ -69,6 +69,8 @@
 "voiceOver_person" = "चेहरा सिखाएं";
 "voiceOver_object" = "वस्तु सिखाएं";
 "voiceOver_library" = "Library खोलें";
+"voiceOver_libraryTitle" = "Library";
+"voiceOver_Deleted" = "Deleted";
 "voiceOver_takePhotoButton" = "तस्वीरें लें";
 "voiceOver_countdown" = "%d और तस्वीरें लें";
 "voiceOver_countdownlast" = "1 और तस्वीर लें";
@@ -107,6 +109,8 @@
 "voiceOver_SixMonths" = "छह महीने";
 "voiceOver_OneYear" = "एक पूरे वर्ष";
 "voiceOver_SubscriptionConfirmation" = "यह योजना %@ के लिए Envision AI का असीमित उपयोग प्रदान करता है। आप इस योजना को iTunes से %@ के लिए खरीद कर, आज से शुरू कर सकते हैं। सदस्यता स्वचालित रूप से नवीनीकृत हो जाती है, लेकिन आप नवीनीकरण को रोकने के लिए किसी भी समय रद्द कर सकते हैं। उपयोग की शर्तें और गोपनीयता नीति देखें।";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

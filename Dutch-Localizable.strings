@@ -63,13 +63,14 @@
 "voiceOver_enterPassword" = "Vul een geldig wachtwoord in";
 "voiceOver_yes" = "Ja";
 
-
 //Teaching Strings
 
 "voiceOver_train" = "Wat zou je willen leren?";
 "voiceOver_person" = "Leer Envision een nieuw gezicht";
 "voiceOver_object" = "Leer Envision een nieuw object";
 "voiceOver_library" = "Open bibliotheek";
+"voiceOver_libraryTitle" = "Bibliotheek";
+"voiceOver_Deleted" = "Deleted";
 "voiceOver_takePhotoButton" = "Maak foto";
 "voiceOver_DoneButton" = "Klaar met het nemen van foto’s";
 "voiceOver_enter" = "Vul naam in";
@@ -104,10 +105,12 @@
 "voiceOver_SixMonthSubscription" = "Zes maanden Abonnement";
 "voiceOver_AnnualSubscription" = "Jaarlijks abonnement";
 "voiceOver_RestorePurchase" = "Herstel aankoop";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
 "voiceOver_OneMonth" = "een maand";
 "voiceOver_SixMonths" = "zes maanden";
 "voiceOver_OneYear" = "een jaar";
 "voiceOver_SubscriptionConfirmation" = "Krijg onbeperkt toegang tot alle functies  van Envision voor %@ door je te abonneren op dit pakket  van %@ via iTunes, beginnend vandaag. Abonnementen worden automatisch verlengd, maar u kunt op elk moment de verlenging stopzetten. Zie de Gebruiksvoorwaarden en het privacybeleid.";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
 
 //Walkthrough Strings
 

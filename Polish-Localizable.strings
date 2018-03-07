@@ -69,6 +69,8 @@
 "voiceOver_person" = "Ucz twarzy.";
 "voiceOver_object" = "Ucz przedmiotów.";
 "voiceOver_library" = "Otwórz bibliotekę.";
+"voiceOver_libraryTitle" = "Bibliotekę";
+"voiceOver_Deleted" = "Deleted";
 "voiceOver_takePhotoButton" = "Zrób zdjęcie.";
 "voiceOver_countdown" = "Dodaj %d zdjęcia";
 "voiceOver_countdownlast" = "Dodaj 1 zdjęcie";
@@ -107,6 +109,8 @@
 "voiceOver_SixMonths" = "sześć miesięcy";
 "voiceOver_OneYear" = "1 rok";
 "voiceOver_SubscriptionConfirmation" = "Uzyskaj dostęp do wszystkich funkcji Envision, kup pakiet subskrypcji %@ za %@ ze sklepu iTunes, który będzie obowiązywał od dziś. Subskrypcje przedłużane są automatycznie, ale możesz je anulować w dowolnej chwili.Przeczytaj Politykę prywatności i Warunki korzystania.";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

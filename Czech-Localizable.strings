@@ -68,7 +68,9 @@
 "voiceOver_train" = "Co chcete aplikaci naučit?";
 "voiceOver_person" = "Naučit obličej";
 "voiceOver_object" = "Naučit předmět";
-"voiceOver_library" = "Otevřít knihovnu";
+"voiceOver_library" = "Otevřít";
+"voiceOver_libraryTitle" = "Knihovnu";
+"voiceOver_Deleted" = "Deleted";
 "voiceOver_takePhotoButton" = "Vyfotit";
 "voiceOver_countdown" = "Vyfoťte ještě alespoň %d snímků";
 "voiceOver_countdownlast" = "přidat 1 další obrázek";
@@ -107,6 +109,8 @@
 "voiceOver_SixMonths" = "šest měsíců";
 "voiceOver_OneYear" = "jeden rok";
 "voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 

@@ -69,6 +69,8 @@
 "voiceOver_person" = "לימוד פני חבריך.";
 "voiceOver_object" = "לימוד חפצים";
 "voiceOver_library" = "פתיחת ספריה";
+"voiceOver_libraryTitle" = "ספריה";
+"voiceOver_Deleted" = "Deleted";
 "voiceOver_takePhotoButton" = "צלם/י תמונה";
 "voiceOver_countdown" = "צלם עוד %d תמונות";
 "voiceOver_countdownlast" = "הוסף עוד תמונה אחת";
@@ -107,6 +109,8 @@
 "voiceOver_SixMonths" = "six months";
 "voiceOver_OneYear" = "a whole year";
 "voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings
 
