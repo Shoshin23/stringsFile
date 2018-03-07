@@ -102,6 +102,7 @@
 "voiceOver_MonthlySubscription" = "Monthly Subscription";
 "voiceOver_SixMonthSubscription" = "Six-months Subscription";
 "voiceOver_AnnualSubscription" = "Annual Subscription";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
 "voiceOver_RestorePurchase" = "Restore Purchase";
 "voiceOver_OneMonth" = "one whole month";
 "voiceOver_SixMonths" = "six months";
