@@ -29,7 +29,7 @@
 "voiceOver_TextRecognition" = "זיהוי טקסט";
 "voiceOver_GeneralRecognition" = "זיהוי כללי";
 "voiceOver_HelpSettings" = "עזרה והגדרות";
-"voiceOver_startLiveText" = "קרא טקסט מידית";
+"voiceOver_startLiveText" = "קרא טקסט מיידית";
 "voiceOver_stopLiveText" = "עצור הקראת טקסט";
 "voiceOver_trainButtonMessage" = "לימוד זיהוי פנים וחפצים";
 "voiceOver_tapView" = "תאר דברים";
@@ -41,9 +41,9 @@
 
 //New
 "voiceOver_topEdge" = "הקצה העליון";
-"voiceOver_bottomEdge" = "תחתית הדף";
-"voiceOver_leftEdge" = "הצד השמאל ";
-"voiceOver_rightEdge" =  "הצד הימןי";
+"voiceOver_bottomEdge" = "הפינה התחתונה";
+"voiceOver_leftEdge" = "הפינה השמאלית";
+"voiceOver_rightEdge" =  "הפינה העליונה";
 "voiceOver_noEdgesVisible" = "פּיןות הדף אינן נראות";
 "voiceOver_allEdgesVisible" =  "כל ףיןות הדף ןראות, החזק את הםךשׁיר בץורה יץיבה׃";
 "voiceOver_threeEdgesNotVisible" = "הףיןות @%,@%, @% אינן נראות";
@@ -61,7 +61,7 @@
 "voiceOver_close" = "סגור";
 "voiceOver_enterEmail" = "Enter email address";
 "voiceOver_enterPassword" = "Enter a valid password";
-"voiceOver_yes" = "Yes";
+"voiceOver_yes" = "כן";
 
 //Teaching Strings
 
