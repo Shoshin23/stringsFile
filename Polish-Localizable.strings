@@ -69,8 +69,13 @@
 "voiceOver_person" = "Ucz twarzy.";
 "voiceOver_object" = "Ucz przedmiotów.";
 "voiceOver_library" = "Otwórz bibliotekę.";
-"voiceOver_libraryTitle" = "Bibliotekę";
-"voiceOver_Deleted" = "Deleted";
+"voiceOver_libraryTitle" = "Biblioteka";
+"voiceOver_Deleted" = "Usunięto";
+"voiceOver_Restart" = "Restart";
+"voiceOver_Faces" = "Twarz";
+"voiceOver_noFaces" = "Wygląda na to, że nie masz zapisanych żadnych twarzy.";
+"voiceOver_Objects" = "Przedmiot";
+"voiceOVer_noObjects" = "Wygląda na to, że nie masz zapisanych żadnych przedmiotów!";
 "voiceOver_takePhotoButton" = "Zrób zdjęcie.";
 "voiceOver_countdown" = "Dodaj %d zdjęcia";
 "voiceOver_countdownlast" = "Dodaj 1 zdjęcie";

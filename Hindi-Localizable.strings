@@ -71,6 +71,11 @@
 "voiceOver_library" = "Library खोलें";
 "voiceOver_libraryTitle" = "Library";
 "voiceOver_Deleted" = "Deleted";
+"voiceOver_Restart" = "Restart";
+"voiceOver_Faces" = "Faces";
+"voiceOver_Objects" = "Objects";
+"voiceOVer_noObjects" = "Looks like you have no objects saved!";
+"voiceOver_noFaces" = "Looks like you have no faces saved!";
 "voiceOver_takePhotoButton" = "तस्वीरें लें";
 "voiceOver_countdown" = "%d और तस्वीरें लें";
 "voiceOver_countdownlast" = "1 और तस्वीर लें";

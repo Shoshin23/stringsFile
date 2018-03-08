@@ -71,6 +71,11 @@
 "voiceOver_library" = "Otevřít";
 "voiceOver_libraryTitle" = "Knihovnu";
 "voiceOver_Deleted" = "Deleted";
+"voiceOver_Restart" = "Restart";
+"voiceOver_Faces" = "Faces";
+"voiceOver_Objects" = "Objects";
+"voiceOVer_noObjects" = "Looks like you have no objects saved!";
+"voiceOver_noFaces" = "Looks like you have no faces saved!";
 "voiceOver_takePhotoButton" = "Vyfotit";
 "voiceOver_countdown" = "Vyfoťte ještě alespoň %d snímků";
 "voiceOver_countdownlast" = "přidat 1 další obrázek";

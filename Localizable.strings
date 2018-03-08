@@ -71,6 +71,11 @@
 "voiceOver_library" = "Open library";
 "voiceOver_libraryTitle" = "Library";
 "voiceOver_Deleted" = "Deleted";
+"voiceOver_Restart" = "Restart";
+"voiceOver_Faces" = "Faces";
+"voiceOver_Objects" = "Objects";
+"voiceOVer_noObjects" = "Looks like you have no objects saved!";
+"voiceOver_noFaces" = "Looks like you have no faces saved!";
 "voiceOver_takePhotoButton" = "Take Photo.";
 "voiceOver_countdown" = "Add %d more images";
 "voiceOver_countdownlast" = "Add 1 more image"; //This is for the last captured image
@@ -104,7 +109,6 @@
 "voiceOver_MonthlySubscription" = "Monthly Subscription";
 "voiceOver_SixMonthSubscription" = "Six-months Subscription";
 "voiceOver_AnnualSubscription" = "Annual Subscription";
-"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
 "voiceOver_RestorePurchase" = "Restore Purchase";
 "voiceOver_OneMonth" = "one whole month";
 "voiceOver_SixMonths" = "six months";

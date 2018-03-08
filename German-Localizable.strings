@@ -71,6 +71,11 @@
 "voiceOver_library" = "Öffne Bibliothek";
 "voiceOver_libraryTitle" = "Bibliothek";
 "voiceOver_Deleted" = "Deleted";
+"voiceOver_Restart" = "Restart";
+"voiceOver_Faces" = "Faces";
+"voiceOver_Objects" = "Objects";
+"voiceOVer_noObjects" = "Looks like you have no objects saved!";
+"voiceOver_noFaces" = "Looks like you have no faces saved!";
 "voiceOver_takePhotoButton" = "Nimm Foto auf";
 "voiceOver_DoneButton" = "Fotos aufnehmen";
 "voiceOver_enter" = "Name eingeben";
