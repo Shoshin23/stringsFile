@@ -71,11 +71,11 @@
 "voiceOver_library" = "פתיחת ספריה";
 "voiceOver_libraryTitle" = "ספריה";
 "voiceOver_Deleted" = "Deleted";
-"voiceOver_Restart" = "Restart";
-"voiceOver_Faces" = "Faces";
-"voiceOver_Objects" = "Objects";
-"voiceOVer_noObjects" = "Looks like you have no objects saved!";
-"voiceOver_noFaces" = "Looks like you have no faces saved!";
+"voiceOver_Restart" = "התחל מחדש";
+"voiceOver_Faces" = "פניםם";
+"voiceOver_Objects" = "חפצים";
+"voiceOVer_noObjects" = " נראה שאין לך חפצים שמורים עדיין";
+"voiceOver_noFaces" = "נראה שאין לך פנים שמורים עדיין.";
 "voiceOver_takePhotoButton" = "צלם/י תמונה";
 "voiceOver_countdown" = "צלם עוד %d תמונות";
 "voiceOver_countdownlast" = "הוסף עוד תמונה אחת";
@@ -114,8 +114,8 @@
 "voiceOver_SixMonths" = "six months";
 "voiceOver_OneYear" = "a whole year";
 "voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
-"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
-"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
+"voiceOver_UnlimitedSubscription" = "מינוי בלתי מוגבל";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "קבל גישה ברכישת מנוי חד פעמי לכל תכונות Envision במחיר של %@";
 
 //Walkthrough Strings
 
