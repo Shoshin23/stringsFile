@@ -34,6 +34,7 @@
 "voiceOver_scanDocumentsButton" = "Lees document";
 "voiceOver_HandwritternText" = "Lees handgeschreven tekst";
 "voiceOver_tapView" = "Beschrijf omgeving";
+"voiceOver_customObject" = "Het ziet eruit als je %@";
 "voiceOver_trainButtonMessage" = "Leer Envision gezichten en objecten herkennen";
 "voiceOver_Export" = "Deel Tekst";
 "voiceOver_NoText" = "Geen tekst gevonden";

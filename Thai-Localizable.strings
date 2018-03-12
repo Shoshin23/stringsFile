@@ -34,6 +34,7 @@
 "voiceOver_scanDocumentsButton" = "อ่านเอกสาร";
 "voiceOver_HandwritternText" = "อ่านเอกสารลายมือ";
 "voiceOver_tapView" = "อธิบายวัตถุสิ่งของ";
+"voiceOver_customObject" = "Looks like your %@";
 "voiceOver_trainButtonMessage" = "สอนให้รู้จักใบหน้า และสิ่งของ";
 "voiceOver_Export" = "ส่งออกข้อความ";
 "voiceOver_NoText" = "ไม่พบข้อความ";

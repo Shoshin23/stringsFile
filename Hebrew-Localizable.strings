@@ -34,6 +34,7 @@
 "voiceOver_trainButtonMessage" = "לימוד זיהוי פנים וחפצים";
 "voiceOver_tapView" = "תאר דברים";
 "voiceOver_scanDocumentsButton" = "קרא מסמך";
+"voiceOver_customObject" = "נראה כמו שלך %@";
 "voiceOver_HandwritternText" = "קרא טקסט בכתב יד";
 "voiceOver_Export" = "ייצוא טקסט";
 "voiceOver_NoText" = "לא נמצא טקסט";

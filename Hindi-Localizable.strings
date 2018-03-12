@@ -34,6 +34,7 @@
 "voiceOver_scanDocumentsButton" = "दस्तावेज़ पढ़ें";
 "voiceOver_HandwritternText" = "अंग्रेजी हस्तलिखित शब्द पढ़ें";
 "voiceOver_tapView" = "दृश्य का वर्णन करें";
+"voiceOver_customObject" = "Looks like your %@";
 "voiceOver_trainButtonMessage" = "चेहरे और वस्तुएं सिखाएं";
 "voiceOver_Export" = "Export Text";
 "voiceOver_NoText" = "कोई टेक्स्ट नहीं मिला";
