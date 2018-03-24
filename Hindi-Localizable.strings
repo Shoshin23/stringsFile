@@ -63,6 +63,12 @@
 "voiceOver_enterEmail" = "Enter email address";
 "voiceOver_enterPassword" = "Enter a valid password";
 "voiceOver_yes" = "Yes";
+"voiceOver_magnifier" = "Magnifier";
+"voiceOver_invertColors" = "Invert Colors";
+"voiceOver_shareWithFriends" = "Share with Friends";
+"voiceOver_writeReview" = "Write a review on AppStore";
+"voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
+
 
 //Teaching strings
 

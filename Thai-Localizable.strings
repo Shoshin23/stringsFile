@@ -63,6 +63,12 @@
 "voiceOver_enterEmail" = "ป้อนอีเมลล์";
 "voiceOver_enterPassword" = "กรอกรหัสผ่าน";
 "voiceOver_yes" = "ใช่";
+"voiceOver_magnifier" = "Magnifier";
+"voiceOver_invertColors" = "Invert Colors";
+"voiceOver_shareWithFriends" = "Share with Friends";
+"voiceOver_writeReview" = "Write a review on AppStore";
+"voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
+
 
 //Teaching strings
 
