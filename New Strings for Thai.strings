@@ -1,0 +1,19 @@
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
+
+//New
+
+"voiceOver_libraryTitle" = "Library";
+"voiceOver_Deleted" = "Deleted";
+"voiceOver_Restart" = "Restart";
+"voiceOver_Faces" = "Faces";
+"voiceOver_Objects" = "Objects";
+"voiceOVer_noObjects" = "Looks like you have no objects saved!";
+"voiceOver_noFaces" = "Looks like you have no faces saved!";
+"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
