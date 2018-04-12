@@ -69,6 +69,11 @@
 "voiceOver_writeReview" = "Write a review on AppStore";
 "voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
 
+"voiceOver_detectColorButton" = "Detect Colors";
+"onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
+"voiceOver_SpeechSettings" = "Speech";
+"voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
+
 
 //Teaching strings
 
