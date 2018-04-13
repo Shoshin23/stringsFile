@@ -9,20 +9,20 @@
 //Login Strings
 
 "login_please" = "Prosím přihlaste se jedním z následujících způsobů:";
-"voiceOver_Facebook" = "Přihlásit se pomocí Facebook";
-"voiceOver_Google" = "Přihlásit se pomocí Google";
-"voiceOver_Email" = "Přihlásit se pomocí Email";
-"login_terms" = "Přihlášením vyjadřujete souhlas, že jste si přečetli, a že schvalujete Privacy Policy a Terms of Use";
-"voiceOver_LoginMessage" = "If you don't have an account already, it would be created for you.";
-"voiceOver_EmailConfirmation" = "A confirmation email has been sent to your inbox. Please confirm the account within 48 hours to continue using Envision uninterrupted.";
+"voiceOver_Facebook" = "Přihlásit se pomocí Facebooku";
+"voiceOver_Google" = "Přihlásit se pomocí Googlu";
+"voiceOver_Email" = "Přihlásit se pomocí emailu";
+"login_terms" = "Přihlášením vyjadřujete souhlas, že jste si přečetli, a že schvalujete podmínky ochrany soukromí a podmínky užití.";
+"voiceOver_LoginMessage" = "Pokud ještě nemáte účet, tak vám bude vytvořen.";
+"voiceOver_EmailConfirmation" = "Potvrzující email byl zaslán na vaši adresu. Prosím schvalte váš účet do 48 hodin, aby jste mohli používat Envision AI bez přerušení.";
 
 //Onboarding strings
 
 "onboarding_OCRButtonMessage" = "Poklepejte sem pro čtení textu v reálném čase.";
 "onboarding_documentText" = "Poklepejte sem pro čtení dokumentů nebo dlouhého textu.";
-"onboarding_HandwritternText" = "Tap this button to take image of handwritten text and read them.";
+"onboarding_HandwritternText" = "Poklepejte sem  pro pořízení snímku rukou psaného textu a jeho přečtení.";
 "onboarding_tapViewMessage" = "Poklepejte sem pro popis scény.";
-"onboarding_trainButtonMessage" = "Poklepejte sem pro učení nových obličejů nebo předmětů.";
+"onboarding_trainButtonMessage" = "Poklepejte sem pro naučení nových obličejů nebo předmětů.";
 
 //Voiceover strings
 
@@ -31,16 +31,17 @@
 "voiceOver_HelpSettings" = "Nápověda a nastavení";
 "voiceOver_startLiveText" = "Zapnout průběžné čtení textu";
 "voiceOver_stopLiveText" = "Vypnout průběžné čtení textu";
-"voiceOver_scanDocumentsButton" = "Přečíst dokument";
-"voiceOver_HandwritternText" = "Read Handwritten Text";
+"voiceOver_scanDocumentsButton" = "Vyfotit a přečíst dokument";
+"voiceOver_HandwritternText" = "Přečíst rukou psaný text";
 "voiceOver_tapView" = "Popsat scénu";
-"voiceOver_customObject" = "Looks like your %@";
-"voiceOver_trainButtonMessage" = "Naučit obličeje nebo předměty";
-"voiceOver_Export" = "Sdílet text";
-"voiceOver_NoText" = "No Text Found.";
-"voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
+"voiceOver_customObject" = "Vypadá to jako %@";
+"voiceOver_trainButtonMessage" = "Naučit rozpoznávat obličeje nebo předměty";
+"voiceOver_Export" = "Sdílet";
+"voiceOver_NoText" = "Žádný text nenalezen.";
+"voiceOver_Blurred" = "Snímek je rozostřený. Prosím pořiďte nový.";
 
 //New
+
 "voiceOver_topEdge" = "Horní okraj";
 "voiceOver_bottomEdge" = "Spodní okraj";
 "voiceOver_leftEdge" = "Levý okraj";
@@ -69,38 +70,36 @@
 "voiceOver_writeReview" = "Napsat recenzi v AppStore";
 "voiceOver_shareWithFriendsText" = "Ahoj, podívej se na tuhle appku nazvanou Envision AI. Je skvělá pro čtení textů, rozpoznávání obrázků a mnohem více!";
 
-
-"voiceOver_detectColorButton" = "Detect Colors";
-"onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
-"voiceOver_SpeechSettings" = "Speech";
-"voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
-"voiceOver_help" = "Help";
-"voiceOver_settigs" = "Settings";
-"voiceOver_account" = "Account";
-"voiceOver_spread" = "Spread the word";
-
+"voiceOver_detectColorButton" = "Rozpoznat barvy";
+"onboarding_detectColorButtonMessage" = "Poklepejte sem pro rozpoznávání barev.";
+"voiceOver_SpeechSettings" = "Řeč";
+"voiceOver_automaticLanguageDetection" = "Automatické rozpoznání jazyka";
+"voiceOver_help" = "Nápověda";
+"voiceOver_settigs" = "Nastavení";
+"voiceOver_account" = "Účet";
+"voiceOver_spread" = "Rozšiřte povědomí o Envision AI";
 
 //Teaching strings
 
-"voiceOver_train" = "Co chcete aplikaci naučit?";
+"voiceOver_train" = "Co chcete aplikaci naučit rozpoznávat?";
 "voiceOver_person" = "Naučit obličej";
 "voiceOver_object" = "Naučit předmět";
-"voiceOver_library" = "Otevřít";
-"voiceOver_libraryTitle" = "Knihovnu";
-"voiceOver_Deleted" = "Deleted";
-"voiceOver_Restart" = "Restart";
-"voiceOver_Faces" = "Faces";
-"voiceOver_Objects" = "Objects";
-"voiceOVer_noObjects" = "Looks like you have no objects saved!";
-"voiceOver_noFaces" = "Looks like you have no faces saved!";
+"voiceOver_library" = "Otevřít knihovnu";
+"voiceOver_libraryTitle" = "Knihovna";
+"voiceOver_Deleted" = "Smazané";
+"voiceOver_Restart" = "Restartovat";
+"voiceOver_Faces" = "Obličeje";
+"voiceOver_Objects" = "Předměty";
+"voiceOVer_noObjects" = "Vypadá to, že nemáte žádné uložené předměty!";
+"voiceOver_noFaces" = "Vypadá to, že nemáte žádné uložené obličeje!";
 "voiceOver_takePhotoButton" = "Vyfotit";
-"voiceOver_countdown" = "Vyfoťte ještě alespoň %d snímků";
-"voiceOver_countdownlast" = "přidat 1 další obrázek";
+"voiceOver_countdown" = "Vyfoťte ještě alespoň %d snímků.";
+"voiceOver_countdownlast" = "Přidejte ještě alespoň jeden snímek.";
 "voiceOver_DoneButton" = "Dokončit focení";
 "voiceOver_enter" = "Zadejte název";
-"voiceOver_TeachEnvision" = "Učit Envision";
-"voiceOver_Processing" = "Processing";
-"voiceOver_success" = "Učení úspěšně dokončeno";
+"voiceOver_TeachEnvision" = "Naučit";
+"voiceOver_Processing" = "Zpracovávám";
+"voiceOver_success" = "Učení úspěšně dokončeno.";
 "voiceOver_SwitchToFront" = "Přepnout na přední kameru";
 "voiceOver_SwitchToBack" = "Přepnout na zadní kameru";
 
@@ -108,15 +107,15 @@
 
 "voiceOver_Tutorials" = "Přečíst návod";
 "voiceOver_Feedback" = "Zpětná vazba";
-"voiceOver_Send" = "Send";
+"voiceOver_Send" = "Odeslat";
 "voiceOver_WriteFeedback" = "Zadejte své připomínky co nejpodrobněji";
 "voiceOver_Book" = "Zažádat o hovor";
-"voiceOver_Cancel" = "Cancel";
+"voiceOver_Cancel" = "Zrušit";
 "voiceOver_RequestSent" = "žádost odeslána";
 "voiceOver_CallMessage" = "Jestliže se potýkáte s nějakým problémem nebo potřebujete nějaké podrobnější vysvětlení, tak můžete zažádat o telefonní hovor a my vám osobně zavoláme a pokusíme se vyřešit jakýkoliv problém.";
 "voiceOver_Account" = "Podrobnosti o účtu";
-"voiceOver_Subscription" = "Zkontrolovat předplatné";
-"voiceOver_Expired" = "Expired";
+"voiceOver_Subscription" = "Předplatné";
+"voiceOver_Expired" = "Vypršené";
 "voiceOver_About" = "O Envision";
 "voiceOver_Disclaimer" = "Aplikace Envision AI není vždy přesná, ap roto by neměla být používána pro navigaci nebo v situacích, kdy můžete být zraněni. Není určena pro detekci, diagnózu, správu sledování nebo při léčbě jakéhokoliv zdravotního stavu či nemoci. Uživatelé by měli vyhledat jakoukoliv lékařskou radu od lékaře. Envision AI používáte na vaše vlastní riziko.";
 "voiceOver_SubMessage" = "Staňte se uživatelem, členem a přispěvatelem stále se rozrůstající a vylepšující se služby Envision přihlášením se k jednomu z níže uvedenému plánu předplatného.";
@@ -130,22 +129,22 @@
 "voiceOver_OneMonth" = "jeden měsíc";
 "voiceOver_SixMonths" = "šest měsíců";
 "voiceOver_OneYear" = "jeden rok";
-"voiceOver_SubscriptionConfirmation" = "Get unlimited access to all of Envision’s features for %@ by purchasing this subscription package for %@ from iTunes, starting today. Subscriptions automatically renew, but you can cancel at any time to stop renewal. See Terms of Use and Privacy Policy.";
-"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
-"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
+"voiceOver_SubscriptionConfirmation" = "Získejte neomezený přístup ke všem funkcím na %@ zakoupením tohoto balíčku předplatného za %@ z iTunes, počínaje dneškem. Předplatné se automaticky obnovuje, ale můžete jej kdykoliv zrušit  a obnovování zastavit. Podívejte se na podmínky užití a ochrany soukromí.";
+"voiceOver_UnlimitedSubscription" = "Neomezené předplatné";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Získejte neomezený přístup ke všem funkcím  zaplacením této jednorázové platby za %@ z iTunes, počínaje dneškem. Podívejte se na podmínky užití a ochrany soukromí.";
 
 //Walkthrough Strings
 
 "voiceOver_welcomeScreenHeading" = "Vítejte u Envision";
 "voiceOver_welcomeScreenDetail" = "Envision je služba pro převod obrazu ve vašem okolí do přístupných informací.";
 "voiceOver_textScreenHeading" = "Nechte si přečíst jakýkoliv druh textu";
-"voiceOver_textScreenDetail" = "Ať už to jsou krátké kusy textu, které chcete přečíst v reálném čase, nebo delší texty v dokumentech, které chcete přesněji prozkoumat.";
-"voiceOver_recogniseHeading" = "Rozpoznávejte lidi a předměty";
+"voiceOver_textScreenDetail" = "Ať už to jsou krátké kusy textu, které chcete přečíst v reálném čase, rukou psaný text nebo delší texty v dokumentech, které chcete přesněji prozkoumat.";
+"voiceOver_recogniseHeading" = "Rozpoznávejte obličeje a předměty";
 "voiceOver_recogniseDetail" = "Nechte si popsat scény okolo vás včetně lidí a předmětů v nich obsažených, které aplikaci můžete naučit rozpoznávat.";
-"voiceOver_shareScreenHeading" = "Envision všechny vaše fotky";
+"voiceOver_shareScreenHeading" = "Všechny vaše fotky přes Envision";
 "voiceOver_shareScreenDetail" = "Nechte si popsat, přečíst a uložit všechny fotky z jakékoliv aplikace zvolením Envision z nabídky Sdílení.";
 "voiceOver_finalScreenHeading" = "Mnoho dalšího je v přípravě";
 "voiceOver_finalScreenDetail" = "Nové funkce, vylepšení a akce jsou průběžně přidávány.";
 "voiceOver_Skip" = "Přeskočit";
 "voiceOver_Login"= "Přihlášení";
-"voiceOver_TrialStart" = "You're currently using a 14-day free trial of Envision. Hope you enjoy your experience and reach out to us in case of any issues!";
+"voiceOver_TrialStart" = "Momentálně používáte 14denní zkušební dobu Envision. Doufáme, že si to užijete a obrátíte se na nás v případě jakýchkoliv potíží!";
