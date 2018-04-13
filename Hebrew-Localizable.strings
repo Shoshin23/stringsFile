@@ -69,11 +69,14 @@
 "voiceOver_writeReview" = "Write a review on AppStore";
 "voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
 
-"voiceOver_detectColorButton" = "Detect Colors";
-"onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
-"voiceOver_SpeechSettings" = "Speech";
-"voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
-
+"voiceOver_detectColorButton" = "זיהוי צבעים";
+"onboarding_detectColorButtonMessage" = " הקש על כפתור זה לזיהוי צבעים";
+"voiceOver_SpeechSettings" = " דיבור";
+"voiceOver_automaticLanguageDetection" = "זיהוי שפה אוטומטי";
+"voiceOver_help" = "עזרה";
+"voiceOver_settigs" = " הגדרות";
+"voiceOver_account" = " חשבון";
+"voiceOver_spread" = "הפץ את השמועה";
 
 //Teaching Strings
 

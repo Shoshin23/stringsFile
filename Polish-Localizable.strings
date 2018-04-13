@@ -52,7 +52,7 @@
 "voiceOver_oneEdgeNotVisible" = "%@ jest niewidoczna";
 "voiceOver_play" = "Odtwórz";
 "voiceOver_pause" = "Pauza";
-"voiceOver_adjustSpeed" = "Prędkość mowy: %@";
+"voiceOver_adjustSpeed" = "Prędkość mowy";
 "voiceOver_nextPage" = "Następna strona";
 "voiceOver_previousPage" = "Poprzednia strona";
 "voiceOver_pageCount" = "%d z %d";
@@ -73,7 +73,10 @@
 "onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
 "voiceOver_SpeechSettings" = "Speech";
 "voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
-
+"voiceOver_help" = "Help";
+"voiceOver_settigs" = "Settings";
+"voiceOver_account" = "Account";
+"voiceOver_spread" = "Spread the word";
 
 //Teaching strings
 

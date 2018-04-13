@@ -73,7 +73,10 @@
 "onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
 "voiceOver_SpeechSettings" = "Speech";
 "voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
-
+"voiceOver_help" = "Help";
+"voiceOver_settigs" = "Settings";
+"voiceOver_account" = "Account";
+"voiceOver_spread" = "Spread the word";
 
 //Teaching strings
 

@@ -52,7 +52,7 @@
 "voiceOver_oneEdgeNotVisible" = "%@ niet zichtbaar";
 "voiceOver_play" = "Afspelen";
 "voiceOver_pause" = "Pauze";
-"voiceOver_adjustSpeed" = "Spreek snelheid: %@";
+"voiceOver_adjustSpeed" = "Spreek snelheid";
 "voiceOver_nextPage" = "Volgende pagina";
 "voiceOver_previousPage" = "Vorige pagina";
 "voiceOver_pageCount" = "%d van %d";
@@ -69,10 +69,14 @@
 "voiceOver_writeReview" = "Write a review on AppStore";
 "voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
 
-"voiceOver_detectColorButton" = "Detect Colors";
-"onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
-"voiceOver_SpeechSettings" = "Speech";
-"voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
+"voiceOver_detectColorButton" = "Detecteer kleuren";
+"onboarding_detectColorButtonMessage" = "Tik op deze knop om kleuren te detecteren";
+"voiceOver_SpeechSettings" = "Spraak";
+"voiceOver_automaticLanguageDetection" = "Automatische taal herkenning";
+"voiceOver_help" = "Help";
+"voiceOver_settigs" = "Instellingen";
+"voiceOver_account" = "Profiel";
+"voiceOver_spread" = "Vertel het verder";
 
 //Teaching Strings
 
