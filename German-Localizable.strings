@@ -78,6 +78,11 @@
 "voiceOver_account" = "Account";
 "voiceOver_spread" = "Spread the word";
 
+"voiceOver_colorSettings" = "Colors";
+"voiceOver_voices" = "Voices";
+"voiceOver_standard30" = "Standard (30)";
+"voiceOver_Descriptive950" = "Descriptive (950)";
+
 //Teaching strings
 
 "voiceOver_train" = "Was möchtest Du trainieren?";

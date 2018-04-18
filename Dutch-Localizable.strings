@@ -78,6 +78,11 @@
 "voiceOver_account" = "Profiel";
 "voiceOver_spread" = "Vertel het verder";
 
+"voiceOver_colorSettings" = "Colors";
+"voiceOver_voices" = "Voices";
+"voiceOver_standard30" = "Standard (30)";
+"voiceOver_Descriptive950" = "Descriptive (950)";
+
 //Teaching Strings
 
 "voiceOver_train" = "Wat zou je willen leren?";
