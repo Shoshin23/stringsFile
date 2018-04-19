@@ -86,9 +86,9 @@
 //Teaching Strings
 
 "voiceOver_train" = "Wat zou je willen leren?";
-"voiceOver_person" = "Leer Envision een nieuw gezicht";
-"voiceOver_object" = "Leer Envision een nieuw object";
-"voiceOver_library" = "Open library";
+"voiceOver_person" = "Leer een nieuw gezicht";
+"voiceOver_object" = "Leer een nieuw object";
+"voiceOver_library" = "Open Bibliotheek";
 "voiceOver_libraryTitle" = "Bibliotheek";
 "voiceOver_Deleted" = "Verwijderd";
 "voiceOver_Restart" = "Herstart";
@@ -109,7 +109,7 @@
 
 //Help and Settings Strings
 
-"voiceOver_Tutorials" = "Tutorial";
+"voiceOver_Tutorials" = "Gebruiksaanwijzing";
 "voiceOver_Feedback" = "Geef feedback";
 "voiceOver_Send" = "Verzenden";
 "voiceOver_WriteFeedback" = "Schrijf uw feedback zo gedetailleerd mogelijk";

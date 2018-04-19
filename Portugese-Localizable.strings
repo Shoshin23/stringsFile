@@ -1,0 +1,154 @@
+/*
+ Localizable.strings
+ EnvisionBeta
+ 
+ Created by Envision Tecnologies B.V.
+ Copyright © 2017 Envision Technologies B.V. All rights reserved.
+ */
+
+//Login Strings
+
+"login_please" = "Por favor, faça o login usando uma das seguintes formas:";
+"voiceOver_Facebook" = "Fazer Login com Facebook";
+"voiceOver_Google" = "Fazer Login com Google";
+"voiceOver_Email" = "Fazer Login com Email";
+"login_terms" = "Ao fazer o login, você sinaliza que leu e que concorda com a Privacy Policy e os Terms of Use";
+"voiceOver_LoginMessage" = "Se você ainda não tem uma conta, ela seria criada para você.";
+"voiceOver_EmailConfirmation" = "Um e-mail de confirmação foi enviado para sua caixa de entrada. Por favor, confirme a conta dentro de 48 horas para continuar usando o Envision ininterruptamente.";
+
+//Onboarding strings
+
+"onbarding_OCRButtonMessage" = "Aperte este botão para começar a ter pequenos trechos de texto em tempo real instantaneamente.";
+"onboarding_documentText" = "Aperte este botão para ter a imagem de um textos longos em documentos e fazer a leitura deles.";
+"onboarding_HandwritternText" = "Aperte este botão para ter imagem de textos escritos à mão e fazer a leitura deles.";
+"onboarding_tapViewMessage" = "Aperte este botão para capturar imagem e descrever a cena.";
+"onboarding_trainButtonMessage" = "Aperte este botão para ensinar ao Envision novos rostos e objetos.";
+
+//VoiceOver strings
+
+"voiceOver_TextRecognition" = "Reconhecimento de Texto";
+"voiceOver_GeneralRecognition" = "Reconhecimento Geral";
+"voiceOver_HelpSettings" = "Ajuda e Configurações";
+"voiceOver_startLiveText" = "Começar leitura instantânea";
+"voiceOver_stopLiveText" = "Parar leitura instantânea";
+"voiceOver_scanDocumentsButton" = "Ler documentos";
+"voiceOver_HandwritternText" = "Ler texto escrito à mão";
+"voiceOver_tapView" = "Descrever cena";
+"voiceOver_customObject" = "Parece com %@";
+"voiceOver_trainButtonMessage" = "Ensinar sobre rostos e objetos";
+"voiceOver_Export" = "Exportar Texto";
+"voiceOver_NoText" = "Txto não encontrado.";
+"voiceOver_Blurred" = " A foto parece desfocada. Por favor, tire outra";
+
+//New
+"voiceOver_topEdge" = "Topo";
+"voiceOver_bottomEdge" = "Fundo";
+"voiceOver_leftEdge" = "Esquerda";
+"voiceOver_rightEdge" =  "Direita";
+"voiceOver_noEdgesVisible" = "Nenhuma borda visível.";
+"voiceOver_allEdgesVisible" =  "Todas as bordas visíveis. Segure firme.";
+"voiceOver_threeEdgesNotVisible" = "Bordas %@, %@ e %@ não visíveis";
+"voiceOver_twoEdgesNotVisible" = "Bordas %@ e %@ não visíveis";
+"voiceOver_oneEdgeNotVisible" = "Bordas %@ não visíveis.";
+"voiceOver_play" = "Tocar";
+"voiceOver_pause" = "Pausa";
+"voiceOver_adjustSpeed" = "Velocidade da fala";
+"voiceOver_nextPage" = "Próxima Página";
+"voiceOVer_previousPage" = "Página Anterior";
+"voiceOver_pageCount" = "%d de %d";
+"voiceOver_multiplePages" = "Você gostaria de ler várias páginas?";
+"voiceOver_documentTextHint" = "Toque duas vezes e segure para ler várias páginas";
+"voiceOver_description" = "Descrição";
+"voiceOver_close" = "Fechar";
+"voiceOver_enterEmail" = "Entre com um email válido";
+"voiceOver_enterPassword" = "Entre com uma senha válid";
+"voiceOver_yes" = "Sim";
+"voiceOver_magnifier" = "Lupar";
+"voiceOver_invertColors" = "Inverter Cores";
+"voiceOver_shareWithFriends" = "Compartilhe com amigos";
+"voiceOver_writeReview" = "Escreva uma avaliação na AppStore";
+"voiceOver_shareWithFriendsText" = "Olá, confira este aplicativo chamado Envision AI. É excelente para ler textos, reconhecer imagens e muito mais!";
+
+"voiceOver_detectColorButton" = "Detectar Cor";
+"onboarding_detectColorButtonMessage" = "Aperte este botão para detectar a cor de coisas para as quais você está apontando.";
+"voiceOver_SpeechSettings" = "Narração";
+"voiceOver_automaticLanguageDetection" = "Detecção automática de idioma";
+"voiceOver_help" = "Ajuda";
+"voiceOver_settigs" = "Configurações";
+"voiceOver_account" = "Conta";
+"voiceOver_spread" = "Divulgue!";
+
+"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
+"voiceOver_colorSettings" = "Color Detection";
+"voiceOver_voices" = "Voices";
+"voiceOver_standard30" = "Standard (30)";
+"voiceOver_Descriptive950" = "Descriptive (950)";
+
+//Teaching strings
+
+"voiceOver_train" = "O que você gostaria de ensinar?";
+"voiceOver_person" = "Ensine sobre um rosto";
+"voiceOver_object" = "Ensine sobre um objeto";
+"voiceOver_library" = "Biblioteca aberta";
+"voiceOver_libraryTitle" = "Biblioteca";
+"voiceOver_Deleted" = "Apagado";
+"voiceOver_Restart" = "Recomeçar";
+"voiceOver_Faces" = "Rostos";
+"voiceOver_Objects" = "Objetos";
+"voiceOVer_noObjects" = "Parece que você ainda não tem nenhum rosto salvo";
+"voiceOver_noFaces" = "Parece que você ainda não tem nenhum objeto salvo.";
+"voiceOver_takePhotoButton" = "Tirar Foto.";
+"voiceOver_countdown" = "Adicionar mais %d imagens";
+"voiceOver_countdownlast" = "Adicionar mais uma imagem"; //This is for the last captured image
+"voiceOver_DoneButton" = "Tirar fotos finalizado";
+"voiceOver_enter" = "Entre com o nome";
+"voiceOver_TeachEnvision" = "Ensine o Envision";
+"voiceOver_Processing" = "Processando";
+"voiceOver_success" = "Ensinado com sucesso";
+"voiceOver_SwitchToFront" = "Mudar para câmera frontal";
+"voiceOver_SwitchToBack" = "Mudar para câmera traseira";
+
+//Help and Settings Strings
+
+"voiceOver_Tutorials" = "Leia os Tutoriais";
+"voiceOver_Feedback" = "Dê a sua opinião";
+"voiceOver_Send" = "Envie";
+"voiceOver_WriteFeedback" = "Por favor, escreva sua opinião o mais detalhadamente possível";
+"voiceOver_Book" = "Solicite uma chamada";
+"voiceOver_Cancel" = "Cancele";
+"voiceOver_RequestSent" = "Pedido Enviado";
+"voiceOver_CallMessage" = "Se você está tendo algum problema ou gostaria de obter mais esclarecimentos sobre qualquer coisa, você pode agendar uma ligação. Nós retornaremos para você pessoalmente e tentaremos resolver qualquer problema que você possa ter.";
+"voiceOver_Account" = "Detalhes da Conta";
+"voiceOver_Subscription" = "Verificar inscrições";
+"voiceOver_Expired" = "Expirado";
+"voiceOver_About" = "Sobre Envision";
+"voiceOver_Disclaimer" = "Envision AI nem sempre é preciso, portanto não deve ser usado para direção ou em situações em que alguém possa ser prejudicado. Não se destina a detecção, diagnóstico, gerenciamento de monitoramento ou tratamento de qualquer condição médica ou doença. Os usuários devem procurar aconselhamento médico. O uso de  Envision AI é por sua conta e risco.";
+"voiceOver_SubMessage" = "Seja um usuário, membro e colaborador para o crescimento e desenvolvimento das aplicações de Envision inscrevendo-se em um de nossos planos de assinatura abaixo:";
+"voiceOver_SubAlert" = "Desculpe! Mas seu período de teste gratuito acabou. Por que não faz a assinatura de um de nossos planos mais acessíveis?";
+"voiceOver_logout" = "Sair";
+"voiceOver_FreeTrial" = "Teste Gratuito";
+"voiceOver_MonthlySubscription" = "Assinatura Mensal";
+"voiceOver_SixMonthSubscription" = "Assinatura por Seis Meses";
+"voiceOver_AnnualSubscription" = "Assinatura Anual";
+"voiceOver_RestorePurchase" = "Restaurar Compra";
+"voiceOver_OneMonth" = "um mês";
+"voiceOver_SixMonths" = "seis meses";
+"voiceOver_OneYear" = "um ano";
+"voiceOver_SubscriptionConfirmation" = "Consiga acesso ilimitado a todos os componentes de Envision por %@, à partir de hoje, comprando este pacote de assinatura por %@ no iTunes. As assinaturas são atualizadas automaticamente, mas você pode cancelá-la quando quiser. Leia os Termos de Uso e Política de Privacidade.";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
+
+//Walkthrough Strings
+
+"voiceOver_welcomeScreenHeading" = "Bem-vindo ao Envision";
+"voiceOver_welcomeScreenDetail" = "Envision é um serviço para converter imagens do seu entorno em informações acessíveis.";
+"voiceOver_textScreenHeading" = "Leia todos os tipos de textos";
+"voiceOver_textScreenDetail" = "Sejam pequenos pedaços de texto que precisam ser lidos em tempo real ou textos mais longos em documentos que precisam ser examinados.";
+"voiceOver_recogniseHeading" = "Reconheça pessoas e objetos";
+"voiceOver_recogniseDetail" = "Tenha as cenas ao seu entorno descritas para você, incluindo o reconhecimento de pessoas e objetos que você pode ensinar ao programa.";
+"voiceOver_shareScreenHeading" = "Visualize todas as fotos";
+"voiceOver_shareScreenDetail" = "Tenha todas as fotos de qualquer aplicativo descritas, lidas e salvas, selecionando Envision na planilha de fotos.";
+"voiceOver_finalScreenHeading" = "E muito mais!";
+"voiceOver_finalScreenDetail" = "Novos recursos, melhorias e ações são adicionados com frequência ao serviço. As rodas estão sempre girando.";
+"voiceOver_Skip" = "Pular";
+"voiceOver_Login" = "Fazer Login";
+"voiceOver_TrialStart" = "Atualmente você está usando uma avaliação gratuita de 14 dias do Envision. Espero que você aproveite sua experiência e nos procure em caso de quaisquer problemas!";

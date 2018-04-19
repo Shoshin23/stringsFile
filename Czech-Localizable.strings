@@ -41,7 +41,6 @@
 "voiceOver_Blurred" = "Snímek je rozostřený. Prosím pořiďte nový.";
 
 //New
-
 "voiceOver_topEdge" = "Horní okraj";
 "voiceOver_bottomEdge" = "Spodní okraj";
 "voiceOver_leftEdge" = "Levý okraj";
@@ -79,6 +78,7 @@
 "voiceOver_account" = "Účet";
 "voiceOver_spread" = "Rozšiřte povědomí o Envision AI";
 
+"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
 "voiceOver_colorSettings" = "Colors";
 "voiceOver_voices" = "Voices";
 "voiceOver_standard30" = "Standard (30)";

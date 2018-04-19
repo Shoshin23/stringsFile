@@ -78,6 +78,7 @@
 "voiceOver_account" = "Account";
 "voiceOver_spread" = "Spread the word";
 
+"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
 "voiceOver_colorSettings" = "Colors";
 "voiceOver_voices" = "Voices";
 "voiceOver_standard30" = "Standard (30)";

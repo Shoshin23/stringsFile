@@ -78,7 +78,8 @@
 "voiceOver_account" = "Cuenta";
 "voiceOver_spread" = "Difundir la palabra";
 
-"voiceOver_colorSettings" = "Colors";
+"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
+"voiceOver_colorSettings" = "Color Detection";
 "voiceOver_voices" = "Voices";
 "voiceOver_standard30" = "Standard (30)";
 "voiceOver_Descriptive950" = "Descriptive (950)";
