@@ -37,7 +37,7 @@
 "voiceOver_customObject" = "Looks like your %@";
 "voiceOver_trainButtonMessage" = "Teach Faces and Objects";
 "voiceOver_Export" = "Export Text";
-"voiceOver_NoText" = "No Text Found.";
+"voiceOver_NoText" = "No Text Found";
 "voiceOver_Blurred" = "The photo seems blurred. Please take another one.";
 
 //New
@@ -87,8 +87,8 @@
 //Teaching strings
 
 "voiceOver_train" = "What would you like to teach?";
-"voiceOver_person" = "Teach a face.";
-"voiceOver_object" = "Teach an object.";
+"voiceOver_person" = "Teach a face";
+"voiceOver_object" = "Teach an object";
 "voiceOver_library" = "Open library";
 "voiceOver_libraryTitle" = "Library";
 "voiceOver_Deleted" = "Deleted";
@@ -97,10 +97,10 @@
 "voiceOver_Objects" = "Objects";
 "voiceOVer_noObjects" = "Looks like you have no objects saved!";
 "voiceOver_noFaces" = "Looks like you have no faces saved!";
-"voiceOver_takePhotoButton" = "Take Photo.";
+"voiceOver_takePhotoButton" = "Take Photo";
 "voiceOver_countdown" = "Add %d more images";
 "voiceOver_countdownlast" = "Add 1 more image"; //This is for the last captured image
-"voiceOver_DoneButton" = "Done taking photos.";
+"voiceOver_DoneButton" = "Done taking photos";
 "voiceOver_enter" = "Enter name";
 "voiceOver_TeachEnvision" = "Teach Envision";
 "voiceOver_Processing" = "Processing";

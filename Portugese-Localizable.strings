@@ -71,18 +71,18 @@
 
 "voiceOver_detectColorButton" = "Detectar Cor";
 "onboarding_detectColorButtonMessage" = "Aperte este botão para detectar a cor de coisas para as quais você está apontando.";
-"voiceOver_SpeechSettings" = "Narração";
+"voiceOver_SpeechSettings" = "Fala";
 "voiceOver_automaticLanguageDetection" = "Detecção automática de idioma";
 "voiceOver_help" = "Ajuda";
 "voiceOver_settigs" = "Configurações";
 "voiceOver_account" = "Conta";
 "voiceOver_spread" = "Divulgue!";
 
-"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
-"voiceOver_colorSettings" = "Color Detection";
-"voiceOver_voices" = "Voices";
-"voiceOver_standard30" = "Standard (30)";
-"voiceOver_Descriptive950" = "Descriptive (950)";
+"voiceOver_speechSettingsMessage" = "Essas configurações são apenas para vozes que não são do VoiceOver. A alteração dessas configurações não afetará a fala do VoiceOver.";
+"voiceOver_colorSettings" = "Detectar Cor";
+"voiceOver_voices" = "Vozes";
+"voiceOver_standard30" = "Norma (30)";
+"voiceOver_Descriptive950" = "Descritivo (950)";
 
 //Teaching strings
 
@@ -97,7 +97,7 @@
 "voiceOver_Objects" = "Objetos";
 "voiceOVer_noObjects" = "Parece que você ainda não tem nenhum rosto salvo";
 "voiceOver_noFaces" = "Parece que você ainda não tem nenhum objeto salvo.";
-"voiceOver_takePhotoButton" = "Tirar Foto.";
+"voiceOver_takePhotoButton" = "Tirar Foto";
 "voiceOver_countdown" = "Adicionar mais %d imagens";
 "voiceOver_countdownlast" = "Adicionar mais uma imagem"; //This is for the last captured image
 "voiceOver_DoneButton" = "Tirar fotos finalizado";
@@ -135,6 +135,7 @@
 "voiceOver_SixMonths" = "seis meses";
 "voiceOver_OneYear" = "um ano";
 "voiceOver_SubscriptionConfirmation" = "Consiga acesso ilimitado a todos os componentes de Envision por %@, à partir de hoje, comprando este pacote de assinatura por %@ no iTunes. As assinaturas são atualizadas automaticamente, mas você pode cancelá-la quando quiser. Leia os Termos de Uso e Política de Privacidade.";
+"voiceOver_UnlimitedSubscription" = "Assinatura Ilimitada";
 "voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
 
 //Walkthrough Strings

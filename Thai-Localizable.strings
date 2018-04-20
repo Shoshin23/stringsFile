@@ -63,20 +63,20 @@
 "voiceOver_enterEmail" = "ป้อนอีเมลล์";
 "voiceOver_enterPassword" = "กรอกรหัสผ่าน";
 "voiceOver_yes" = "ใช่";
-"voiceOver_magnifier" = "Magnifier";
-"voiceOver_invertColors" = "Invert Colors";
-"voiceOver_shareWithFriends" = "Share with Friends";
-"voiceOver_writeReview" = "Write a review on AppStore";
-"voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
+"voiceOver_magnifier" = "ตัวขยาย";
+"voiceOver_invertColors" = "สลับสีพื้นหลัง";
+"voiceOver_shareWithFriends" = "แชร์ให้กับเพื่อนๆของคุณ";
+"voiceOver_writeReview" = "แสดงความคิดเห็นเกี่ยวกับการใช้งานของคุณที่ AppStore";
+"voiceOver_shareWithFriendsText" = "เฮ, นี่เป็น app  มีชื่อว่า Envision AI ที่มีคุณสมบัติการอ่านเอกสาร, ประมวนผลรูปภาพ บอกวัตถุสิ่งของและความสามารถอื่นๆอีกมากมาย!";
 
-"voiceOver_detectColorButton" = "Detect Colors";
-"onboarding_detectColorButtonMessage" = "Tap this button to detect colours.";
-"voiceOver_SpeechSettings" = "Speech";
-"voiceOver_automaticLanguageDetection" = "Automatic Language Detection";
-"voiceOver_help" = "Help";
-"voiceOver_settigs" = "Settings";
-"voiceOver_account" = "Account";
-"voiceOver_spread" = "Spread the word";
+"voiceOver_detectColorButton" = "อ่านสี";
+"onboarding_detectColorButtonMessage" = "แถบ ปุ่มนี้เพื่ออ่านสี";
+"voiceOver_SpeechSettings" = "ตั้งค่าเสียง";
+"voiceOver_automaticLanguageDetection" = "เลือกภาษาอัตโนมัติ";
+"voiceOver_help" = "ช่วยเหลือ";
+"voiceOver_settigs" = "ตั้งค่า";
+"voiceOver_account" = "บัญชี";
+"voiceOver_spread" = "ฉีกคำ";
 
 "voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
 "voiceOver_colorSettings" = "Color Detection";
@@ -91,12 +91,12 @@
 "voiceOver_object" = "สอนให้รู้จักสิ่งของ";
 "voiceOver_library" = "เปิดคลังข้อมูล";
 "voiceOver_libraryTitle" = "Library";
-"voiceOver_Deleted" = "Deleted";
-"voiceOver_Restart" = "Restart";
-"voiceOver_Faces" = "Faces";
-"voiceOver_Objects" = "Objects";
-"voiceOVer_noObjects" = "Looks like you have no objects saved!";
-"voiceOver_noFaces" = "Looks like you have no faces saved!";
+"voiceOver_Deleted" = "ลบแล้ว";
+"voiceOver_Restart" = "เริ่มระบบใหม่";
+"voiceOver_Faces" = "ใบหน้า";
+"voiceOver_Objects" = "วัตถุสิ่งของ";
+"voiceOVer_noObjects" = "ดูเหมือนว่าจะไม่พบวัตถุใดๆสำหรับการจัดเก็บนะ";
+"voiceOver_noFaces" = "ดูเหมือนว่าจะไม่พบใบหน้าสำหรับการจัดเก็บคะ";
 "voiceOver_takePhotoButton" = "ถ่ายภาพ";
 "voiceOver_countdown" = "เพิ่ม %d รูปภาพ";
 "voiceOver_countdownlast" = "เพิ่ม 1 รูปภาพ";
@@ -135,8 +135,8 @@
 "voiceOver_SixMonths" = "6 เดือน";
 "voiceOver_OneYear" = "1 ปี";
 "voiceOver_SubscriptionConfirmation" = "รับการเข้าถึงแบบไม่จำกัดทุกคุณสมบัติของ Envision เป็นเวลา %@ โดยซื้อแพคเกจการสมัครสมาชิกนี้ราคา %@ จาก iTunes ได้แล้ววันนี้ การสมัครสมาชิกจะต่ออายุแบบอัตโนมัติ คุณสามารถยกเลิกการสมัครได้ทุกเวลา ดูเงื่อนไขการใช้และนโยบายความเป็นส่วนตัว";
-"voiceOver_UnlimitedSubscription" = "Unlimited Subscription";
-"voiceOver_UnlimitedSubscriptionConfirmation" = "Get access to all of Envision’s features by purchasing this one-time payment plan for %@ from iTunes, starting today. See Terms of Use and Privacy Policy.";
+"voiceOver_UnlimitedSubscription" = "ถ่ายภาพ";
+"voiceOver_UnlimitedSubscriptionConfirmation" = "เข้าถึงการใช้งานทุกความสามารถโดยการชำระเงินเพียงครั้งเดียว ได้ที่ %@ จาก iTunes. อ่านเงื่อนไขกการใช้งานได้ที่นี่";
 
 //Walkthrough Strings
 
