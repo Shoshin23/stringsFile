@@ -63,8 +63,8 @@
 "voiceOver_enterEmail" = "Enter email address";
 "voiceOver_enterPassword" = "Enter a valid password";
 "voiceOver_yes" = "כן";
-"voiceOver_magnifier" = "Magnifier";
-"voiceOver_invertColors" = "Invert Colors";
+"voiceOver_magnifier" = "זכוכית מגדלת";
+"voiceOver_invertColors" = " ניגודיות צבעים";
 "voiceOver_shareWithFriends" = "Share with Friends";
 "voiceOver_writeReview" = "Write a review on AppStore";
 "voiceOver_shareWithFriendsText" = "Hey, check out this app called Envision AI. It's great at reading texts, recognizing images and so much more!";
@@ -78,11 +78,11 @@
 "voiceOver_account" = " חשבון";
 "voiceOver_spread" = "הפץ את השמועה";
 
-"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
-"voiceOver_colorSettings" = "Colors";
-"voiceOver_voices" = "Voices";
-"voiceOver_standard30" = "Standard (30)";
-"voiceOver_Descriptive950" = "Descriptive (950)";
+"voiceOver_speechSettingsMessage" = "הגדרה זו מיועדת לאלו שלא משתמשים ב-VoiceOver, שינוי מהירות הדיבור לא ישפיע על הגדרה זו לא ישפיע על מהירות הדיבור של VoiceOver.";
+"voiceOver_colorSettings" = "זיהוי צבע";
+"voiceOver_voices" = "קולות";
+"voiceOver_standard30" = "30 צבעים סטנדרטיים";
+"voiceOver_Descriptive950" = "950 צבעים תיאוריים";
 
 //Teaching Strings
 
