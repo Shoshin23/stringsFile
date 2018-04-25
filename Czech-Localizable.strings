@@ -78,11 +78,11 @@
 "voiceOver_account" = "Účet";
 "voiceOver_spread" = "Rozšiřte povědomí o Envision AI";
 
-"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
-"voiceOver_colorSettings" = "Colors";
-"voiceOver_voices" = "Voices";
-"voiceOver_standard30" = "Standard (30)";
-"voiceOver_Descriptive950" = "Descriptive (950)";
+"voiceOver_speechSettingsMessage" = "Tato nastavení se týkají pouze řeči mimo VoiceOver. Řeč VoiceOveru nebude ovlivněna tímto nastavením.";
+"voiceOver_colorSettings" = "Rozpoznávání barev";
+"voiceOver_voices" = "Hlasy";
+"voiceOver_standard30" = "Standardní (30 odstínů)";
+"voiceOver_Descriptive950" = "Popisné (950 odstínů)";
 
 //Teaching strings
 

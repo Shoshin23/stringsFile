@@ -78,11 +78,11 @@
 "voiceOver_account" = "บัญชี";
 "voiceOver_spread" = "ฉีกคำ";
 
-"voiceOver_speechSettingsMessage" = "These setting are only for non-VoiceOver speech. Changing these setting will not affect VoiceOver speech.";
-"voiceOver_colorSettings" = "Color Detection";
-"voiceOver_voices" = "Voices";
-"voiceOver_standard30" = "Standard (30)";
-"voiceOver_Descriptive950" = "Descriptive (950)";
+"voiceOver_speechSettingsMessage" = "การตั้งค่านี้มีผลแค่เสียงของแอปพริเคชั่นเท่านั้น จะไม่มีผลถึงเสียงของ VoiceOver";
+"voiceOver_colorSettings" = "บอกสี";
+"voiceOver_voices" = "เสียง";
+"voiceOver_standard30" = "อ่านค่าสีแบบมาตรฐาน (30 สี)";
+"voiceOver_Descriptive950" = "อ่านค่าสีแบบละเอียด (950 สี)";
 
 //Teaching strings
 
