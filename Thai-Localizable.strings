@@ -84,6 +84,19 @@
 "voiceOver_standard30" = "อ่านค่าสีแบบมาตรฐาน (30 สี)";
 "voiceOver_Descriptive950" = "อ่านค่าสีแบบละเอียด (950 สี)";
 
+"voiceOver_referral" = "ส่งคำเชิญ" ;
+"voiceOver_referralDescription" = "ผู้ใช้สามารถส่งคำเชิญให้เพื่อนๆมาใช้ Envision ได้แล้วนะ โดยการเชิญเพื่อนมาใช้ Envision, ท่านจะได้รับการใช้งานฟรีหนึ่งเดือน";
+"voiceOver_emailReferral" = "โดยท่านสามารถกรอกอีเมลของเพื่อนที่คุณได้เชิญข้างล่างนี้:";
+"voiceOver_subReferral" = "ท่านสามารถส่งข้อมูลการเชิญปัย Envision เพื่อรับการใช้งานฟรีหนึ่งเดือน โดยกรอกอีเมลของเพื่อนที่ท่านเชิญได้ที่ช่องอ้างอิงโค๊ต";
+"voiceOver_alreadyReferred" = "โอ๊ะโอ, ดูเหมือนว่าคุณจะเคยใช้โค๊ต อ้างอิงของ X ไปแล้วนะ, สามารถใช้งานได้อีก [วัน]";
+"voiceOver_redeem" = "ต่ออายุการใช้งานด้วยคำเชิญ โค๊ต";
+"voiceOver_successReferral" = "สำเร็จ! ยินดีด้วย คุณได้รับการใช้งานเพิ่มอีกหนึ่งเดือน! การใช้งานของคุณจะหมดอายุอีก [วัน]";
+"voiceOver_alertReferral" = "คำเตือน:โอ๊ะโอ! ดูเหมือนว่าอีเมลที่ท่านได้กรอกจะไม่พบในฐานข้อมูล ที่ได้ลงทะเบียลไว้กับ Envision นะ, กรุณาตรวจสอบว่าอีเมลถูกต้อง หรือแน่ใจว่าเพื่อนที่ถูกเชิญได้เข้าร่วมใช้งานกับ Envision แล้วหรือยัง;
+"voiceOver_scanBarcodeButton" = "Scan Barcode";
+"voiceOver_moreInfo" = "More Information";
+"voiceOver_productNotFound" = "Product not found.";
+"voiceOver_invalidBarcode" = "This is not a valid barcode.";
+
 //Teaching strings
 
 "voiceOver_train" = "คุณต้องการสอนอะไร";
@@ -135,7 +148,7 @@
 "voiceOver_SixMonths" = "6 เดือน";
 "voiceOver_OneYear" = "1 ปี";
 "voiceOver_SubscriptionConfirmation" = "รับการเข้าถึงแบบไม่จำกัดทุกคุณสมบัติของ Envision เป็นเวลา %@ โดยซื้อแพคเกจการสมัครสมาชิกนี้ราคา %@ จาก iTunes ได้แล้ววันนี้ การสมัครสมาชิกจะต่ออายุแบบอัตโนมัติ คุณสามารถยกเลิกการสมัครได้ทุกเวลา ดูเงื่อนไขการใช้และนโยบายความเป็นส่วนตัว";
-"voiceOver_UnlimitedSubscription" = "ถ่ายภาพ";
+"voiceOver_UnlimitedSubscription" = "ใช้งานแบบไม่มีข้อจำกัด";
 "voiceOver_UnlimitedSubscriptionConfirmation" = "เข้าถึงการใช้งานทุกความสามารถโดยการชำระเงินเพียงครั้งเดียว ได้ที่ %@ จาก iTunes. อ่านเงื่อนไขกการใช้งานได้ที่นี่";
 
 //Walkthrough Strings

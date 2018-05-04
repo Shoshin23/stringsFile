@@ -84,6 +84,19 @@
 "voiceOver_standard30" = "Standaard (30)";
 "voiceOver_Descriptive950" = "Beschrijvend (950)";
 
+"voiceOver_referral" = "Verwijzing";
+"voiceOver_referralDescription" = "Envision stelt gebruikers instaat om hun vrienden naar de dienst te verwijzen. Door gebruik te maken van een verwijzing kunnen gebruikers Envision een extra maand gratis gebruiken.";
+"voiceOver_emailReferral" = "Voer het e-mailadres in van de persoon die u heeft doorverwezen.";
+"voiceOver_subReferral" = "Verwijs Envision aan je vrienden en ze kunnen Envision één extra maand gratis gebruikendoor je e-mailadres in te vullen als verwijscode.";
+"voiceOver_alreadyReferred" = "Het lijkt erop dat je al een verwijzing van %@ deze is geldig tot %@";
+"voiceOver_redeem" = "Wissel een verwijzing in";
+"voiceOver_successReferral" = "Succes! Je hebt nu een extra maand Envision! Je verlenging verloopt op %@";
+"voiceOver_alertReferral" = "Pas op: Oeps! Het lijkt er op dat het e-mailadres dat je hebt ingevuld niet hoort bij een Envision abonnee. Kijk of het e-mailadres correct is en probeer het opnieuw. Bedankt!";
+"voiceOver_scanBarcodeButton" = "Scan Barcode";
+"voiceOver_moreInfo" = "Meer Informatie";
+"voiceOver_productNotFound" = "Product niet gevonden.";
+"voiceOver_invalidBarcode" = "Dit is geen geldige barcode.";
+
 //Teaching Strings
 
 "voiceOver_train" = "Wat zou je willen leren?";

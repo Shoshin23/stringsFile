@@ -84,6 +84,19 @@
 "voiceOver_standard30" = "30 צבעים סטנדרטיים";
 "voiceOver_Descriptive950" = "950 צבעים תיאוריים";
 
+"voiceOver_referral" = "הפניה";
+"voiceOver_referralDescription" = "Envision מאפשרת למנוייה להפנות חברים לשירות. בטענה להפניה המנויים לשירות יוכלו לפתוח חודש חינם ל-Envision.";
+"voiceOver_emailReferral" = " נא הכנס את הדוא״ל של האדם שהפנה אותך לשירות.";
+"voiceOver_subReferral" = " אנא הפנה אנשים שאתה מכיר, על ידי שייוך כתובת הדוא״ל שלך הם יכולים לפתוח את Envision לחודש חינם";
+"voiceOver_alreadyReferred" = "נראה כי כבר השתמשת בהפניה על ידי @%. היא תקפה מיום %@";
+"voiceOver_redeem" = "ממש הפניה";
+"voiceOver_successReferral" = "  הצלחה! יש לך חודש חינם נוסף לשימוש ב-Envision.";
+"voiceOver_alertReferral" = "התראה:אופס! נראה שכתובת הדוא״ל שהכנסת לא מנויה ל-Envision. נא וודא שכתובת הדוא״ל שמקושרת נכונה ";
+"voiceOver_scanBarcodeButton" = "סרוק ברקוד";
+"voiceOver_moreInfo" = "מידע נוסף";
+"voiceOver_productNotFound" = "המוצר לא נמצא";
+"voiceOver_invalidBarcode" = "הברקוד אינו חוקי.";
+
 //Teaching Strings
 
 "voiceOver_train" = "מה ברצונך ללמד";

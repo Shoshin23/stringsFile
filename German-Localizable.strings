@@ -84,6 +84,19 @@
 "voiceOver_standard30" = "Standard (30)";
 "voiceOver_Descriptive950" = "Descriptive (950)";
 
+"voiceOver_referral" = "Referral";
+"voiceOver_referralDescription" = "Envision enables subscribers to refer their friends to the service. On claiming a referral, users can unlock one month free service of Envision.";
+"voiceOver_emailReferral" = "Kindly enter the email address of the person who has referred you below:";
+"voiceOver_subReferral" = "Please refer Envision to people you know and they can unlock a free-month of Envision by entering your associated email address as the referral code.";
+"voiceOver_alreadyReferred" = "Seems like you have already used a referral from %@. It is valid until %@";
+"voiceOver_redeem" = "Redeem Referral";
+"voiceOver_successReferral" = "Success! You now have an additional month of Envision! Your extension expires on %@";
+"voiceOver_alertReferral" = "Alert: Oops! Looks like the email you have entered is not associated with an Envision subscription. Please check if the email address is correct and belongs to a subscriber. Thanks!";
+"voiceOver_scanBarcodeButton" = "Scan Barcode";
+"voiceOver_moreInfo" = "More Information";
+"voiceOver_productNotFound" = "Product not found.";
+"voiceOver_invalidBarcode" = "This is not a valid barcode.";
+
 //Teaching strings
 
 "voiceOver_train" = "Was möchtest Du trainieren?";
